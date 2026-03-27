@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;436
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-37;Clarifier les priorités à la sortie de la rue Réclusane;Cadre de vie;40000.0;6 - Saint-Cyprien;9
-31;Aire de jeux pour enfants ;Cadre de vie;100000.0;6 - Saint-Cyprien;9
-36;Facilliter la traversée des allées Charles de Fitte;Éco-mobilité;80000.0;6 - Saint-Cyprien;52
-35;Installation des toilettes publiques entre la gare d'Arènes et le Carrefour Lombez;Cadre de vie;14000.0;6 - Saint-Cyprien;19
-32;Garder arbres, espaces aérés et terrains de foot/baskets autour du dôme de La Grave (plantations d’arbres fruitiers à proximité du terrain de jeux);Nature en ville;192000.0;6 - Saint-Cyprien;100
-38;Végétalisation massive de la place Roguet/ St Cyprien;Nature en ville;110000.0;6 - Saint-Cyprien;161
-39;Des arbres pour la rue de la République (végétaliser la place Olivier);Nature en ville;150000.0;6 - Saint-Cyprien;135
-40;Remplacer des places de stationnement par des arbres;Nature en ville;100000.0;6 - Saint-Cyprien;76
-33;La rue Saint Nicolas,  artistique et ...fleurie?;Nature en ville;90000.0;6 - Saint-Cyprien;11
-34;Réaménagement piéton, vélos et végétalisation allées Charles de Fitte;Éco-mobilité;175000.0;6 - Saint-Cyprien;206
+project_id;cost;votes;name;category;district
+37;40000.0;9;Clarifier les priorités à la sortie de la rue Réclusane;Cadre de vie;6 - Saint-Cyprien
+31;100000.0;9;Aire de jeux pour enfants;Cadre de vie;6 - Saint-Cyprien
+36;80000.0;52;Facilliter la traversée des allées Charles de Fitte;Éco-mobilité;6 - Saint-Cyprien
+35;14000.0;19;Installation des toilettes publiques entre la gare d'Arènes et le Carrefour Lombez;Cadre de vie;6 - Saint-Cyprien
+32;192000.0;100;Garder arbres, espaces aérés et terrains de foot/baskets autour du dôme de La Grave (plantations d’arbres fruitiers à proximité du terrain de jeux);Nature en ville;6 - Saint-Cyprien
+38;110000.0;161;Végétalisation massive de la place Roguet/ St Cyprien;Nature en ville;6 - Saint-Cyprien
+39;150000.0;135;Des arbres pour la rue de la République (végétaliser la place Olivier);Nature en ville;6 - Saint-Cyprien
+40;100000.0;76;Remplacer des places de stationnement par des arbres;Nature en ville;6 - Saint-Cyprien
+33;90000.0;11;La rue Saint Nicolas,  artistique et ...fleurie?;Nature en ville;6 - Saint-Cyprien
+34;175000.0;206;Réaménagement piéton, vélos et végétalisation allées Charles de Fitte;Éco-mobilité;6 - Saint-Cyprien
 VOTES
 voter_id;vote
 6-12;35,36,34

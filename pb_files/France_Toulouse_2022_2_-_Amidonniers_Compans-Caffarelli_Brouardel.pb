@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;404
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-198;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;10700.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;15
-19;Éclairage nocturne à détecteur de mouvements ;Énergie;200000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;189
-16;Poursuivre la piste cyclable allée de Brienne jusqu’à l’avenue Paul-Séjourné;Éco-mobilité;200000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;71
-20;Rendre glamour les bornes de recyclage;Cadre de vie;10000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;11
-22;Sécuriser les piétons;Éco-mobilité;150000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;22
-18;Contrôle limitation de vitesse allée de Brienne;Éco-mobilité;50000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;22
-15;Amélioration de l'aire de jeux du square Mady de la Giraudière;Cadre de vie;60000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;17
-21; Radars de bruit et de vitesse sur l'allée de Barcelone/Ponts Jumeaux ;Cadre de vie;30000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;50
-17;Lutter contre les moustiques avec les chauves-souris;Nature en ville;1200.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;155
-14;Veille sur les dépôts sauvages ;Cadre de vie;35000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;30
+project_id;cost;votes;name;category;district
+198;10700.0;15;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+19;200000.0;189;Éclairage nocturne à détecteur de mouvements;Énergie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+16;200000.0;71;Poursuivre la piste cyclable allée de Brienne jusqu’à l’avenue Paul-Séjourné;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+20;10000.0;11;Rendre glamour les bornes de recyclage;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+22;150000.0;22;Sécuriser les piétons;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+18;50000.0;22;Contrôle limitation de vitesse allée de Brienne;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+15;60000.0;17;Amélioration de l'aire de jeux du square Mady de la Giraudière;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+21;30000.0;50;Radars de bruit et de vitesse sur l'allée de Barcelone/Ponts Jumeaux;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+17;1200.0;155;Lutter contre les moustiques avec les chauves-souris;Nature en ville;2 - Amidonniers / Compans-Caffarelli / Brouardel
+14;35000.0;30;Veille sur les dépôts sauvages;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
 VOTES
 voter_id;vote
 2-22;19

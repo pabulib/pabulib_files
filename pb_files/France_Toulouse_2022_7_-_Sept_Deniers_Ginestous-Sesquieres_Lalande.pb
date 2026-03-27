@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;154
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-88;Remplacer les feux tricolores actuels de la Route de Blagnac par des feux récompenses et ajouter de nouveaux feux à tous les passages piétons;Cadre de vie;55000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;9
-86;Zone verte des Ponts-Jumeaux : équipements sportifs;Cadre de vie;150000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;59
-81;Aménager le Parc des Sept-Deniers avec un parcours sportif écologique;Nature en ville;25000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;25
-83;Aire sportive et ludique intergénérationnelle autour d'un pumptrack;Cadre de vie;150000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;26
-87;Bataille Militaire aux 7 deniers en 1814 (création d’une statue de soldat);Cadre de vie;60000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;52
-89;Connaître et mieux préserver les animaux du quartier des Sept-Deniers;Nature en ville;5300.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;9
-85;Construire et installer un four à pain collectif dans le quartier des 7 Deniers;Cadre de vie;72000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;7
-82;Prévoir des pistes cyclables sécurisées pour relier le quartier des Sept-Deniers à Ginestous;Éco-mobilité;200000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;36
-84;Composte partagé 'lalala'lande;Déchets et Recyclage;7000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;61
-90;Installer un filtre à pollution Place Job ;Nature en ville;80000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;24
+project_id;cost;votes;name;category;district
+88;55000.0;9;Remplacer les feux tricolores actuels de la Route de Blagnac par des feux récompenses et ajouter de nouveaux feux à tous les passages piétons;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+86;150000.0;59;Zone verte des Ponts-Jumeaux : équipements sportifs;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+81;25000.0;25;Aménager le Parc des Sept-Deniers avec un parcours sportif écologique;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+83;150000.0;26;Aire sportive et ludique intergénérationnelle autour d'un pumptrack;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+87;60000.0;52;Bataille Militaire aux 7 deniers en 1814 (création d’une statue de soldat);Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+89;5300.0;9;Connaître et mieux préserver les animaux du quartier des Sept-Deniers;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+85;72000.0;7;Construire et installer un four à pain collectif dans le quartier des 7 Deniers;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+82;200000.0;36;Prévoir des pistes cyclables sécurisées pour relier le quartier des Sept-Deniers à Ginestous;Éco-mobilité;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+84;7000.0;61;Composte partagé 'lalala'lande;Déchets et Recyclage;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+90;80000.0;24;Installer un filtre à pollution Place Job;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
 VOTES
 voter_id;vote
 7-13;81,88

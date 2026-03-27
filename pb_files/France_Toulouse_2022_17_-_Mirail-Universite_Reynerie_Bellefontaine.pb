@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;93
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-180;Pépinière-jardin du quartier Reynerie-Bellefontaine;Nature en ville;75000.0;17 - Mirail-Université / Reynerie / Bellefontaine;20
-183;Le WorksParc, un complexe sportif en plein air, au croisement entre plusieurs disciplines ( Street Worksout, Chase Tag, Parkour);Cadre de vie;200000.0;17 - Mirail-Université / Reynerie / Bellefontaine;21
-178;Installation de bornes de recharge électrique dans le parc HLM/ZFU;Éco-mobilité;10500.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-182;Aménagement de cours "OASIS" à l'école élémentaire Victor Hugo;Nature en ville;200000.0;17 - Mirail-Université / Reynerie / Bellefontaine;33
-181;Aménagement voie accès Ecole maternelle Victor Hugo;Cadre de vie;30000.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-185;Un city stade pour les enfants de moins de 11ans;Cadre de vie;65000.0;17 - Mirail-Université / Reynerie / Bellefontaine;6
-186;De l'art sur les murs aveugles;Cadre de vie;100000.0;17 - Mirail-Université / Reynerie / Bellefontaine;10
-187;Espace de jeux Place Niki de St-Phalle;Cadre de vie;39000.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-184;Guinguette Petit Bois;Cadre de vie;10000.0;17 - Mirail-Université / Reynerie / Bellefontaine;4
-179;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;80000.0;17 - Mirail-Université / Reynerie / Bellefontaine;5
+project_id;cost;votes;name;category;district
+180;75000.0;20;Pépinière-jardin du quartier Reynerie-Bellefontaine;Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
+183;200000.0;21;Le WorksParc, un complexe sportif en plein air, au croisement entre plusieurs disciplines ( Street Worksout, Chase Tag, Parkour);Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+178;10500.0;2;Installation de bornes de recharge électrique dans le parc HLM/ZFU;Éco-mobilité;17 - Mirail-Université / Reynerie / Bellefontaine
+182;200000.0;33;"Aménagement de cours ""OASIS"" à l'école élémentaire Victor Hugo";Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
+181;30000.0;2;Aménagement voie accès Ecole maternelle Victor Hugo;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+185;65000.0;6;Un city stade pour les enfants de moins de 11ans;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+186;100000.0;10;De l'art sur les murs aveugles;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+187;39000.0;2;Espace de jeux Place Niki de St-Phalle;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+184;10000.0;4;Guinguette Petit Bois;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+179;80000.0;5;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
 VOTES
 voter_id;vote
 17-37;185

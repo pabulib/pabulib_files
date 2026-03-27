@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;423
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-157;Plantation d'arbres et diversification de la palette végétale;Nature en ville;70000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;128
-148;Plan du voisinage aux sorties de métro;Cadre de vie;6000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;24
-153;Réduction de la pollution lumineuse;Énergie;50000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;113
-150;Coup de pinceau sur le béton du quartier;Cadre de vie;50000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;56
-155;Lutter contre la pollution des mégots;Déchets et Recyclage;30000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;63
-156;Aménager le Rond-Point des Français Libres et le carrefour Demoiselles - Mistral - Frizac - Duméril - St Joseph;Nature en ville;200000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;178
-151;Aménager la place Henri Russel;Nature en ville;200000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;98
-154;Nichoirs pour des mésanges;Nature en ville;6000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;44
-152;Aire de jeux accessible à tous au jardin du Pays d'Oc;Cadre de vie;30000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;14
-149;Un jardin en mouvement le long de la voie ferrée et le rectorat;Nature en ville;11000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;50
+project_id;cost;votes;name;category;district
+157;70000.0;128;Plantation d'arbres et diversification de la palette végétale;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+148;6000.0;24;Plan du voisinage aux sorties de métro;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+153;50000.0;113;Réduction de la pollution lumineuse;Énergie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+150;50000.0;56;Coup de pinceau sur le béton du quartier;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+155;30000.0;63;Lutter contre la pollution des mégots;Déchets et Recyclage;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+156;200000.0;178;Aménager le Rond-Point des Français Libres et le carrefour Demoiselles - Mistral - Frizac - Duméril - St Joseph;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+151;200000.0;98;Aménager la place Henri Russel;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+154;6000.0;44;Nichoirs pour des mésanges;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+152;30000.0;14;Aire de jeux accessible à tous au jardin du Pays d'Oc;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+149;11000.0;50;Un jardin en mouvement le long de la voie ferrée et le rectorat;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
 VOTES
 voter_id;vote
 5-18;156,151

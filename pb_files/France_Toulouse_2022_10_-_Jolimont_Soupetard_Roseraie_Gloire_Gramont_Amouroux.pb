@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;393
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-116;Création d’abris pour la faune;Nature en ville;4000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;38
-110;Rénovation du Parc des Argoulets 🌳🌱🌺🌻;Nature en ville;200000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;134
-111;Des arbres dans la cour d'école de Soupetard;Nature en ville;30000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;52
-117;Propositions de lieux pour des composts;Déchets et Recyclage;14000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;34
-112;Rond point allée Brunaud quartier Roseraie;Cadre de vie;8000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;8
-115;Un complexe sportif en zone urbaine;Cadre de vie;130000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;205
-109;Création d'une Venelle  quartier Soupetard Roseraie- accès - entre Rue Louis Plana et  quartier Guillaumet;Cadre de vie;100000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;36
-114;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;6000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;42
-118;Aménagement pour La Plaine;Cadre de vie;60000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;125
-113;Personne en situation de handicap;Cadre de vie;200000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;40
+project_id;cost;votes;name;category;district
+116;4000.0;38;Création d’abris pour la faune;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+110;200000.0;134;Rénovation du Parc des Argoulets 🌳🌱🌺🌻;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+111;30000.0;52;Des arbres dans la cour d'école de Soupetard;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+117;14000.0;34;Propositions de lieux pour des composts;Déchets et Recyclage;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+112;8000.0;8;Rond point allée Brunaud quartier Roseraie;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+115;130000.0;205;Un complexe sportif en zone urbaine;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+109;100000.0;36;Création d'une Venelle  quartier Soupetard Roseraie- accès - entre Rue Louis Plana et  quartier Guillaumet;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+114;6000.0;42;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+118;60000.0;125;Aménagement pour La Plaine;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+113;200000.0;40;Personne en situation de handicap;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
 VOTES
 voter_id;vote
 10-9;115

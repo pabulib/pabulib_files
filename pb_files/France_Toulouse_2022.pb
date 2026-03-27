@@ -7,213 +7,214 @@ instance;2022
 num_projects;199
 num_votes;4532
 budget;8000000
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-116;Création d’abris pour la faune;Nature en ville;4000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;38
-180;Pépinière-jardin du quartier Reynerie-Bellefontaine;Nature en ville;75000.0;17 - Mirail-Université / Reynerie / Bellefontaine;20
-124;Toilettes publiques Bois de Limayrac;Cadre de vie;60000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;23
-13;Esthétique des conteneurs de recyclage;Cadre de vie;4000.0;1 - Capitole / Arnaud Bernard / Carmes;14
-37;Clarifier les priorités à la sortie de la rue Réclusane;Cadre de vie;40000.0;6 - Saint-Cyprien;9
-163;Réouverture des espaces verts des bords de Garonne aux Toulousains;Nature en ville;200000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;164
-160;Eclairage passage piéton ;Énergie;20000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;8
-71;Planter des arbres et jardins partagés partout où c'est possible!;Nature en ville;20000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;243
-42;Compostage commun/jardin participatif - Croix de PIerre;Déchets et Recyclage;7000.0;15 - Croix de Pierre / Route d'Espagne;30
-88;Remplacer les feux tricolores actuels de la Route de Blagnac par des feux récompenses et ajouter de nouveaux feux à tous les passages piétons;Cadre de vie;55000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;9
-31;Aire de jeux pour enfants ;Cadre de vie;100000.0;6 - Saint-Cyprien;9
-104;Piste cyclable chemin Caillibens ;Éco-mobilité;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;9
-51;Végétaliser nos quartiers (projet étudié autour de la place Émile Male et sur la route de Saint-Simon);Nature en ville;130000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;39
-177;Terrain couvert au niveau du boulodrome;Cadre de vie;200000.0;18 - Lardenne / Pradettes / Basso-Cambo;189
-36;Facilliter la traversée des allées Charles de Fitte;Éco-mobilité;80000.0;6 - Saint-Cyprien;52
-157;Plantation d'arbres et diversification de la palette végétale;Nature en ville;70000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;128
-107;Piste cyclabe chemin Lapujade partie manquante;Éco-mobilité;40000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;30
-94;Installation de pièges à moustiques à Croix Daurade;Nature en ville;1200.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;49
-174;Redonnons de la couleur aux espaces verts du chemin de la Fronde;Nature en ville;45000.0;18 - Lardenne / Pradettes / Basso-Cambo;107
-172;Amélioration pistes cyclables;Éco-mobilité;100000.0;18 - Lardenne / Pradettes / Basso-Cambo;88
-148;Plan du voisinage aux sorties de métro;Cadre de vie;6000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;24
-125;Planter des arbres entre la rocade et la voie verte de l'Hers;Nature en ville;199500.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;94
-198;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;10700.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;15
-97;Création d'un terrain de cécifoot (foot pour non-voyants à Borderouge);Cadre de vie;150000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;16
-53;Végétalisation d'ombrage rue Jean Mermoz;Nature en ville;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;12
-35;Installation des toilettes publiques entre la gare d'Arènes et le Carrefour Lombez;Cadre de vie;14000.0;6 - Saint-Cyprien;19
-134;Création d une piste cyclable avenue de la Marcaissonne;Éco-mobilité;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;52
-128;Installation de ruches urbaines;Nature en ville;3000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;87
-197;Installer une «tour-nichoir à hirondelles» dans une zone verte du cœur de quartier Lafourguette;Nature en ville;10000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;13
-19;Éclairage nocturne à détecteur de mouvements ;Énergie;200000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;189
-144;Plantations d’arbres fruitiers sur les quartiers de Rangueil, Sauzelong et Jules Julien;Nature en ville;50000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;116
-16;Poursuivre la piste cyclable allée de Brienne jusqu’à l’avenue Paul-Séjourné;Éco-mobilité;200000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;71
-130;Aménagement parc rue du Canigou;Cadre de vie;150000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;11
-203;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;6000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;75
-25;Végétaliser la rue Matabiau;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;95
-110;Rénovation du Parc des Argoulets 🌳🌱🌺🌻;Nature en ville;200000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;134
-70;Toilettes publiques au Jardin du Barry;Cadre de vie;60000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;27
-44;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;11200.0;15 - Croix de Pierre / Route d'Espagne;125
-183;Le WorksParc, un complexe sportif en plein air, au croisement entre plusieurs disciplines ( Street Worksout, Chase Tag, Parkour);Cadre de vie;200000.0;17 - Mirail-Université / Reynerie / Bellefontaine;21
-95;Végétalisation des murs extérieurs de l'école du Grand Selve;Nature en ville;30000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;10
-106;Piste cyclable et sens unique rue de Périole ;Éco-mobilité;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;67
-173;Mise en place d'un parcours santé et d'aménagements parc de la Mounède;Cadre de vie;80000.0;18 - Lardenne / Pradettes / Basso-Cambo;80
-111;Des arbres dans la cour d'école de Soupetard;Nature en ville;30000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;52
-117;Propositions de lieux pour des composts;Déchets et Recyclage;14000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;34
-142;Voie verte pour aller à Pech David;Éco-mobilité;200000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;93
-86;Zone verte des Ponts-Jumeaux : équipements sportifs;Cadre de vie;150000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;59
-161;Ajout d'Arbres quartier des Arènes Romaines;Nature en ville;70000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;19
-135;Restructuration "verte" de la place Roger Arnaud ;Nature en ville;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;112
-63;Végétaliser Avenues Biarritz & Casselardit ;Nature en ville;150000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;46
-153;Réduction de la pollution lumineuse;Énergie;50000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;113
-81;Aménager le Parc des Sept-Deniers avec un parcours sportif écologique;Nature en ville;25000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;25
-137; Installation d’un parcours de santé au quartier Montaudran vers la Halle de la Machine;Cadre de vie;150000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;76
-178;Installation de bornes de recharge électrique dans le parc HLM/ZFU;Éco-mobilité;10500.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-58;Une piste cyclable pour une meilleure continuité rue Henri Desbals;Éco-mobilité;45000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;66
-182;Aménagement de cours "OASIS" à l'école élémentaire Victor Hugo;Nature en ville;200000.0;17 - Mirail-Université / Reynerie / Bellefontaine;33
-47;Créer une forêt urbaine sur les friches de l’ancien Darty;Nature en ville;15000.0;15 - Croix de Pierre / Route d'Espagne;47
-65;Végétalisation rond point avenue de Lombez, boulevard Gabriel Koenings et environs;Nature en ville;200000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;37
-131;Le développement de l'auto partage;Éco-mobilité;4500.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;35
-99;L'ornemental fruitier;Nature en ville;1500.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;29
-181;Aménagement voie accès Ecole maternelle Victor Hugo;Cadre de vie;30000.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-112;Rond point allée Brunaud quartier Roseraie;Cadre de vie;8000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;8
-201;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;10000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;34
-159;Aménagement d'une halle place Bertier;Consommation responsable;170000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;25
-138;Mettre en sens unique et zone 30 l'avenue de Rangueil;Cadre de vie;40000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;20
-168;Ralentisseurs chemin du Touch;Éco-mobilité;60000.0;18 - Lardenne / Pradettes / Basso-Cambo;3
-195;Déployer des équipements préventifs pour démoustiquer le quartier;Nature en ville;5700.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;85
-165;De l'art sur les murs aveugles;Cadre de vie;100000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;17
-185;Un city stade pour les enfants de moins de 11ans;Cadre de vie;65000.0;17 - Mirail-Université / Reynerie / Bellefontaine;6
-115;Un complexe sportif en zone urbaine;Cadre de vie;130000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;205
-74;Jardin pédagogique;Nature en ville;10000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;29
-100;Kiosque au Jardin Michelet;Cadre de vie;10000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;46
-8;Végétaliser les pieds d'arbres en ville;Nature en ville;50000.0;1 - Capitole / Arnaud Bernard / Carmes;49
-30;Apaisement du Boulevard Riquet;Éco-mobilité;75000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;64
-32;Garder arbres, espaces aérés et terrains de foot/baskets autour du dôme de La Grave (plantations d’arbres fruitiers à proximité du terrain de jeux);Nature en ville;192000.0;6 - Saint-Cyprien;100
-59;Des jeux pour les grands (aménagement d’une aire de jeux avec des équipements qui ne soient pas uniquement dédiés aux enfants);Cadre de vie;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;7
-54;Aménagement du parc Fontaine Lestang (Les Biscottes);Cadre de vie;44000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;31
-132;Lutte anti-moustiques;Nature en ville;7500.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;258
-141;Pièges à moustiques tigres;Nature en ville;1200.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;91
-20;Rendre glamour les bornes de recyclage;Cadre de vie;10000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;11
-22;Sécuriser les piétons;Éco-mobilité;150000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;22
-170;Sécuriser le passage du pont de la Cépière pour les cyclistes;Éco-mobilité;200000.0;18 - Lardenne / Pradettes / Basso-Cambo;64
-66;Arbre fruitier dans les parcs;Nature en ville;25000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;35
-38;Végétalisation massive de la place Roguet/ St Cyprien;Nature en ville;110000.0;6 - Saint-Cyprien;161
-109;Création d'une Venelle  quartier Soupetard Roseraie- accès - entre Rue Louis Plana et  quartier Guillaumet;Cadre de vie;100000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;36
-196;Arbres fruitiers ;Consommation responsable;40000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;36
-166;Un Parcours Santé au bord du Touch;Cadre de vie;35000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;36
-202;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;80000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;21
-41;Végétaliser Croix de Pierre (végétalisation de l'avenue de Muret);Nature en ville;200000.0;15 - Croix de Pierre / Route d'Espagne;79
-77;Faire de la Place Amat Massot ... une place ECO-CITOYENNE conviviale !;Nature en ville;200000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;145
-114;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;6000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;42
-18;Contrôle limitation de vitesse allée de Brienne;Éco-mobilité;50000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;22
-186;De l'art sur les murs aveugles;Cadre de vie;100000.0;17 - Mirail-Université / Reynerie / Bellefontaine;10
-15;Amélioration de l'aire de jeux du square Mady de la Giraudière;Cadre de vie;60000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;17
-129;Zone de Street Workout - Parc de la boisseraie;Cadre de vie;20000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;31
-171;Installation arceaux vélo à  Lardenne;Éco-mobilité;15000.0;18 - Lardenne / Pradettes / Basso-Cambo;8
-93;Réduire la pollution sonore;Cadre de vie;35000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;33
-48;Circuit sportif autour de la Garonne;Cadre de vie;35000.0;15 - Croix de Pierre / Route d'Espagne;32
-23;Améliorations possibles Quartier Belfort / Denfert Rochereau;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;50
-146;Poser des ralentisseurs avenue Albert Bedouce;Cadre de vie;30000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;21
-83;Aire sportive et ludique intergénérationnelle autour d'un pumptrack;Cadre de vie;150000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;26
-6;Planter des arbres et plantes comestibles;Nature en ville;3000.0;1 - Capitole / Arnaud Bernard / Carmes;61
-164;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;20000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;17
-56;Un verger pour les enfants du bitume (plantation d’arbres fruitiers dans le quartier );Nature en ville;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;64
-73;Vélo-rue aux Minimes;Éco-mobilité;30000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;40
-150;Coup de pinceau sur le béton du quartier;Cadre de vie;50000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;56
-155;Lutter contre la pollution des mégots;Déchets et Recyclage;30000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;63
-43;Piste cyclable à double sens route d'Espagne;Éco-mobilité;60000.0;15 - Croix de Pierre / Route d'Espagne;52
-46;Paniers de basket pour petits;Cadre de vie;15000.0;15 - Croix de Pierre / Route d'Espagne;4
-175;Installation de tables de jeux place des Pradettes;Cadre de vie;12000.0;18 - Lardenne / Pradettes / Basso-Cambo;14
-29;Piste vélos terrifique sur le boulevard Matabiau;Éco-mobilité;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;83
-5;Végétalisation de la place du Capitole;Nature en ville;200000.0;1 - Capitole / Arnaud Bernard / Carmes;358
-39;Des arbres pour la rue de la République (végétaliser la place Olivier);Nature en ville;150000.0;6 - Saint-Cyprien;135
-105;Insectes et oiseaux dans la ville;Nature en ville;5320.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;48
-136;Piste cyclable avenue Saint-Exupéry;Éco-mobilité;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;492
-67;Une structure de jeux au jardin du Barry;Cadre de vie;150000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;48
-188;City Stade quartier Guilhermy;Cadre de vie;40000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;26
-87;Bataille Militaire aux 7 deniers en 1814 (création d’une statue de soldat);Cadre de vie;60000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;52
-21; Radars de bruit et de vitesse sur l'allée de Barcelone/Ponts Jumeaux ;Cadre de vie;30000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;50
-17;Lutter contre les moustiques avec les chauves-souris;Nature en ville;1200.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;155
-11;Stations de gonflage pour vélo sur les trajets les plus fréquentés;Éco-mobilité;9000.0;1 - Capitole / Arnaud Bernard / Carmes;74
-147;Aménagement du terrain vague derrière l'école de Pouvourville;Nature en ville;80000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;16
-12;Végétalisation place saint sernin rue alsace parvis de la gare;Nature en ville;200000.0;1 - Capitole / Arnaud Bernard / Carmes;105
-156;Aménager le Rond-Point des Français Libres et le carrefour Demoiselles - Mistral - Frizac - Duméril - St Joseph;Nature en ville;200000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;178
-69;Débitumer l’avenue de Lombez et l’avenue de Grande-Bretagne ;Nature en ville;115000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;130
-40;Remplacer des places de stationnement par des arbres;Nature en ville;100000.0;6 - Saint-Cyprien;76
-89;Connaître et mieux préserver les animaux du quartier des Sept-Deniers;Nature en ville;5300.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;9
-120;Jeux d'Ooo dans la ville;Cadre de vie;20000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;8
-176;Réhabilitation du parcours de maniabilité Vélo et VTT;Cadre de vie;40000.0;18 - Lardenne / Pradettes / Basso-Cambo;2
-119;Végétalisation de quartier;Nature en ville;55000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;68
-26;Arborer la rue Raymond IV;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;65
-75;Un double sens cyclable entre l'usine Airbus Saint-Eloi et le Canal du midi  (Chemin du Sang de Serp);Éco-mobilité;60000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;43
-78;Réhabiliter l’impasse des Minimes ;Cadre de vie;150000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;23
-145;Désimperméabiliser et végétaliser le carrefour Ducuing/Salade Ponsan;Nature en ville;200000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;38
-200;De l'art sur les murs aveugles;Cadre de vie;100000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;27
-122;Aire convivialité espace vert rue de l'Isére / rue de l'Invention;Cadre de vie;75000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;5
-102;Multiplier les points de source de fraicheur et de captation de CO2 dans le quartier ;Nature en ville;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;115
-72;Anti-moustiques - Distribuer des nichoirs à chauves-souris;Nature en ville;60000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;115
-76;Végétaliser le square de la Vierge Rouge;Nature en ville;100000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;58
-61;Des cendriers aux arrêts de bus / métro / tram ;Cadre de vie;16000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;11
-64;Limiter l'éclairage des équipements - Cartoucherie-Zenith;Énergie;100000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;50
-33;La rue Saint Nicolas,  artistique et ...fleurie?;Nature en ville;90000.0;6 - Saint-Cyprien;11
-151;Aménager la place Henri Russel;Nature en ville;200000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;98
-34;Réaménagement piéton, vélos et végétalisation allées Charles de Fitte;Éco-mobilité;175000.0;6 - Saint-Cyprien;206
-91;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;60000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;111
-192;Végétalisation de la ZA Thibaud;Nature en ville;60000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;67
-9;Pénaliser les motards bruyants;Cadre de vie;30000.0;1 - Capitole / Arnaud Bernard / Carmes;174
-123;Zone de Street Workout - Jardin Pierre Larousse;Cadre de vie;20000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;6
-10;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;10000.0;1 - Capitole / Arnaud Bernard / Carmes;31
-127;Un rucher en ville;Nature en ville;3000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;33
-101;Végétaliser les abords des écoles Marengo-Périole;Nature en ville;160000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;20
-7;Faire des voies vélos et piétons dédiées et bien délimitées;Éco-mobilité;150000.0;1 - Capitole / Arnaud Bernard / Carmes;467
-167;Terrain Multi Activités à proximité du Touch;Cadre de vie;150000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;49
-108;Installation de composteurs dans les écoles de la ville;Déchets et Recyclage;35000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;47
-4;Uritrottoir en plus;Cadre de vie;14000.0;1 - Capitole / Arnaud Bernard / Carmes;36
-139;Aménagement du site de l’observatoire de Pech-David;Nature en ville;95000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;101
-190;Bornes publiques de recharge électrique;Éco-mobilité;10500.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;7
-158;Plus de bancs dans les rues;Cadre de vie;10000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;13
-194;Implanter des panneaux signalétiques Lafourguette;Cadre de vie;1500.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;6
-193;Eisenhower : arbres pour pistes cyclables;Nature en ville;80000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;81
-92;Végétaliser le parking du cimetière de Croix Daurade;Nature en ville;200000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;21
-62;Aménagement allée Joséphine Baker;Éco-mobilité;200000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;39
-24;Arceau pour vélo;Éco-mobilité;35000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;19
-98;Equipements sportifs;Cadre de vie;15000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;26
-80;Installer des échiquiers au Jardin Claude Nougaro;Cadre de vie;3000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;9
-52;Végétaliser pour limiter la surchauffe estivale et confort de quartier...;Nature en ville;150000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;96
-55;La Gironde conviviale et sportive (aménagement du parc du Couserans);Cadre de vie;26000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;3
-79;Rue Negreneys : Un transport pour tous :  piste cyclable continue, sécurité pour les piétons et réduction de la vitesse ;Éco-mobilité;150000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;47
-28;Végétalisation de la rue Agathoise ;Nature en ville;150000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;16
-85;Construire et installer un four à pain collectif dans le quartier des 7 Deniers;Cadre de vie;72000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;7
-57;Des panneaux solaires sur la Maison de Quartier de Bagatelle;Énergie;68000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;31
-49;Corriger les discontinuités entre les pistes cyclables Bd Déodat de Séverac, l'arrêt de tram Croix de Pierre et le pont;Éco-mobilité;70000.0;15 - Croix de Pierre / Route d'Espagne;51
-121;Toilettes séches dans la zone verte de la Plaine;Cadre de vie;60000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;21
-118;Aménagement pour La Plaine;Cadre de vie;60000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;125
-45;Libérer les pieds des arbres avenue de Muret et route d'Espagne;Nature en ville;192000.0;15 - Croix de Pierre / Route d'Espagne;29
-27;Végétalisation et convivialité du quartier Saint-Aubin;Nature en ville;30000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;94
-154;Nichoirs pour des mésanges;Nature en ville;6000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;44
-169;Stop aux moustiques ! Passons aux pièges ! ;Nature en ville;5700.0;18 - Lardenne / Pradettes / Basso-Cambo;67
-50;Des ralentisseurs boulevard Déodat de Séverac pour plus de sécurité et de quiétude;Éco-mobilité;15000.0;15 - Croix de Pierre / Route d'Espagne;2
-103;Végétalisation/ réaménagement  du square Bartoli;Nature en ville;115000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;7
-82;Prévoir des pistes cyclables sécurisées pour relier le quartier des Sept-Deniers à Ginestous;Éco-mobilité;200000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;36
-187;Espace de jeux Place Niki de St-Phalle;Cadre de vie;39000.0;17 - Mirail-Université / Reynerie / Bellefontaine;2
-140;Faire des stationnements matérialisés avenue des coteaux ;Cadre de vie;115000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;11
-199;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;10700.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;11
-68;Une fresque au coeur du quartier Bourrassol valorisant la nature sur un lieu de vie important pour les habitants;Cadre de vie;25000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;75
-60;Du miel dans mon quartier: produisons de la douceur!;Nature en ville;10000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;43
-189;Végétalisation Place des Tibaous;Nature en ville;200000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;44
-184;Guinguette Petit Bois;Cadre de vie;10000.0;17 - Mirail-Université / Reynerie / Bellefontaine;4
-126;Aménagement berge canal du midi ;Nature en ville;170000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;103
-152;Aire de jeux accessible à tous au jardin du Pays d'Oc;Cadre de vie;30000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;14
-14;Veille sur les dépôts sauvages ;Cadre de vie;35000.0;2 - Amidonniers / Compans-Caffarelli / Brouardel;30
-191;Valorisation du tunnel de Gironis;Éco-mobilité;150000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;39
-162;Vive l'énergie solaire sur les toits des bâtiments publics !;Énergie;180000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;90
-133;Fresque murale retraçant l'histoire de Montaudran ;Cadre de vie;60000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;15
-84;Composte partagé 'lalala'lande;Déchets et Recyclage;7000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;61
-179;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;80000.0;17 - Mirail-Université / Reynerie / Bellefontaine;5
-90;Installer un filtre à pollution Place Job ;Nature en ville;80000.0;7 - Sept Deniers / Ginestous-Sesquières / Lalande;24
-149;Un jardin en mouvement le long de la voie ferrée et le rectorat;Nature en ville;11000.0;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir;50
-113;Personne en situation de handicap;Cadre de vie;200000.0;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux;40
-143;Lampadaires à détecteur de mouvement piste cyclable Sud canal;Énergie;50000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;50
+project_id;cost;votes;name;category;district
+116;4000.0;38;Création d’abris pour la faune;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+180;75000.0;20;Pépinière-jardin du quartier Reynerie-Bellefontaine;Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
+124;60000.0;23;Toilettes publiques Bois de Limayrac;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+13;4000.0;14;Esthétique des conteneurs de recyclage;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+37;40000.0;9;Clarifier les priorités à la sortie de la rue Réclusane;Cadre de vie;6 - Saint-Cyprien
+163;200000.0;164;Réouverture des espaces verts des bords de Garonne aux Toulousains;Nature en ville;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+160;20000.0;8;Eclairage passage piéton;Énergie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+71;20000.0;243;Planter des arbres et jardins partagés partout où c'est possible!;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+42;7000.0;30;Compostage commun/jardin participatif - Croix de PIerre;Déchets et Recyclage;15 - Croix de Pierre / Route d'Espagne
+88;55000.0;9;Remplacer les feux tricolores actuels de la Route de Blagnac par des feux récompenses et ajouter de nouveaux feux à tous les passages piétons;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+31;100000.0;9;Aire de jeux pour enfants;Cadre de vie;6 - Saint-Cyprien
+104;50000.0;9;Piste cyclable chemin Caillibens;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+51;130000.0;39;Végétaliser nos quartiers (projet étudié autour de la place Émile Male et sur la route de Saint-Simon);Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+177;200000.0;189;Terrain couvert au niveau du boulodrome;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+36;80000.0;52;Facilliter la traversée des allées Charles de Fitte;Éco-mobilité;6 - Saint-Cyprien
+157;70000.0;128;Plantation d'arbres et diversification de la palette végétale;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+107;40000.0;30;Piste cyclabe chemin Lapujade partie manquante;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+94;1200.0;49;Installation de pièges à moustiques à Croix Daurade;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+174;45000.0;107;Redonnons de la couleur aux espaces verts du chemin de la Fronde;Nature en ville;18 - Lardenne / Pradettes / Basso-Cambo
+172;100000.0;88;Amélioration pistes cyclables;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+148;6000.0;24;Plan du voisinage aux sorties de métro;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+125;199500.0;94;Planter des arbres entre la rocade et la voie verte de l'Hers;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+198;10700.0;15;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+97;150000.0;16;Création d'un terrain de cécifoot (foot pour non-voyants à Borderouge);Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+53;100000.0;12;Végétalisation d'ombrage rue Jean Mermoz;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+35;14000.0;19;Installation des toilettes publiques entre la gare d'Arènes et le Carrefour Lombez;Cadre de vie;6 - Saint-Cyprien
+134;200000.0;52;Création d une piste cyclable avenue de la Marcaissonne;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+128;3000.0;87;Installation de ruches urbaines;Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+197;10000.0;13;Installer une «tour-nichoir à hirondelles» dans une zone verte du cœur de quartier Lafourguette;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+19;200000.0;189;Éclairage nocturne à détecteur de mouvements;Énergie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+144;50000.0;116;Plantations d’arbres fruitiers sur les quartiers de Rangueil, Sauzelong et Jules Julien;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+16;200000.0;71;Poursuivre la piste cyclable allée de Brienne jusqu’à l’avenue Paul-Séjourné;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+130;150000.0;11;Aménagement parc rue du Canigou;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+203;6000.0;75;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+25;200000.0;95;Végétaliser la rue Matabiau;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+110;200000.0;134;Rénovation du Parc des Argoulets 🌳🌱🌺🌻;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+70;60000.0;27;Toilettes publiques au Jardin du Barry;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+44;11200.0;125;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+183;200000.0;21;Le WorksParc, un complexe sportif en plein air, au croisement entre plusieurs disciplines ( Street Worksout, Chase Tag, Parkour);Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+95;30000.0;10;Végétalisation des murs extérieurs de l'école du Grand Selve;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+106;50000.0;67;Piste cyclable et sens unique rue de Périole;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+173;80000.0;80;Mise en place d'un parcours santé et d'aménagements parc de la Mounède;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+111;30000.0;52;Des arbres dans la cour d'école de Soupetard;Nature en ville;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+117;14000.0;34;Propositions de lieux pour des composts;Déchets et Recyclage;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+142;200000.0;93;Voie verte pour aller à Pech David;Éco-mobilité;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+86;150000.0;59;Zone verte des Ponts-Jumeaux : équipements sportifs;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+161;70000.0;19;Ajout d'Arbres quartier des Arènes Romaines;Nature en ville;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+135;200000.0;112;"Restructuration ""verte"" de la place Roger Arnaud";Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+63;150000.0;46;Végétaliser Avenues Biarritz & Casselardit;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+153;50000.0;113;Réduction de la pollution lumineuse;Énergie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+81;25000.0;25;Aménager le Parc des Sept-Deniers avec un parcours sportif écologique;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+137;150000.0;76;Installation d’un parcours de santé au quartier Montaudran vers la Halle de la Machine;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+178;10500.0;2;Installation de bornes de recharge électrique dans le parc HLM/ZFU;Éco-mobilité;17 - Mirail-Université / Reynerie / Bellefontaine
+58;45000.0;66;Une piste cyclable pour une meilleure continuité rue Henri Desbals;Éco-mobilité;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+182;200000.0;33;"Aménagement de cours ""OASIS"" à l'école élémentaire Victor Hugo";Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
+47;15000.0;47;Créer une forêt urbaine sur les friches de l’ancien Darty;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+65;200000.0;37;Végétalisation rond point avenue de Lombez, boulevard Gabriel Koenings et environs;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+131;4500.0;35;Le développement de l'auto partage;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+99;1500.0;29;L'ornemental fruitier;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+181;30000.0;2;Aménagement voie accès Ecole maternelle Victor Hugo;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+112;8000.0;8;Rond point allée Brunaud quartier Roseraie;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+201;10000.0;34;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+159;170000.0;25;Aménagement d'une halle place Bertier;Consommation responsable;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+138;40000.0;20;Mettre en sens unique et zone 30 l'avenue de Rangueil;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+168;60000.0;3;Ralentisseurs chemin du Touch;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+195;5700.0;85;Déployer des équipements préventifs pour démoustiquer le quartier;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+165;100000.0;17;De l'art sur les murs aveugles;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+185;65000.0;6;Un city stade pour les enfants de moins de 11ans;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+115;130000.0;205;Un complexe sportif en zone urbaine;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+74;10000.0;29;Jardin pédagogique;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+100;10000.0;46;Kiosque au Jardin Michelet;Cadre de vie;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+8;50000.0;49;Végétaliser les pieds d'arbres en ville;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+30;75000.0;64;Apaisement du Boulevard Riquet;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+32;192000.0;100;Garder arbres, espaces aérés et terrains de foot/baskets autour du dôme de La Grave (plantations d’arbres fruitiers à proximité du terrain de jeux);Nature en ville;6 - Saint-Cyprien
+59;100000.0;7;Des jeux pour les grands (aménagement d’une aire de jeux avec des équipements qui ne soient pas uniquement dédiés aux enfants);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+54;44000.0;31;Aménagement du parc Fontaine Lestang (Les Biscottes);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+132;7500.0;258;Lutte anti-moustiques;Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+141;1200.0;91;Pièges à moustiques tigres;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+20;10000.0;11;Rendre glamour les bornes de recyclage;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+22;150000.0;22;Sécuriser les piétons;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+170;200000.0;64;Sécuriser le passage du pont de la Cépière pour les cyclistes;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+66;25000.0;35;Arbre fruitier dans les parcs;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+38;110000.0;161;Végétalisation massive de la place Roguet/ St Cyprien;Nature en ville;6 - Saint-Cyprien
+109;100000.0;36;Création d'une Venelle  quartier Soupetard Roseraie- accès - entre Rue Louis Plana et  quartier Guillaumet;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+196;40000.0;36;Arbres fruitiers;Consommation responsable;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+166;35000.0;36;Un Parcours Santé au bord du Touch;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+202;80000.0;21;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+41;200000.0;79;Végétaliser Croix de Pierre (végétalisation de l'avenue de Muret);Nature en ville;15 - Croix de Pierre / Route d'Espagne
+77;200000.0;145;Faire de la Place Amat Massot ... une place ECO-CITOYENNE conviviale !;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+114;6000.0;42;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+18;50000.0;22;Contrôle limitation de vitesse allée de Brienne;Éco-mobilité;2 - Amidonniers / Compans-Caffarelli / Brouardel
+186;100000.0;10;De l'art sur les murs aveugles;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+15;60000.0;17;Amélioration de l'aire de jeux du square Mady de la Giraudière;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+129;20000.0;31;Zone de Street Workout - Parc de la boisseraie;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+171;15000.0;8;Installation arceaux vélo à  Lardenne;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+93;35000.0;33;Réduire la pollution sonore;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+48;35000.0;32;Circuit sportif autour de la Garonne;Cadre de vie;15 - Croix de Pierre / Route d'Espagne
+23;200000.0;50;Améliorations possibles Quartier Belfort / Denfert Rochereau;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+146;30000.0;21;Poser des ralentisseurs avenue Albert Bedouce;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+83;150000.0;26;Aire sportive et ludique intergénérationnelle autour d'un pumptrack;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+6;3000.0;61;Planter des arbres et plantes comestibles;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+164;20000.0;17;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+56;100000.0;64;Un verger pour les enfants du bitume (plantation d’arbres fruitiers dans le quartier );Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+73;30000.0;40;Vélo-rue aux Minimes;Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+150;50000.0;56;Coup de pinceau sur le béton du quartier;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+155;30000.0;63;Lutter contre la pollution des mégots;Déchets et Recyclage;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+43;60000.0;52;Piste cyclable à double sens route d'Espagne;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
+46;15000.0;4;Paniers de basket pour petits;Cadre de vie;15 - Croix de Pierre / Route d'Espagne
+175;12000.0;14;Installation de tables de jeux place des Pradettes;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+29;200000.0;83;Piste vélos terrifique sur le boulevard Matabiau;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+5;200000.0;358;Végétalisation de la place du Capitole;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+39;150000.0;135;Des arbres pour la rue de la République (végétaliser la place Olivier);Nature en ville;6 - Saint-Cyprien
+105;5320.0;48;Insectes et oiseaux dans la ville;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+136;200000.0;492;Piste cyclable avenue Saint-Exupéry;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+67;150000.0;48;Une structure de jeux au jardin du Barry;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+188;40000.0;26;City Stade quartier Guilhermy;Cadre de vie;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+87;60000.0;52;Bataille Militaire aux 7 deniers en 1814 (création d’une statue de soldat);Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+21;30000.0;50;Radars de bruit et de vitesse sur l'allée de Barcelone/Ponts Jumeaux;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+17;1200.0;155;Lutter contre les moustiques avec les chauves-souris;Nature en ville;2 - Amidonniers / Compans-Caffarelli / Brouardel
+11;9000.0;74;Stations de gonflage pour vélo sur les trajets les plus fréquentés;Éco-mobilité;1 - Capitole / Arnaud Bernard / Carmes
+147;80000.0;16;Aménagement du terrain vague derrière l'école de Pouvourville;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+12;200000.0;105;Végétalisation place saint sernin rue alsace parvis de la gare;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+156;200000.0;178;Aménager le Rond-Point des Français Libres et le carrefour Demoiselles - Mistral - Frizac - Duméril - St Joseph;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+69;115000.0;130;Débitumer l’avenue de Lombez et l’avenue de Grande-Bretagne;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+40;100000.0;76;Remplacer des places de stationnement par des arbres;Nature en ville;6 - Saint-Cyprien
+89;5300.0;9;Connaître et mieux préserver les animaux du quartier des Sept-Deniers;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+120;20000.0;8;Jeux d'Ooo dans la ville;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+176;40000.0;2;Réhabilitation du parcours de maniabilité Vélo et VTT;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+119;55000.0;68;Végétalisation de quartier;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+26;200000.0;65;Arborer la rue Raymond IV;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+75;60000.0;43;Un double sens cyclable entre l'usine Airbus Saint-Eloi et le Canal du midi  (Chemin du Sang de Serp);Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+78;150000.0;23;Réhabiliter l’impasse des Minimes;Cadre de vie;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+145;200000.0;38;Désimperméabiliser et végétaliser le carrefour Ducuing/Salade Ponsan;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+200;100000.0;27;De l'art sur les murs aveugles;Cadre de vie;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+122;75000.0;5;Aire convivialité espace vert rue de l'Isére / rue de l'Invention;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+102;50000.0;115;Multiplier les points de source de fraicheur et de captation de CO2 dans le quartier;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+72;60000.0;115;Anti-moustiques - Distribuer des nichoirs à chauves-souris;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+76;100000.0;58;Végétaliser le square de la Vierge Rouge;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+61;16000.0;11;Des cendriers aux arrêts de bus / métro / tram;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+64;100000.0;50;Limiter l'éclairage des équipements - Cartoucherie-Zenith;Énergie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+33;90000.0;11;La rue Saint Nicolas,  artistique et ...fleurie?;Nature en ville;6 - Saint-Cyprien
+151;200000.0;98;Aménager la place Henri Russel;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+34;175000.0;206;Réaménagement piéton, vélos et végétalisation allées Charles de Fitte;Éco-mobilité;6 - Saint-Cyprien
+91;60000.0;111;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+192;60000.0;67;Végétalisation de la ZA Thibaud;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+9;30000.0;174;Pénaliser les motards bruyants;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+123;20000.0;6;Zone de Street Workout - Jardin Pierre Larousse;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+10;10000.0;31;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+127;3000.0;33;Un rucher en ville;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+101;160000.0;20;Végétaliser les abords des écoles Marengo-Périole;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+7;150000.0;467;Faire des voies vélos et piétons dédiées et bien délimitées;Éco-mobilité;1 - Capitole / Arnaud Bernard / Carmes
+167;150000.0;49;Terrain Multi Activités à proximité du Touch;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+108;35000.0;47;Installation de composteurs dans les écoles de la ville;Déchets et Recyclage;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+4;14000.0;36;Uritrottoir en plus;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+139;95000.0;101;Aménagement du site de l’observatoire de Pech-David;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+190;10500.0;7;Bornes publiques de recharge électrique;Éco-mobilité;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+158;10000.0;13;Plus de bancs dans les rues;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+194;1500.0;6;Implanter des panneaux signalétiques Lafourguette;Cadre de vie;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+193;80000.0;81;Eisenhower : arbres pour pistes cyclables;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+92;200000.0;21;Végétaliser le parking du cimetière de Croix Daurade;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+62;200000.0;39;Aménagement allée Joséphine Baker;Éco-mobilité;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+24;35000.0;19;Arceau pour vélo;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+98;15000.0;26;Equipements sportifs;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+80;3000.0;9;Installer des échiquiers au Jardin Claude Nougaro;Cadre de vie;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+52;150000.0;96;Végétaliser pour limiter la surchauffe estivale et confort de quartier...;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+55;26000.0;3;La Gironde conviviale et sportive (aménagement du parc du Couserans);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+79;150000.0;47;Rue Negreneys : Un transport pour tous :  piste cyclable continue, sécurité pour les piétons et réduction de la vitesse;Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+28;150000.0;16;Végétalisation de la rue Agathoise;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+85;72000.0;7;Construire et installer un four à pain collectif dans le quartier des 7 Deniers;Cadre de vie;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+57;68000.0;31;Des panneaux solaires sur la Maison de Quartier de Bagatelle;Énergie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+49;70000.0;51;Corriger les discontinuités entre les pistes cyclables Bd Déodat de Séverac, l'arrêt de tram Croix de Pierre et le pont;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
+121;60000.0;21;Toilettes séches dans la zone verte de la Plaine;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+118;60000.0;125;Aménagement pour La Plaine;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+45;192000.0;29;Libérer les pieds des arbres avenue de Muret et route d'Espagne;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+27;30000.0;94;Végétalisation et convivialité du quartier Saint-Aubin;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+154;6000.0;44;Nichoirs pour des mésanges;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+169;5700.0;67;Stop aux moustiques ! Passons aux pièges !;Nature en ville;18 - Lardenne / Pradettes / Basso-Cambo
+50;15000.0;2;Des ralentisseurs boulevard Déodat de Séverac pour plus de sécurité et de quiétude;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
+103;115000.0;7;Végétalisation/ réaménagement  du square Bartoli;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+82;200000.0;36;Prévoir des pistes cyclables sécurisées pour relier le quartier des Sept-Deniers à Ginestous;Éco-mobilité;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+187;39000.0;2;Espace de jeux Place Niki de St-Phalle;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+140;115000.0;11;Faire des stationnements matérialisés avenue des coteaux;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+199;10700.0;11;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+68;25000.0;75;Une fresque au coeur du quartier Bourrassol valorisant la nature sur un lieu de vie important pour les habitants;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+60;10000.0;43;Du miel dans mon quartier: produisons de la douceur!;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+189;200000.0;44;Végétalisation Place des Tibaous;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+184;10000.0;4;Guinguette Petit Bois;Cadre de vie;17 - Mirail-Université / Reynerie / Bellefontaine
+126;170000.0;103;Aménagement berge canal du midi;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+152;30000.0;14;Aire de jeux accessible à tous au jardin du Pays d'Oc;Cadre de vie;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+14;35000.0;30;Veille sur les dépôts sauvages;Cadre de vie;2 - Amidonniers / Compans-Caffarelli / Brouardel
+191;150000.0;39;Valorisation du tunnel de Gironis;Éco-mobilité;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+162;180000.0;90;Vive l'énergie solaire sur les toits des bâtiments publics !;Énergie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+133;60000.0;15;Fresque murale retraçant l'histoire de Montaudran;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+84;7000.0;61;Composte partagé 'lalala'lande;Déchets et Recyclage;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+179;80000.0;5;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;17 - Mirail-Université / Reynerie / Bellefontaine
+90;80000.0;24;Installer un filtre à pollution Place Job;Nature en ville;7 - Sept Deniers / Ginestous-Sesquières / Lalande
+149;11000.0;50;Un jardin en mouvement le long de la voie ferrée et le rectorat;Nature en ville;5 - Saint-Michel / Saint-Agne / Empalot / Le Busca / Ile du Ramier / Monplaisir
+113;200000.0;40;Personne en situation de handicap;Cadre de vie;10 - Jolimont / Soupetard / Roseraie / Gloire / Gramont / Amouroux
+143;50000.0;50;Lampadaires à détecteur de mouvement piste cyclable Sud canal;Énergie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
 VOTES
 voter_id;vote
 9;115

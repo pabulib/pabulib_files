@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;292
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-70;Toilettes publiques au Jardin du Barry;Cadre de vie;60000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;27
-63;Végétaliser Avenues Biarritz & Casselardit ;Nature en ville;150000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;46
-65;Végétalisation rond point avenue de Lombez, boulevard Gabriel Koenings et environs;Nature en ville;200000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;37
-66;Arbre fruitier dans les parcs;Nature en ville;25000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;35
-67;Une structure de jeux au jardin du Barry;Cadre de vie;150000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;48
-69;Débitumer l’avenue de Lombez et l’avenue de Grande-Bretagne ;Nature en ville;115000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;130
-61;Des cendriers aux arrêts de bus / métro / tram ;Cadre de vie;16000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;11
-64;Limiter l'éclairage des équipements - Cartoucherie-Zenith;Énergie;100000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;50
-62;Aménagement allée Joséphine Baker;Éco-mobilité;200000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;39
-68;Une fresque au coeur du quartier Bourrassol valorisant la nature sur un lieu de vie important pour les habitants;Cadre de vie;25000.0;19 - Casselardit / Fontaine-Bayonne / Cartoucherie;75
+project_id;cost;votes;name;category;district
+70;60000.0;27;Toilettes publiques au Jardin du Barry;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+63;150000.0;46;Végétaliser Avenues Biarritz & Casselardit;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+65;200000.0;37;Végétalisation rond point avenue de Lombez, boulevard Gabriel Koenings et environs;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+66;25000.0;35;Arbre fruitier dans les parcs;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+67;150000.0;48;Une structure de jeux au jardin du Barry;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+69;115000.0;130;Débitumer l’avenue de Lombez et l’avenue de Grande-Bretagne;Nature en ville;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+61;16000.0;11;Des cendriers aux arrêts de bus / métro / tram;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+64;100000.0;50;Limiter l'éclairage des équipements - Cartoucherie-Zenith;Énergie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+62;200000.0;39;Aménagement allée Joséphine Baker;Éco-mobilité;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
+68;25000.0;75;Une fresque au coeur du quartier Bourrassol valorisant la nature sur un lieu de vie important pour les habitants;Cadre de vie;19 - Casselardit / Fontaine-Bayonne / Cartoucherie
 VOTES
 voter_id;vote
 19-15;66,68

@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;659
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-134;Création d une piste cyclable avenue de la Marcaissonne;Éco-mobilité;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;52
-128;Installation de ruches urbaines;Nature en ville;3000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;87
-130;Aménagement parc rue du Canigou;Cadre de vie;150000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;11
-135;Restructuration "verte" de la place Roger Arnaud ;Nature en ville;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;112
-137; Installation d’un parcours de santé au quartier Montaudran vers la Halle de la Machine;Cadre de vie;150000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;76
-131;Le développement de l'auto partage;Éco-mobilité;4500.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;35
-132;Lutte anti-moustiques;Nature en ville;7500.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;258
-129;Zone de Street Workout - Parc de la boisseraie;Cadre de vie;20000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;31
-136;Piste cyclable avenue Saint-Exupéry;Éco-mobilité;200000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;492
-133;Fresque murale retraçant l'histoire de Montaudran ;Cadre de vie;60000.0;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère;15
+project_id;cost;votes;name;category;district
+134;200000.0;52;Création d une piste cyclable avenue de la Marcaissonne;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+128;3000.0;87;Installation de ruches urbaines;Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+130;150000.0;11;Aménagement parc rue du Canigou;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+135;200000.0;112;"Restructuration ""verte"" de la place Roger Arnaud";Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+137;150000.0;76;Installation d’un parcours de santé au quartier Montaudran vers la Halle de la Machine;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+131;4500.0;35;Le développement de l'auto partage;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+132;7500.0;258;Lutte anti-moustiques;Nature en ville;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+129;20000.0;31;Zone de Street Workout - Parc de la boisseraie;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+136;200000.0;492;Piste cyclable avenue Saint-Exupéry;Éco-mobilité;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
+133;60000.0;15;Fresque murale retraçant l'histoire de Montaudran;Cadre de vie;12 - Pont des Demoiselles / Ormeau / Montaudran / La Terrasse / Malepère
 VOTES
 voter_id;vote
 12-16;136,134

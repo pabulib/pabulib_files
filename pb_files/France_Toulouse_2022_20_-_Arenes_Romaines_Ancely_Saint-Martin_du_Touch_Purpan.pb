@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;286
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-163;Réouverture des espaces verts des bords de Garonne aux Toulousains;Nature en ville;200000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;164
-160;Eclairage passage piéton ;Énergie;20000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;8
-161;Ajout d'Arbres quartier des Arènes Romaines;Nature en ville;70000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;19
-159;Aménagement d'une halle place Bertier;Consommation responsable;170000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;25
-165;De l'art sur les murs aveugles;Cadre de vie;100000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;17
-166;Un Parcours Santé au bord du Touch;Cadre de vie;35000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;36
-164;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;20000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;17
-167;Terrain Multi Activités à proximité du Touch;Cadre de vie;150000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;49
-158;Plus de bancs dans les rues;Cadre de vie;10000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;13
-162;Vive l'énergie solaire sur les toits des bâtiments publics !;Énergie;180000.0;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan;90
+project_id;cost;votes;name;category;district
+163;200000.0;164;Réouverture des espaces verts des bords de Garonne aux Toulousains;Nature en ville;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+160;20000.0;8;Eclairage passage piéton;Énergie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+161;70000.0;19;Ajout d'Arbres quartier des Arènes Romaines;Nature en ville;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+159;170000.0;25;Aménagement d'une halle place Bertier;Consommation responsable;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+165;100000.0;17;De l'art sur les murs aveugles;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+166;35000.0;36;Un Parcours Santé au bord du Touch;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+164;20000.0;17;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+167;150000.0;49;Terrain Multi Activités à proximité du Touch;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+158;10000.0;13;Plus de bancs dans les rues;Cadre de vie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
+162;180000.0;90;Vive l'énergie solaire sur les toits des bâtiments publics !;Énergie;20 - Arènes Romaines / Ancely / Saint-Martin du Touch / Purpan
 VOTES
 voter_id;vote
 20-24;163

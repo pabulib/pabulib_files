@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;357
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-177;Terrain couvert au niveau du boulodrome;Cadre de vie;200000.0;18 - Lardenne / Pradettes / Basso-Cambo;189
-174;Redonnons de la couleur aux espaces verts du chemin de la Fronde;Nature en ville;45000.0;18 - Lardenne / Pradettes / Basso-Cambo;107
-172;Amélioration pistes cyclables;Éco-mobilité;100000.0;18 - Lardenne / Pradettes / Basso-Cambo;88
-173;Mise en place d'un parcours santé et d'aménagements parc de la Mounède;Cadre de vie;80000.0;18 - Lardenne / Pradettes / Basso-Cambo;80
-168;Ralentisseurs chemin du Touch;Éco-mobilité;60000.0;18 - Lardenne / Pradettes / Basso-Cambo;3
-170;Sécuriser le passage du pont de la Cépière pour les cyclistes;Éco-mobilité;200000.0;18 - Lardenne / Pradettes / Basso-Cambo;64
-171;Installation arceaux vélo à  Lardenne;Éco-mobilité;15000.0;18 - Lardenne / Pradettes / Basso-Cambo;8
-175;Installation de tables de jeux place des Pradettes;Cadre de vie;12000.0;18 - Lardenne / Pradettes / Basso-Cambo;14
-176;Réhabilitation du parcours de maniabilité Vélo et VTT;Cadre de vie;40000.0;18 - Lardenne / Pradettes / Basso-Cambo;2
-169;Stop aux moustiques ! Passons aux pièges ! ;Nature en ville;5700.0;18 - Lardenne / Pradettes / Basso-Cambo;67
+project_id;cost;votes;name;category;district
+177;200000.0;189;Terrain couvert au niveau du boulodrome;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+174;45000.0;107;Redonnons de la couleur aux espaces verts du chemin de la Fronde;Nature en ville;18 - Lardenne / Pradettes / Basso-Cambo
+172;100000.0;88;Amélioration pistes cyclables;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+173;80000.0;80;Mise en place d'un parcours santé et d'aménagements parc de la Mounède;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+168;60000.0;3;Ralentisseurs chemin du Touch;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+170;200000.0;64;Sécuriser le passage du pont de la Cépière pour les cyclistes;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+171;15000.0;8;Installation arceaux vélo à  Lardenne;Éco-mobilité;18 - Lardenne / Pradettes / Basso-Cambo
+175;12000.0;14;Installation de tables de jeux place des Pradettes;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+176;40000.0;2;Réhabilitation du parcours de maniabilité Vélo et VTT;Cadre de vie;18 - Lardenne / Pradettes / Basso-Cambo
+169;5700.0;67;Stop aux moustiques ! Passons aux pièges !;Nature en ville;18 - Lardenne / Pradettes / Basso-Cambo
 VOTES
 voter_id;vote
 18-37;173

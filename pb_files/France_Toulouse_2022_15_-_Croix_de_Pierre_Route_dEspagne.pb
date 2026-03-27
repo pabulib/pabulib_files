@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;274
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-42;Compostage commun/jardin participatif - Croix de PIerre;Déchets et Recyclage;7000.0;15 - Croix de Pierre / Route d'Espagne;30
-44;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;11200.0;15 - Croix de Pierre / Route d'Espagne;125
-47;Créer une forêt urbaine sur les friches de l’ancien Darty;Nature en ville;15000.0;15 - Croix de Pierre / Route d'Espagne;47
-41;Végétaliser Croix de Pierre (végétalisation de l'avenue de Muret);Nature en ville;200000.0;15 - Croix de Pierre / Route d'Espagne;79
-48;Circuit sportif autour de la Garonne;Cadre de vie;35000.0;15 - Croix de Pierre / Route d'Espagne;32
-43;Piste cyclable à double sens route d'Espagne;Éco-mobilité;60000.0;15 - Croix de Pierre / Route d'Espagne;52
-46;Paniers de basket pour petits;Cadre de vie;15000.0;15 - Croix de Pierre / Route d'Espagne;4
-49;Corriger les discontinuités entre les pistes cyclables Bd Déodat de Séverac, l'arrêt de tram Croix de Pierre et le pont;Éco-mobilité;70000.0;15 - Croix de Pierre / Route d'Espagne;51
-45;Libérer les pieds des arbres avenue de Muret et route d'Espagne;Nature en ville;192000.0;15 - Croix de Pierre / Route d'Espagne;29
-50;Des ralentisseurs boulevard Déodat de Séverac pour plus de sécurité et de quiétude;Éco-mobilité;15000.0;15 - Croix de Pierre / Route d'Espagne;2
+project_id;cost;votes;name;category;district
+42;7000.0;30;Compostage commun/jardin participatif - Croix de PIerre;Déchets et Recyclage;15 - Croix de Pierre / Route d'Espagne
+44;11200.0;125;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+47;15000.0;47;Créer une forêt urbaine sur les friches de l’ancien Darty;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+41;200000.0;79;Végétaliser Croix de Pierre (végétalisation de l'avenue de Muret);Nature en ville;15 - Croix de Pierre / Route d'Espagne
+48;35000.0;32;Circuit sportif autour de la Garonne;Cadre de vie;15 - Croix de Pierre / Route d'Espagne
+43;60000.0;52;Piste cyclable à double sens route d'Espagne;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
+46;15000.0;4;Paniers de basket pour petits;Cadre de vie;15 - Croix de Pierre / Route d'Espagne
+49;70000.0;51;Corriger les discontinuités entre les pistes cyclables Bd Déodat de Séverac, l'arrêt de tram Croix de Pierre et le pont;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
+45;192000.0;29;Libérer les pieds des arbres avenue de Muret et route d'Espagne;Nature en ville;15 - Croix de Pierre / Route d'Espagne
+50;15000.0;2;Des ralentisseurs boulevard Déodat de Séverac pour plus de sécurité et de quiétude;Éco-mobilité;15 - Croix de Pierre / Route d'Espagne
 VOTES
 voter_id;vote
 15-52;44,41,45

@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;330
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-25;Végétaliser la rue Matabiau;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;95
-30;Apaisement du Boulevard Riquet;Éco-mobilité;75000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;64
-23;Améliorations possibles Quartier Belfort / Denfert Rochereau;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;50
-29;Piste vélos terrifique sur le boulevard Matabiau;Éco-mobilité;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;83
-26;Arborer la rue Raymond IV;Nature en ville;200000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;65
-200;De l'art sur les murs aveugles;Cadre de vie;100000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;27
-24;Arceau pour vélo;Éco-mobilité;35000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;19
-28;Végétalisation de la rue Agathoise ;Nature en ville;150000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;16
-27;Végétalisation et convivialité du quartier Saint-Aubin;Nature en ville;30000.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;94
-199;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;10700.0;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy;11
+project_id;cost;votes;name;category;district
+25;200000.0;95;Végétaliser la rue Matabiau;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+30;75000.0;64;Apaisement du Boulevard Riquet;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+23;200000.0;50;Améliorations possibles Quartier Belfort / Denfert Rochereau;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+29;200000.0;83;Piste vélos terrifique sur le boulevard Matabiau;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+26;200000.0;65;Arborer la rue Raymond IV;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+200;100000.0;27;De l'art sur les murs aveugles;Cadre de vie;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+24;35000.0;19;Arceau pour vélo;Éco-mobilité;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+28;150000.0;16;Végétalisation de la rue Agathoise;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+27;30000.0;94;Végétalisation et convivialité du quartier Saint-Aubin;Nature en ville;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
+199;10700.0;11;Mettre des poubelles à tous les arrêts de bus;Cadre de vie;3 - Les Chalets / Bayard / Belfort / Saint Aubin / Dupuy
 VOTES
 voter_id;vote
 3-39;27,29,30

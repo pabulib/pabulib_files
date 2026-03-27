@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;972
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-13;Esthétique des conteneurs de recyclage;Cadre de vie;4000.0;1 - Capitole / Arnaud Bernard / Carmes;14
-8;Végétaliser les pieds d'arbres en ville;Nature en ville;50000.0;1 - Capitole / Arnaud Bernard / Carmes;49
-6;Planter des arbres et plantes comestibles;Nature en ville;3000.0;1 - Capitole / Arnaud Bernard / Carmes;61
-5;Végétalisation de la place du Capitole;Nature en ville;200000.0;1 - Capitole / Arnaud Bernard / Carmes;358
-11;Stations de gonflage pour vélo sur les trajets les plus fréquentés;Éco-mobilité;9000.0;1 - Capitole / Arnaud Bernard / Carmes;74
-12;Végétalisation place saint sernin rue alsace parvis de la gare;Nature en ville;200000.0;1 - Capitole / Arnaud Bernard / Carmes;105
-9;Pénaliser les motards bruyants;Cadre de vie;30000.0;1 - Capitole / Arnaud Bernard / Carmes;174
-10;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;10000.0;1 - Capitole / Arnaud Bernard / Carmes;31
-7;Faire des voies vélos et piétons dédiées et bien délimitées;Éco-mobilité;150000.0;1 - Capitole / Arnaud Bernard / Carmes;467
-4;Uritrottoir en plus;Cadre de vie;14000.0;1 - Capitole / Arnaud Bernard / Carmes;36
+project_id;cost;votes;name;category;district
+13;4000.0;14;Esthétique des conteneurs de recyclage;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+8;50000.0;49;Végétaliser les pieds d'arbres en ville;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+6;3000.0;61;Planter des arbres et plantes comestibles;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+5;200000.0;358;Végétalisation de la place du Capitole;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+11;9000.0;74;Stations de gonflage pour vélo sur les trajets les plus fréquentés;Éco-mobilité;1 - Capitole / Arnaud Bernard / Carmes
+12;200000.0;105;Végétalisation place saint sernin rue alsace parvis de la gare;Nature en ville;1 - Capitole / Arnaud Bernard / Carmes
+9;30000.0;174;Pénaliser les motards bruyants;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+10;10000.0;31;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
+7;150000.0;467;Faire des voies vélos et piétons dédiées et bien délimitées;Éco-mobilité;1 - Capitole / Arnaud Bernard / Carmes
+4;14000.0;36;Uritrottoir en plus;Cadre de vie;1 - Capitole / Arnaud Bernard / Carmes
 VOTES
 voter_id;vote
 1-13;5

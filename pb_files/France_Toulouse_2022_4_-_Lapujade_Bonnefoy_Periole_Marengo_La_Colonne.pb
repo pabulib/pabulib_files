@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;253
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-104;Piste cyclable chemin Caillibens ;Éco-mobilité;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;9
-107;Piste cyclabe chemin Lapujade partie manquante;Éco-mobilité;40000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;30
-106;Piste cyclable et sens unique rue de Périole ;Éco-mobilité;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;67
-100;Kiosque au Jardin Michelet;Cadre de vie;10000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;46
-202;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;80000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;21
-105;Insectes et oiseaux dans la ville;Nature en ville;5320.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;48
-102;Multiplier les points de source de fraicheur et de captation de CO2 dans le quartier ;Nature en ville;50000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;115
-101;Végétaliser les abords des écoles Marengo-Périole;Nature en ville;160000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;20
-108;Installation de composteurs dans les écoles de la ville;Déchets et Recyclage;35000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;47
-103;Végétalisation/ réaménagement  du square Bartoli;Nature en ville;115000.0;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne;7
+project_id;cost;votes;name;category;district
+104;50000.0;9;Piste cyclable chemin Caillibens;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+107;40000.0;30;Piste cyclabe chemin Lapujade partie manquante;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+106;50000.0;67;Piste cyclable et sens unique rue de Périole;Éco-mobilité;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+100;10000.0;46;Kiosque au Jardin Michelet;Cadre de vie;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+202;80000.0;21;Augmenter l'Installation de L'arbre Algal dans Toulouse;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+105;5320.0;48;Insectes et oiseaux dans la ville;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+102;50000.0;115;Multiplier les points de source de fraicheur et de captation de CO2 dans le quartier;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+101;160000.0;20;Végétaliser les abords des écoles Marengo-Périole;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+108;35000.0;47;Installation de composteurs dans les écoles de la ville;Déchets et Recyclage;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
+103;115000.0;7;Végétalisation/ réaménagement  du square Bartoli;Nature en ville;4 - Lapujade / Bonnefoy / Périole / Marengo / La Colonne
 VOTES
 voter_id;vote
 4-92;108

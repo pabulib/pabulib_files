@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;512
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-71;Planter des arbres et jardins partagés partout où c'est possible!;Nature en ville;20000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;243
-74;Jardin pédagogique;Nature en ville;10000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;29
-77;Faire de la Place Amat Massot ... une place ECO-CITOYENNE conviviale !;Nature en ville;200000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;145
-73;Vélo-rue aux Minimes;Éco-mobilité;30000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;40
-75;Un double sens cyclable entre l'usine Airbus Saint-Eloi et le Canal du midi  (Chemin du Sang de Serp);Éco-mobilité;60000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;43
-78;Réhabiliter l’impasse des Minimes ;Cadre de vie;150000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;23
-72;Anti-moustiques - Distribuer des nichoirs à chauves-souris;Nature en ville;60000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;115
-76;Végétaliser le square de la Vierge Rouge;Nature en ville;100000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;58
-80;Installer des échiquiers au Jardin Claude Nougaro;Cadre de vie;3000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;9
-79;Rue Negreneys : Un transport pour tous :  piste cyclable continue, sécurité pour les piétons et réduction de la vitesse ;Éco-mobilité;150000.0;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre;47
+project_id;cost;votes;name;category;district
+71;20000.0;243;Planter des arbres et jardins partagés partout où c'est possible!;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+74;10000.0;29;Jardin pédagogique;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+77;200000.0;145;Faire de la Place Amat Massot ... une place ECO-CITOYENNE conviviale !;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+73;30000.0;40;Vélo-rue aux Minimes;Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+75;60000.0;43;Un double sens cyclable entre l'usine Airbus Saint-Eloi et le Canal du midi  (Chemin du Sang de Serp);Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+78;150000.0;23;Réhabiliter l’impasse des Minimes;Cadre de vie;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+72;60000.0;115;Anti-moustiques - Distribuer des nichoirs à chauves-souris;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+76;100000.0;58;Végétaliser le square de la Vierge Rouge;Nature en ville;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+80;3000.0;9;Installer des échiquiers au Jardin Claude Nougaro;Cadre de vie;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
+79;150000.0;47;Rue Negreneys : Un transport pour tous :  piste cyclable continue, sécurité pour les piétons et réduction de la vitesse;Éco-mobilité;8 - Minimes / Barrière de Paris / Ponts-Jumeaux / La Vache / Raisins / Fondeyre
 VOTES
 voter_id;vote
 8-21;73,79,77

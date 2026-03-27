@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;304
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-144;Plantations d’arbres fruitiers sur les quartiers de Rangueil, Sauzelong et Jules Julien;Nature en ville;50000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;116
-142;Voie verte pour aller à Pech David;Éco-mobilité;200000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;93
-138;Mettre en sens unique et zone 30 l'avenue de Rangueil;Cadre de vie;40000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;20
-141;Pièges à moustiques tigres;Nature en ville;1200.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;91
-146;Poser des ralentisseurs avenue Albert Bedouce;Cadre de vie;30000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;21
-147;Aménagement du terrain vague derrière l'école de Pouvourville;Nature en ville;80000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;16
-145;Désimperméabiliser et végétaliser le carrefour Ducuing/Salade Ponsan;Nature en ville;200000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;38
-139;Aménagement du site de l’observatoire de Pech-David;Nature en ville;95000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;101
-140;Faire des stationnements matérialisés avenue des coteaux ;Cadre de vie;115000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;11
-143;Lampadaires à détecteur de mouvement piste cyclable Sud canal;Énergie;50000.0;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville;50
+project_id;cost;votes;name;category;district
+144;50000.0;116;Plantations d’arbres fruitiers sur les quartiers de Rangueil, Sauzelong et Jules Julien;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+142;200000.0;93;Voie verte pour aller à Pech David;Éco-mobilité;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+138;40000.0;20;Mettre en sens unique et zone 30 l'avenue de Rangueil;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+141;1200.0;91;Pièges à moustiques tigres;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+146;30000.0;21;Poser des ralentisseurs avenue Albert Bedouce;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+147;80000.0;16;Aménagement du terrain vague derrière l'école de Pouvourville;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+145;200000.0;38;Désimperméabiliser et végétaliser le carrefour Ducuing/Salade Ponsan;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+139;95000.0;101;Aménagement du site de l’observatoire de Pech-David;Nature en ville;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+140;115000.0;11;Faire des stationnements matérialisés avenue des coteaux;Cadre de vie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
+143;50000.0;50;Lampadaires à détecteur de mouvement piste cyclable Sud canal;Énergie;13 - Rangueil / Sauzelong / Jules-Julien / Pech-David / Pouvourville
 VOTES
 voter_id;vote
 13-32;139

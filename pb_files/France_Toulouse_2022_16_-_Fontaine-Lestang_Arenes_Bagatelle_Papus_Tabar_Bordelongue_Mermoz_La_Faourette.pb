@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;234
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-51;Végétaliser nos quartiers (projet étudié autour de la place Émile Male et sur la route de Saint-Simon);Nature en ville;130000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;39
-53;Végétalisation d'ombrage rue Jean Mermoz;Nature en ville;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;12
-58;Une piste cyclable pour une meilleure continuité rue Henri Desbals;Éco-mobilité;45000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;66
-59;Des jeux pour les grands (aménagement d’une aire de jeux avec des équipements qui ne soient pas uniquement dédiés aux enfants);Cadre de vie;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;7
-54;Aménagement du parc Fontaine Lestang (Les Biscottes);Cadre de vie;44000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;31
-56;Un verger pour les enfants du bitume (plantation d’arbres fruitiers dans le quartier );Nature en ville;100000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;64
-52;Végétaliser pour limiter la surchauffe estivale et confort de quartier...;Nature en ville;150000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;96
-55;La Gironde conviviale et sportive (aménagement du parc du Couserans);Cadre de vie;26000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;3
-57;Des panneaux solaires sur la Maison de Quartier de Bagatelle;Énergie;68000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;31
-60;Du miel dans mon quartier: produisons de la douceur!;Nature en ville;10000.0;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette;43
+project_id;cost;votes;name;category;district
+51;130000.0;39;Végétaliser nos quartiers (projet étudié autour de la place Émile Male et sur la route de Saint-Simon);Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+53;100000.0;12;Végétalisation d'ombrage rue Jean Mermoz;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+58;45000.0;66;Une piste cyclable pour une meilleure continuité rue Henri Desbals;Éco-mobilité;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+59;100000.0;7;Des jeux pour les grands (aménagement d’une aire de jeux avec des équipements qui ne soient pas uniquement dédiés aux enfants);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+54;44000.0;31;Aménagement du parc Fontaine Lestang (Les Biscottes);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+56;100000.0;64;Un verger pour les enfants du bitume (plantation d’arbres fruitiers dans le quartier );Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+52;150000.0;96;Végétaliser pour limiter la surchauffe estivale et confort de quartier...;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+55;26000.0;3;La Gironde conviviale et sportive (aménagement du parc du Couserans);Cadre de vie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+57;68000.0;31;Des panneaux solaires sur la Maison de Quartier de Bagatelle;Énergie;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
+60;10000.0;43;Du miel dans mon quartier: produisons de la douceur!;Nature en ville;16 - Fontaine-Lestang / Arènes / Bagatelle / Papus / Tabar / Bordelongue / Mermoz / La Faourette
 VOTES
 voter_id;vote
 16-17;58,52,54

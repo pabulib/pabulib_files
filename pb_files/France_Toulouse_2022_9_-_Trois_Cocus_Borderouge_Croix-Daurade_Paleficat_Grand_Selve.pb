@@ -8,23 +8,24 @@ instance;2022
 num_projects;9
 num_votes;185
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-94;Installation de pièges à moustiques à Croix Daurade;Nature en ville;1200.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;49
-97;Création d'un terrain de cécifoot (foot pour non-voyants à Borderouge);Cadre de vie;150000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;16
-95;Végétalisation des murs extérieurs de l'école du Grand Selve;Nature en ville;30000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;10
-99;L'ornemental fruitier;Nature en ville;1500.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;29
-201;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;10000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;34
-93;Réduire la pollution sonore;Cadre de vie;35000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;33
-91;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;60000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;111
-92;Végétaliser le parking du cimetière de Croix Daurade;Nature en ville;200000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;21
-98;Equipements sportifs;Cadre de vie;15000.0;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve;26
+project_id;cost;votes;name;category;district
+94;1200.0;49;Installation de pièges à moustiques à Croix Daurade;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+97;150000.0;16;Création d'un terrain de cécifoot (foot pour non-voyants à Borderouge);Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+95;30000.0;10;Végétalisation des murs extérieurs de l'école du Grand Selve;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+99;1500.0;29;L'ornemental fruitier;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+201;10000.0;34;Voilage d'ombres sur les jeux public de plein air pour enfants;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+93;35000.0;33;Réduire la pollution sonore;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+91;60000.0;111;Nichoirs à martinets et chauve souris + pièges à larves ou à adulte de moustique tigre;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+92;200000.0;21;Végétaliser le parking du cimetière de Croix Daurade;Nature en ville;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
+98;15000.0;26;Equipements sportifs;Cadre de vie;9 - Trois Cocus / Borderouge / Croix-Daurade / Paléficat / Grand Selve
 VOTES
 voter_id;vote
 9-25;94

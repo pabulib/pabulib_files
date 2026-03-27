@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;262
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-124;Toilettes publiques Bois de Limayrac;Cadre de vie;60000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;23
-125;Planter des arbres entre la rocade et la voie verte de l'Hers;Nature en ville;199500.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;94
-203;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;6000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;75
-120;Jeux d'Ooo dans la ville;Cadre de vie;20000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;8
-119;Végétalisation de quartier;Nature en ville;55000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;68
-122;Aire convivialité espace vert rue de l'Isére / rue de l'Invention;Cadre de vie;75000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;5
-123;Zone de Street Workout - Jardin Pierre Larousse;Cadre de vie;20000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;6
-127;Un rucher en ville;Nature en ville;3000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;33
-121;Toilettes séches dans la zone verte de la Plaine;Cadre de vie;60000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;21
-126;Aménagement berge canal du midi ;Nature en ville;170000.0;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée;103
+project_id;cost;votes;name;category;district
+124;60000.0;23;Toilettes publiques Bois de Limayrac;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+125;199500.0;94;Planter des arbres entre la rocade et la voie verte de l'Hers;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+203;6000.0;75;Installer des racks à vélos devant tous les commerces et les zones vertes;Éco-mobilité;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+120;20000.0;8;Jeux d'Ooo dans la ville;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+119;55000.0;68;Végétalisation de quartier;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+122;75000.0;5;Aire convivialité espace vert rue de l'Isére / rue de l'Invention;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+123;20000.0;6;Zone de Street Workout - Jardin Pierre Larousse;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+127;3000.0;33;Un rucher en ville;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+121;60000.0;21;Toilettes séches dans la zone verte de la Plaine;Cadre de vie;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
+126;170000.0;103;Aménagement berge canal du midi;Nature en ville;11 - Bonhoure / Guilheméry / Château de l'Hers / Limayrac / Côte Pavée
 VOTES
 voter_id;vote
 11-64;125

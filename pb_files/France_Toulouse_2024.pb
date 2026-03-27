@@ -13,6 +13,7 @@ date_begin;01.06.2024
 date_end;04.07.2024
 min_length;1
 max_length;3
+currency;EUR
 PROJECTS
 project_id;cost;votes;name;category;district
 245;100000.0;131;Plantation d'arbres sur stationnement rue des Fontaines;Nature en ville et biodiversité;19 - Casselardit / Fontaine-Bayonne / Cartoucherie

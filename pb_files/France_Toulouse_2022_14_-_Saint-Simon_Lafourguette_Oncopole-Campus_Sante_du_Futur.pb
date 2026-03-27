@@ -8,24 +8,25 @@ instance;2022
 num_projects;10
 num_votes;191
 budget;400000.0
-rule;greedy
 vote_type;approval
-min_length;1
-max_length;3
+rule;greedy
 date_begin;03.10.2022
 date_end;31.10.2022
+min_length;1
+max_length;3
+currency;EUR
 PROJECTS
-project_id;name;category;cost;district;votes
-197;Installer une «tour-nichoir à hirondelles» dans une zone verte du cœur de quartier Lafourguette;Nature en ville;10000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;13
-195;Déployer des équipements préventifs pour démoustiquer le quartier;Nature en ville;5700.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;85
-196;Arbres fruitiers ;Consommation responsable;40000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;36
-188;City Stade quartier Guilhermy;Cadre de vie;40000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;26
-192;Végétalisation de la ZA Thibaud;Nature en ville;60000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;67
-190;Bornes publiques de recharge électrique;Éco-mobilité;10500.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;7
-194;Implanter des panneaux signalétiques Lafourguette;Cadre de vie;1500.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;6
-193;Eisenhower : arbres pour pistes cyclables;Nature en ville;80000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;81
-189;Végétalisation Place des Tibaous;Nature en ville;200000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;44
-191;Valorisation du tunnel de Gironis;Éco-mobilité;150000.0;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur;39
+project_id;cost;votes;name;category;district
+197;10000.0;13;Installer une «tour-nichoir à hirondelles» dans une zone verte du cœur de quartier Lafourguette;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+195;5700.0;85;Déployer des équipements préventifs pour démoustiquer le quartier;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+196;40000.0;36;Arbres fruitiers;Consommation responsable;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+188;40000.0;26;City Stade quartier Guilhermy;Cadre de vie;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+192;60000.0;67;Végétalisation de la ZA Thibaud;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+190;10500.0;7;Bornes publiques de recharge électrique;Éco-mobilité;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+194;1500.0;6;Implanter des panneaux signalétiques Lafourguette;Cadre de vie;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+193;80000.0;81;Eisenhower : arbres pour pistes cyclables;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+189;200000.0;44;Végétalisation Place des Tibaous;Nature en ville;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
+191;150000.0;39;Valorisation du tunnel de Gironis;Éco-mobilité;14 - Saint-Simon / Lafourguette / Oncopole-Campus Santé du Futur
 VOTES
 voter_id;vote
 14-37;197
