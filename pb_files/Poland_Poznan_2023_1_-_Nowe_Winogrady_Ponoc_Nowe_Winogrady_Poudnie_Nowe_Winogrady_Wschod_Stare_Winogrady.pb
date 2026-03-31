@@ -17,11 +17,11 @@ max_length;5
 edition;11
 language;pl
 currency;PLN
-comment;#1: This special greedy rule works as follows: At the beginning, we sort projects based on the number of votes. Then, we fund projects that received the highest number of votes until the next project on the list does not fit within the budget. Finally, if the remaining budget is enough to fund at least 80% of that project, we fund it as well with the external reserve funds (for example, the unused funds remaining in other districts). We mark such project with number 2 in the selected column
+comment;#1: This special greedy rule works as follows: At the beginning, we sort projects based on the number of votes. Then, we fund projects that received the highest number of votes until the next project on the list does not fit within the budget. Finally, if the remaining budget is enough to fund at least 80% of that project, we fund it as well with the external reserve funds (for example, the unused funds remaining in other districts). We mark such project with number 2 in the selected column #2: Sometimes, additional funds (for example, unused funds from other districts) are allocated to a district. These funds are used to finance the highest-voted projects that have not yet been selected. We mark such projects with number 3 in the selected column
 PROJECTS
 project_id;cost;votes;name;selected
 I.5;769000;9565;Nasz sportowy fyrtel-bezpłatne zajęcia dla wszystkich;1
-I.1;800000;5305;Małpi Gaj na Winogradach;2
+I.1;800000;5305;Małpi Gaj na Winogradach;3
 I.8;800000;4009;Nasz Winogradzki Fyrtel;0
 I.3;550000;3454;Toaleta nie krzaki!;0
 I.9;800000;2253;Remont nawierzchni ścieżki pieszo-rowerowej wzdłuż ul.Serbskiej;0

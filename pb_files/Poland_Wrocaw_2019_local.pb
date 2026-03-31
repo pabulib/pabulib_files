@@ -54,7 +54,7 @@ project_id;cost;votes;name;category;selected;district
 412;750000;735;Rekreacja na Przedmieściu Oławskim: plac zabaw, siłownie zewnętrzne i strefa seniora – kontynuacja;investment,greenery/recreation;0;Tarnogaj
 165;750000;732;Eksperymentuj na świeżym powietrzu bez względu na wiek!;investment,playgrounds;0;Szczepin
 319;750000;723;Leśne runo w Parku Grabiszyńskim;investment,greenery/recreation;0;Gajowice
-28;750000;681;Alejki oporowskie - bezpieczne dojście do Parku Mamuta;investment,walking/cycling infrastructure;0;
+28;750000;681;Alejki oporowskie - bezpieczne dojście do Parku Mamuta;investment,walking/cycling infrastructure;0;Oporów
 108;250000;680;Plac Zabaw i Strefa Aktywności przy Forcie Piechoty nr. 7 na Widawie;investment,greenery/recreation;0;Leśnica
 30;750000;671;Budowa porządnego chodnika + oświetlenie skweru przy dworcu Wrocław-Mikołajów, między ul. Stacyjną, ul. Legnicką i ul. Bolesławiecką;investment,walking/cycling infrastructure;0;Klecina
 34;750000;667;Rondo Powstańców Śląskich - Ogród w Centrum Miasta. Etap 2;investment,greenery/recreation;0;Tarnogaj
@@ -70,7 +70,7 @@ project_id;cost;votes;name;category;selected;district
 330;750000;550;Kuźniki na rolkach - ścieżka rekreacyjna -  etap II;investment,greenery/recreation;0;Strachocin-Swojczyce-Wojnów
 174;750000;529;REWITALIZACJA PARKU U ZBIEGU UL. ŁUŻYCKIEJ I UL. OSOBOWICKIEJ.;investment,greenery/recreation;0;Tarnogaj
 244;750000;526;Realizacja łącznika ulicy Motylkowej z ulicą Świt w celu poprawy komunikacji w obrębie ulicy Motylkowej;investment,roads;0;Karłowice-Różanka
-440;750000;475;Chronimy drzewa Wrocławia - zabezpieczenie zieleni przyulicznej na południu miasta;investment,greenery/recreation;0;
+440;750000;475;Chronimy drzewa Wrocławia - zabezpieczenie zieleni przyulicznej na południu miasta;investment,greenery/recreation;0;Powstańców Śląskich
 214;500000;474;Naprawa dwóch stron chodnika ul. Jedności Narodowej od ul. Roosevelta do ul. Ołbińskiej;investment,walking/cycling infrastructure;0;Pilczyce-Kozanów-Popowice Płn.
 61;750000;470;MĄDRA ŚCIEŻKA – trasa rekreacji i edukacji nad rozlewiskiem rzeki Oławy – etap I;investment,greenery/recreation;0;Gajowice
 116;750000;467;Remont drogi rowerowej i chodnika na Kamiennej.;investment,walking/cycling infrastructure;0;Tarnogaj
@@ -112,7 +112,7 @@ project_id;cost;votes;name;category;selected;district
 112;500000;232;MUZYCZNA GRABISZYŃSKA;investment,other;0;Pawłowice
 139;750000;229;Toaleta w Parku Zachodnim Kozanów – Popowice (koło Hali Orbita);investment,other;0;Pilczyce-Kozanów-Popowice Płn.
 19;750000;225;ZRÓBMY SOBIE PARK - doposażenie psiego parku przy ul. Sztabowej;investment,greenery/recreation;0;Lipa Piotrowska
-399;400000;221;Budowa zielonych miejsc postojowych dla aut i rowerów wraz z nasadzeniem zieleni.;investment,roads;0;
+399;400000;221;Budowa zielonych miejsc postojowych dla aut i rowerów wraz z nasadzeniem zieleni.;investment,roads;0;Kleczków
 289;500000;210;Stop dewastacji resztek terenów zielonych! Rewitalizacja podwórza w kwartale ulic Stefana Jaracza, Ignacego Daszyńskiego, Józefa Lompy, Damrota;investment,garden squares;0;Kuźniki
 353;250000;204;Zielona ławka dla sąsiada - rewitalizacja skweru przy pl. Świętojańskim. Przyjazne miejsce spotkań na Leśnicy.;investment,greenery/recreation;0;Leśnica
 294;200000;201;Bezpieczna ulica Nefrytowa;investment,other;0;Lipa Piotrowska

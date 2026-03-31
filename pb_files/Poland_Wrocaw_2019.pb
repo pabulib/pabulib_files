@@ -67,7 +67,7 @@ project_id;cost;votes;name;category;selected;district
 242;2000000;453;Nowe chodniki wzdłuż ulicy Opolskiej;walking/cycling infrastructure;0;Ołbin
 425;750000;437;101 ławek dla Wrocławian;greenery/recreation;0;Leśnica
 125;2000000;416;Skarbowców Park na nowo - robimy plan zagospodarowania i zaczynamy etap pierwszy;greenery/recreation;0;Tarnogaj
-237;2000000;412;Wyznaczenie 17 południka przez miasto WROCŁAW oraz markera na Polanie Popowickiej.;other;0;
+237;2000000;412;Wyznaczenie 17 południka przez miasto WROCŁAW oraz markera na Polanie Popowickiej.;other;0;Pilczyce-Kozanów-Popowice Płn.
 49;2000000;392;Zielone przystanki: 4 kolejne przystanki;greenery/recreation;0;Pilczyce-Kozanów-Popowice Płn.
 143;2000000;385;Ul. Ruska dla pieszych (deptak pomiędzy pl. Solnym a ul. Kazimierza Wielkiego);walking/cycling infrastructure;0;Pilczyce-Kozanów-Popowice Płn.
 82;2000000;381;Rondo Reagana na poziomie! Budowa peronów na Rondzie Reagana;public transit;0;Pilczyce-Kozanów-Popowice Płn.

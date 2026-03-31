@@ -17,12 +17,12 @@ max_length;5
 edition;11
 language;pl
 currency;PLN
-comment;#1: This special greedy rule works as follows: At the beginning, we sort projects based on the number of votes. Then, we fund projects that received the highest number of votes until the next project on the list does not fit within the budget. Finally, if the remaining budget is enough to fund at least 80% of that project, we fund it as well with the external reserve funds (for example, the unused funds remaining in other districts). We mark such project with number 2 in the selected column
+comment;#1: This special greedy rule works as follows: At the beginning, we sort projects based on the number of votes. Then, we fund projects that received the highest number of votes until the next project on the list does not fit within the budget. Finally, if the remaining budget is enough to fund at least 80% of that project, we fund it as well with the external reserve funds (for example, the unused funds remaining in other districts). We mark such project with number 2 in the selected column #2: Sometimes, additional funds (for example, unused funds from other districts) are allocated to a district. These funds are used to finance the highest-voted projects that have not yet been selected. We mark such projects with number 3 in the selected column
 PROJECTS
 project_id;cost;votes;name;selected
 V.6;750000;5908;Grunwald - mój sportowy azyl;1
 V.5;315000;5481;Bezpieczny student, Bezpieczny poznaniak;2
-V.3;800000;4964;Rekreacyjny zakątek;2
+V.3;800000;4964;Rekreacyjny zakątek;3
 V.2;782000;2721;Nasz sportowy fyrtel-sportowe zajęcia dla mieszkańców;0
 V.4;800000;999;Plac zabaw w parku na os.Kopernika;0
 V.1;500000;518;Siła zdrowia w Szkole Podstawowej 88;0

@@ -18,7 +18,7 @@ min_project_score_threshold;50
 edition;12
 language;pl
 currency;PLN
-comment;#1: The cost of the project W193ST (785,700) was exceeding the district budget (612,000), which should not have happened. Unfortunately, it was eligible to be voted on.
+comment;#1: The original cost of project W193ST was 785,700, which exceeded the district budget of 612,000, so the project should not have been admitted to the ballot. To keep the data consistent while making this situation explicit, the recorded cost was changed to the artificial value 999999999.
 PROJECTS
 project_id;cost;votes;name;category;selected
 W270ST;120000;532;Bezpieczna droga na zakupy — przedłużenie chodnika przy ul. Giewont do ul. Pomorskiej;municipal infrastructure and security;1
@@ -27,7 +27,7 @@ W258ST;72000;461;Kino plenerowe w Parku im. M. Zaruskiego;culture;1
 W051ST;75000;455;Oświetlamy Stoki- część druga, ul. Hyrna;municipal infrastructure and security;1
 W053ST;80000;404;Czyste i bezpieczne Stoki.;municipal infrastructure and security;0
 W018ST;40000;380;Postawmy na bezpieczeństwo na osiedlu Stoki- Sikawa- Podgórze;municipal infrastructure and security;0
-W193ST;785700;347;STOKI! ZMIEŃMY KLEPISKO W FAJNE BOISKO- nowe boisko do gry w piłkę nożną i koszykówkę.;sport and recreation;0
+W193ST;999999999;347;STOKI! ZMIEŃMY KLEPISKO W FAJNE BOISKO- nowe boisko do gry w piłkę nożną i koszykówkę.;sport and recreation;0
 W194ST;612000;288;NA STOKACH MAMY RÓWNE CHODNIKI!;municipal infrastructure and security;0
 W109ST;16000;277;Mamy nietoperze – nie mamy komarów - Osiedle Stoki-Sikawa-Podgórze;environmental protection;1
 W218ST;30000;277;Lawend(love) pole w Parku im. Zaruskiego;environmental protection;0
