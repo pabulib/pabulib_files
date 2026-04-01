@@ -11,16 +11,16 @@ num_votes;91
 budget;116735
 vote_type;approval
 rule;greedy-threshold
-min_project_score_threshold;10
 date_begin;14.06.2017
 date_end;30.06.2017
 min_length;1
 max_sum_cost;116735
+min_project_score_threshold;10
 edition;4
 language;pl
 currency;PLN
-comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 fully_funded;1
+comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
 project_id;cost;votes;name;category;target;selected
 855;64000;86;Doposażenie Sadulskiego Zakątka;public space,sport,urban greenery;children,families with children;1

@@ -11,22 +11,22 @@ num_votes;301
 budget;125794
 vote_type;approval
 rule;greedy-threshold
-min_project_score_threshold;31
 date_begin;14.06.2017
 date_end;30.06.2017
 min_length;1
 max_sum_cost;125794
+min_project_score_threshold;31
 edition;4
 language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;longitude;latitude
+project_id;cost;votes;name;category;target;selected;latitude;longitude
 278;60984;208;Zewnętrzny monitoring Zespołu Szkół nr 116;sport,public space,education;;1;;
 280;63500;202;Przyszkolne parkingi rowerowe w ZS nr 116;sport,public space,education;youth,children;1;;
-1572;14100;78;Sprzątam po swoim psie;urban greenery,environmental protection;animals,families with children,adults;0;21.1397552490234;52.2177041934215
-1981;35000;67;Oświetlenie placu zabaw przy ul. Widocznej;public space;youth,families with children,children;0;21.1547648906708;52.2175871088638
-2023;75476;61;Rozbudowa placu zabaw przy ulicy Widocznej;public space;families with children,youth,children;0;21.1547219753265;52.2176002552155
+1572;14100;78;Sprzątam po swoim psie;urban greenery,environmental protection;animals,families with children,adults;0;52.2177041934215;21.1397552490234
+1981;35000;67;Oświetlenie placu zabaw przy ul. Widocznej;public space;youth,families with children,children;0;52.2175871088638;21.1547648906708
+2023;75476;61;Rozbudowa placu zabaw przy ulicy Widocznej;public space;families with children,youth,children;0;52.2176002552155;21.1547219753265
 VOTES
 voter_id;vote;age;sex;voting_method
 1095;278,280;42;M;internet

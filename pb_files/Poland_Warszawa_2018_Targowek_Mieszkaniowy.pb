@@ -11,16 +11,16 @@ num_votes;652
 budget;521100
 vote_type;approval
 rule;greedy-threshold
-min_project_score_threshold;66
 date_begin;14.06.2017
 date_end;30.06.2017
 min_length;1
 max_sum_cost;521100
+min_project_score_threshold;66
 edition;4
 language;pl
 currency;PLN
-comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 fully_funded;1
+comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
 project_id;cost;votes;name;category;target;selected
 878;15000;394;Zielone igloo w Parku Wiecha;public space,urban greenery;children,youth,families with children;1

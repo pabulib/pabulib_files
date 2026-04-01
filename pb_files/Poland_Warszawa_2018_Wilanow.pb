@@ -11,11 +11,11 @@ num_votes;2413
 budget;300000
 vote_type;approval
 rule;greedy-threshold
-min_project_score_threshold;242
 date_begin;14.06.2017
 date_end;30.06.2017
 min_length;1
 max_sum_cost;300000
+min_project_score_threshold;242
 edition;4
 language;pl
 currency;PLN

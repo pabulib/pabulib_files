@@ -11,16 +11,16 @@ num_votes;149
 budget;200000
 vote_type;approval
 rule;greedy-threshold
-min_project_score_threshold;15
 date_begin;14.06.2017
 date_end;30.06.2017
 min_length;1
 max_sum_cost;200000
+min_project_score_threshold;15
 edition;4
 language;pl
 currency;PLN
-comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 fully_funded;1
+comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
 project_id;cost;votes;name;category;target;selected
 635;200000;149;Rewitalizacja placu zabaw przy ul. Opalin;public space,sport,health;children,youth,families with children;1
