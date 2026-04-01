@@ -20,110 +20,110 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: According to published coverage of the official BO 2021 results for Ursynów, projects 459, 1687, and 2150 overlapped at the Kabaty area and could not all be implemented simultaneously. The official winner list retained project 2150, and this exclusion changes the subsequent greedy path. Therefore rule greedy-exclusive is applied.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;longitude;latitude
+project_id;cost;votes;name;category;target;selected;latitude;longitude
 1699;880000;2834;Ursynowska ekologia - butelkomaty;environmental protection;people with disabilities,seniors,adults,youth,children;1;;
-1469;453200;2743;Upiększamy park pod Kopą Cwila;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;21.023711866506;52.164255172322
-1947;576800;2702;Zielone skwery na Ursynowie (kontynuacja);urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;21.05092064771275;52.14697399715088
+1469;453200;2743;Upiększamy park pod Kopą Cwila;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.164255172322;21.023711866506
+1947;576800;2702;Zielone skwery na Ursynowie (kontynuacja);urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.14697399715088;21.05092064771275
 224;717200;2550;Zieleń zamiast betonu;urban greenery,public space,environmental protection;seniors,adults,youth;1;;
-392;17780;2345;Kwiaty i ozdobne antysmogowe krzewy dla Ursynowa - niczym mała Holandia - w drodze do szkoły - pracy - domu z myślą o wszystkich mieszkańcach;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;21.059064840768002;52.13773921468433
+392;17780;2345;Kwiaty i ozdobne antysmogowe krzewy dla Ursynowa - niczym mała Holandia - w drodze do szkoły - pracy - domu z myślą o wszystkich mieszkańcach;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.13773921468433;21.059064840768002
 782;35000;2271;Piękne rośliny na ulicach Ursynowa, chroniące przed smogiem i hałasem;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children,animals;1;;
-954;578900;2211;105 drzew, 1400 m2 krzewów i 1 ogród deszczowy przy ul. Rosoła;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;21.058548688889;52.150475689944
-955;214500;2163;Dbamy o ursynowskie drzewa - podlewanie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;21.03675725436;52.15530200464257
-911;418000;2093;Wygodniej rowerem przez Ursynów - zadaszone stojaki przy metrze i podpórki rowerowe przy skrzyżowaniach;sport,public space,public transit and roads;seniors,adults,youth,children;1;21.0527195540702;52.14293765183199
-1687;61000;2075;Zadbany skwer zamiast rozdeptanego trawnika (róg al. KEN i ul. Przy Bażantarni);environmental protection,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;21.061030755614;52.136812248808
-459;960200;1950;Zielony plac miejski przy wyjściu z metra Kabaty (w stronę Tesco);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.066578200714;52.130995017223
-1821;440500;1923;Lodowisko na Ursynowie (sezonowe i darmowe);sport;seniors,adults,youth,children;0;21.019276812667;52.130450760928
-2150;990000;1923;Jurajski Plac Zabaw – niech dinozaury dalej cieszą dzieci. Modernizacja nawierzchni placu zabaw;sport,public space;children;1;21.023797988892;52.160928432501
+954;578900;2211;105 drzew, 1400 m2 krzewów i 1 ogród deszczowy przy ul. Rosoła;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.150475689944;21.058548688889
+955;214500;2163;Dbamy o ursynowskie drzewa - podlewanie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.15530200464257;21.03675725436
+911;418000;2093;Wygodniej rowerem przez Ursynów - zadaszone stojaki przy metrze i podpórki rowerowe przy skrzyżowaniach;sport,public space,public transit and roads;seniors,adults,youth,children;1;52.14293765183199;21.0527195540702
+1687;61000;2075;Zadbany skwer zamiast rozdeptanego trawnika (róg al. KEN i ul. Przy Bażantarni);environmental protection,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;52.136812248808;21.061030755614
+459;960200;1950;Zielony plac miejski przy wyjściu z metra Kabaty (w stronę Tesco);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.130995017223;21.066578200714
+1821;440500;1923;Lodowisko na Ursynowie (sezonowe i darmowe);sport;seniors,adults,youth,children;0;52.130450760928;21.019276812667
+2150;990000;1923;Jurajski Plac Zabaw – niech dinozaury dalej cieszą dzieci. Modernizacja nawierzchni placu zabaw;sport,public space;children;1;52.160928432501;21.023797988892
 976;78152;1916;Labirynt z żywopłotu;urban greenery,public space;seniors,adults,youth,children;1;;
-1048;950000;1893;Doświetlenie przejść dla pieszych na Ursynowie;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.059381631151087;52.13518146970874
-2223;365500;1806;Lodowisko na Natolinie;sport;;0;21.055889166238;52.137831009137
-357;140400;1786;Poprawa bezpieczeństwa w Parku Przy Bażantarni - monitoring;urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;21.063835915412;52.136920782133
-817;323000;1733;Modernizacja drogi rowerowej pod wiaduktem ul. Dolina Służewiecka oraz w północnej części Parku im. Romana Kozłowskiego;urban greenery,sport,public space;seniors,adults,youth,children;0;21.022009777052;52.16591676298
-1402;190000;1701;Łączymy parki: Olkówek, Jurajski, Romana Kozłowskiego - Enklawa Zacisze;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;21.023843994158;52.160385742189
-879;126000;1633;Kurs pierwszej pomocy dla uczniów publicznych szkół podstawowych na Ursynowie;education;youth,children;0;21.042333593530167;52.1447741619445
-2165;200892;1626;Miejski punkt zbiórki drobnych elektroodpadów;environmental protection;people with disabilities,seniors,adults,youth,children;0;21.04539513588;52.149777875407
+1048;950000;1893;Doświetlenie przejść dla pieszych na Ursynowie;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.13518146970874;21.059381631151087
+2223;365500;1806;Lodowisko na Natolinie;sport;;0;52.137831009137;21.055889166238
+357;140400;1786;Poprawa bezpieczeństwa w Parku Przy Bażantarni - monitoring;urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;52.136920782133;21.063835915412
+817;323000;1733;Modernizacja drogi rowerowej pod wiaduktem ul. Dolina Służewiecka oraz w północnej części Parku im. Romana Kozłowskiego;urban greenery,sport,public space;seniors,adults,youth,children;0;52.16591676298;21.022009777052
+1402;190000;1701;Łączymy parki: Olkówek, Jurajski, Romana Kozłowskiego - Enklawa Zacisze;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.160385742189;21.023843994158
+879;126000;1633;Kurs pierwszej pomocy dla uczniów publicznych szkół podstawowych na Ursynowie;education;youth,children;0;52.1447741619445;21.042333593530167
+2165;200892;1626;Miejski punkt zbiórki drobnych elektroodpadów;environmental protection;people with disabilities,seniors,adults,youth,children;0;52.149777875407;21.04539513588
 35;90000;1593;Doświetlenie Ursynowa w nocy - Kabaty;public space;people with disabilities,seniors,adults,youth,children;0;;
 1013;145000;1580;Mural Ursynów w pigułce;public transit and roads,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;;
-364;936690;1553;Bezpłatne lodowiska i górki śnieżne w czasie zimy i lata - z bezpłatnym wypożyczaniem łyżew, sprzętu do nauki jazdy na łyżwach, sankach dla całych rodzin;sport,public space,culture;adults,youth,children;0;21.041411475837;52.134767456817
-1471;42900;1503;Posadzenie szpalerów grabowych, pomiędzy ul. Rosoła, a ciągiem pieszym i ścieżką rowerową po jej wschodniej stronie pomiędzy ul. Nowoursynowską i Lidlem (na działce 5/2 z obrębu 1-11-17);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.073660254478;52.13566124102
-439;996180;1450;Nowy skwer i fontanna koło domu kultury - Zielona Oś Ursynowa;urban greenery,public space,environmental protection;seniors,adults,youth;0;21.044979163293;52.147739282396
+364;936690;1553;Bezpłatne lodowiska i górki śnieżne w czasie zimy i lata - z bezpłatnym wypożyczaniem łyżew, sprzętu do nauki jazdy na łyżwach, sankach dla całych rodzin;sport,public space,culture;adults,youth,children;0;52.134767456817;21.041411475837
+1471;42900;1503;Posadzenie szpalerów grabowych, pomiędzy ul. Rosoła, a ciągiem pieszym i ścieżką rowerową po jej wschodniej stronie pomiędzy ul. Nowoursynowską i Lidlem (na działce 5/2 z obrębu 1-11-17);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.13566124102;21.073660254478
+439;996180;1450;Nowy skwer i fontanna koło domu kultury - Zielona Oś Ursynowa;urban greenery,public space,environmental protection;seniors,adults,youth;0;52.147739282396;21.044979163293
 1156;220000;1447;Muzyczne niedziele - koncerty muzyki klasycznej w plenerze;culture,education;people with disabilities,seniors,adults,youth,children;0;;
-367;60959;1306;Ekologiczne kurtyny mgiełkowe na terenach szkolnych i miejscach rekreacji;sport,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;21.052973717451;52.136378938549
-1005;100000;1305;Podświetlany napis Ursynów - miejsce charakterystyczne dzielnicy;public space;people with disabilities,seniors,adults,youth,children;0;21.045249753811;52.148516565796
-341;71400;1283;Niedzielne Targi Zdrowej Żywności na parkingu przy Ratuszu Dzielnicy (wiosna, lato, jesień) - kontynuacja;public space;people with disabilities,seniors,adults,youth,children;0;21.045641899109;52.148948383522
-1051;38070;1265;Powiększenie miejskiego placu zabaw wśród zieleni przy stacji metra Imielin;public space,environmental protection;adults,children;0;21.045432247102;52.147599497734
+367;60959;1306;Ekologiczne kurtyny mgiełkowe na terenach szkolnych i miejscach rekreacji;sport,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.136378938549;21.052973717451
+1005;100000;1305;Podświetlany napis Ursynów - miejsce charakterystyczne dzielnicy;public space;people with disabilities,seniors,adults,youth,children;0;52.148516565796;21.045249753811
+341;71400;1283;Niedzielne Targi Zdrowej Żywności na parkingu przy Ratuszu Dzielnicy (wiosna, lato, jesień) - kontynuacja;public space;people with disabilities,seniors,adults,youth,children;0;52.148948383522;21.045641899109
+1051;38070;1265;Powiększenie miejskiego placu zabaw wśród zieleni przy stacji metra Imielin;public space,environmental protection;adults,children;0;52.147599497734;21.045432247102
 2003;449000;1257;Bezpieczne otoczenie szkół i przedszkoli - monitoring;education;;0;;
-447;45900;1248;Senior na Ursynowie - bezpłatne zajęcia dla seniorów w Dzielnicowym Ośrodku Kultury Ursynów;welfare,sport,culture;adults,seniors;0;21.019230760552;52.130826386144
-409;40000;1240;Kino pod chmurką - pokazy filmowe przed Dzielnicowym Ośrodkiem Kultury Ursynów;public space,culture;seniors,adults,youth;0;21.019533438457;52.130681710793
-355;490000;1238;Monitoring na Imielinie;public space,welfare;people with disabilities,seniors,adults,youth,children;0;21.046288913861627;52.14829272213525
-2060;250000;1231;Wybieg dla psów przy ul. Rosoła;public space;;0;21.060835497321;52.147653296569
-2154;580000;1231;Letnie koncerty na Ursynowie;culture,education;people with disabilities,seniors,adults,youth,children;0;21.04504108429;52.149238049111
-864;73700;1221;Ursynowska Ratuszowa Wyprzedaż Garażowa - 12 garażówek;sport,public space,culture;people with disabilities,seniors,adults,youth,children;0;21.04533156564791;52.14871004459355
-2144;510000;1194;Przejście podziemne pod ul. Romera - remont;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.026807807209;52.155972947574
-430;135000;1179;Łączymy parki;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;21.024733566284;52.160413603533
-1049;300000;1169;Poprawa bezpieczeństwa pieszych na przejściach przy Ursynowskich rondach;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.0282865092082;52.1557423573574
-1837;215140;1113;Plac do kalisteniki/street workoutu i gimnastyki obok Urzędu Dzielnicy Ursynów - sport i rekreacja dla całej rodziny - od najmłodszych po seniorów;sport,public space,culture;people with disabilities,seniors,adults,youth,children;0;21.045581683484;52.147927422754
-950;19500;1100;Bezpieczne przejścia dla pieszych na ul. Rosoła i ul. Wąwozowej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;21.06635928154;52.142311892108
-1800;58900;1081;Nasadzenia drzew i krzewów, montaż budek dla ptaków – Ursynów Krasnowola;urban greenery;people with disabilities,seniors,adults,youth,children;0;21.000058947788666;52.14228906639233
-1449;430500;1077;Lodowisko na Ursynowie;sport,public space;seniors,adults,youth,children;0;21.01948860267;52.130413042132
-2156;13200;986;Audiobooki z biblioteki;culture,education;people with disabilities,seniors,adults,youth,children;0;21.047991514206;52.146229385114
-1214;21300;974;Zbudujmy chodnik zamiast przedeptu! - wygodne i bezpieczne dojście do sklepów i mieszkań - Belgradzka/Rosoła;urban greenery,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.065807052731;52.142010718398
-279;686620;944;Remont placu zabaw dla dzieci młodszych przy Szkole Podstawowej nr 330;education,public space;people with disabilities,seniors,adults,youth,children;0;21.060705184937;52.144445157926
-1793;165000;905;Uporządkujmy teren na przeciwko Kłobuckiej 10;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;20.991920181407;52.165347958478
+447;45900;1248;Senior na Ursynowie - bezpłatne zajęcia dla seniorów w Dzielnicowym Ośrodku Kultury Ursynów;welfare,sport,culture;adults,seniors;0;52.130826386144;21.019230760552
+409;40000;1240;Kino pod chmurką - pokazy filmowe przed Dzielnicowym Ośrodkiem Kultury Ursynów;public space,culture;seniors,adults,youth;0;52.130681710793;21.019533438457
+355;490000;1238;Monitoring na Imielinie;public space,welfare;people with disabilities,seniors,adults,youth,children;0;52.14829272213525;21.046288913861627
+2060;250000;1231;Wybieg dla psów przy ul. Rosoła;public space;;0;52.147653296569;21.060835497321
+2154;580000;1231;Letnie koncerty na Ursynowie;culture,education;people with disabilities,seniors,adults,youth,children;0;52.149238049111;21.04504108429
+864;73700;1221;Ursynowska Ratuszowa Wyprzedaż Garażowa - 12 garażówek;sport,public space,culture;people with disabilities,seniors,adults,youth,children;0;52.14871004459355;21.04533156564791
+2144;510000;1194;Przejście podziemne pod ul. Romera - remont;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.155972947574;21.026807807209
+430;135000;1179;Łączymy parki;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.160413603533;21.024733566284
+1049;300000;1169;Poprawa bezpieczeństwa pieszych na przejściach przy Ursynowskich rondach;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.1557423573574;21.0282865092082
+1837;215140;1113;Plac do kalisteniki/street workoutu i gimnastyki obok Urzędu Dzielnicy Ursynów - sport i rekreacja dla całej rodziny - od najmłodszych po seniorów;sport,public space,culture;people with disabilities,seniors,adults,youth,children;0;52.147927422754;21.045581683484
+950;19500;1100;Bezpieczne przejścia dla pieszych na ul. Rosoła i ul. Wąwozowej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.142311892108;21.06635928154
+1800;58900;1081;Nasadzenia drzew i krzewów, montaż budek dla ptaków – Ursynów Krasnowola;urban greenery;people with disabilities,seniors,adults,youth,children;0;52.14228906639233;21.000058947788666
+1449;430500;1077;Lodowisko na Ursynowie;sport,public space;seniors,adults,youth,children;0;52.130413042132;21.01948860267
+2156;13200;986;Audiobooki z biblioteki;culture,education;people with disabilities,seniors,adults,youth,children;0;52.146229385114;21.047991514206
+1214;21300;974;Zbudujmy chodnik zamiast przedeptu! - wygodne i bezpieczne dojście do sklepów i mieszkań - Belgradzka/Rosoła;urban greenery,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.142010718398;21.065807052731
+279;686620;944;Remont placu zabaw dla dzieci młodszych przy Szkole Podstawowej nr 330;education,public space;people with disabilities,seniors,adults,youth,children;0;52.144445157926;21.060705184937
+1793;165000;905;Uporządkujmy teren na przeciwko Kłobuckiej 10;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.165347958478;20.991920181407
 499;85000;898;Przedszkolaki sadzą drzewa;urban greenery,public space,environmental protection;adults,children;0;;
-1781;466100;895;Bezpieczna, zielona i przyjazna Kłobucka;education,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;20.991845604268;52.163542365115
-613;140300;877;Samoobrona dla dzieci i dorosłych oraz warsztaty przeciwdziałania przemocy rówieśniczej;sport,welfare,education;people with disabilities,adults,youth,children;0;21.051927276674;52.1419532140425
-560;380000;875;Pełnoprawni Niepełnosprawni – plac zabaw w Parku im. R. Kozłowskiego;sport,public space,welfare;people with disabilities,youth,children;0;21.024162368964;52.163042098206
+1781;466100;895;Bezpieczna, zielona i przyjazna Kłobucka;education,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;52.163542365115;20.991845604268
+613;140300;877;Samoobrona dla dzieci i dorosłych oraz warsztaty przeciwdziałania przemocy rówieśniczej;sport,welfare,education;people with disabilities,adults,youth,children;0;52.1419532140425;21.051927276674
+560;380000;875;Pełnoprawni Niepełnosprawni – plac zabaw w Parku im. R. Kozłowskiego;sport,public space,welfare;people with disabilities,youth,children;0;52.163042098206;21.024162368964
 571;618300;834;Bezpłatne zajęcia z angielskiego z native speakerem we wszystkich ursynowskich publicznych szkołach podstawowych i liceach;education;youth,children;0;;
 793;60000;829;Zielone lekcje - chrońmy przyrodę wokół nas;environmental protection,education;youth,children;0;;
-1074;144000;828;Poprawa bezpieczeństwa w drodze dziecka do szkoły na Ursynowie Południowym;public transit and roads;adults,youth,children;0;21.061514993267835;52.135935687804164
-1073;45840;808;Zajęcia z uważności dla dzieci w wieku 7-11 lat na Ursynowie;welfare,education;adults,children;0;21.055598258972;52.136635853969
-1626;800000;786;Przebudowa ciągu komunikacyjnego ul. Poloneza;public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.006904168695;52.152157138898
-2120;124980;741;Ursynowscy muzycy - mieszkańcom;culture;people with disabilities,seniors,adults,youth;0;21.018799853384;52.130200638818
-210;45000;740;CeraMagiczne - Warsztaty ceramiczne dla mieszkańców Ursynowa - integracja dzieci, rodzin i osób starszych;culture,education;seniors,adults,youth,children;0;21.040727079524;52.143913981981
-1183;149200;731;Całoroczne Potańcówki Międzypokoleniowe;culture;people with disabilities,seniors,adults,youth,children;0;21.048410123601503;52.14063743271561
+1074;144000;828;Poprawa bezpieczeństwa w drodze dziecka do szkoły na Ursynowie Południowym;public transit and roads;adults,youth,children;0;52.135935687804164;21.061514993267835
+1073;45840;808;Zajęcia z uważności dla dzieci w wieku 7-11 lat na Ursynowie;welfare,education;adults,children;0;52.136635853969;21.055598258972
+1626;800000;786;Przebudowa ciągu komunikacyjnego ul. Poloneza;public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.152157138898;21.006904168695
+2120;124980;741;Ursynowscy muzycy - mieszkańcom;culture;people with disabilities,seniors,adults,youth;0;52.130200638818;21.018799853384
+210;45000;740;CeraMagiczne - Warsztaty ceramiczne dla mieszkańców Ursynowa - integracja dzieci, rodzin i osób starszych;culture,education;seniors,adults,youth,children;0;52.143913981981;21.040727079524
+1183;149200;731;Całoroczne Potańcówki Międzypokoleniowe;culture;people with disabilities,seniors,adults,youth,children;0;52.14063743271561;21.048410123601503
 595;610000;729;Aktywne przejścia dla pieszych – instalacja ul. Nugat na wysokości szkoły podstawowej nr 343 i ul. Przy Bażantarni w rejonie ul. Żabińskiego;health,public space,public transit and roads;people with disabilities,seniors,adults,youth;0;;
-1045;610000;714;Aktywne przejścia dla pieszych na Herbsta i Romera bez zwężania jezdni;public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.0292232260195;52.154002991781496
-2169;220000;710;Komfortowe nawierzchnie siłowni plenerowych i urządzeń street workout na Ursynowie;sport,public space;seniors,adults,youth,children;0;21.0456070759348;52.148675254898
+1045;610000;714;Aktywne przejścia dla pieszych na Herbsta i Romera bez zwężania jezdni;public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.154002991781496;21.0292232260195
+2169;220000;710;Komfortowe nawierzchnie siłowni plenerowych i urządzeń street workout na Ursynowie;sport,public space;seniors,adults,youth,children;0;52.148675254898;21.0456070759348
 1022;120000;665;Piknik dla mieszkańców Ursynowa i koncert polskiej gwiazdy;urban greenery,environmental protection,education;people with disabilities,seniors,adults,youth,children;0;;
 1411;58600;648;Potańcówki na Ursynowie;culture;people with disabilities,seniors,adults,youth,children;0;;
-773;40200;632;Darmowe zajęcia Zumba Fitness dla mieszkańców Warszawy;sport,health,welfare;seniors,adults,youth,children;0;21.040459871292;52.145511752514
-362;56000;592;Funkcjonalne stojaki na deskorolki z bezpiecznym zabezpieczeniem dla wszystkich ursynowskich szkół;sport,public space,education;youth,children;0;21.045641899109;52.148948383522
-2200;188120;577;Zajęcia mające na celu zagospodarowanie czasu wolnego dla dzieci, młodzieży, dorosłych i seniorów na Ursynowie;sport,welfare,culture;people with disabilities,seniors,adults,youth,children;0;21.006019010567;52.145188623928
-412;98075;574;Bezpłatne zajęcia dla dzieci i młodzieży w Dzielnicowym Ośrodku Kultury Ursynów;sport,culture,education;youth,children;0;21.019368836994;52.130882093832
-573;300000;558;RockUrsynOff;culture;people with disabilities,seniors,adults,youth,children;0;21.019313335419;52.130847130512
-1071;70300;534;Szkoła Życzliwości – zajęcia, materiały edukacyjne w szkołach podstawowych i konkurs filmowy dla uczniów;welfare,culture,education;adults,youth,children;0;21.045641899109;52.148948383522
-414;32400;515;Teatrzyki dla dzieci w Dzielnicowym Ośrodku Kultury Ursynów;culture,education;children;0;21.020339764897;52.131102361755
-1203;75000;505;Rodzina misiów „Ursynków” kolonizuje Ursynów;public space;people with disabilities,seniors,adults,youth,children;0;21.038290575601334;52.15244489508033
-2028;374000;488;Kompleksowe wsparcie rozwoju uczniów klas VII-VIII;welfare,education;adults,youth;0;21.03723011421143;52.15164417712572
-2196;60000;475;Ursynowski teatr międzypokoleniowy;welfare,culture,education;people with disabilities,seniors,adults,youth,children;0;21.020020604256665;52.142593887555996
-1464;36600;462;Warsztaty edukacyjne dla opiekunów osób w wieku podeszłym oraz dorosłych osób niepełnosprawnych;welfare,education;people with disabilities,seniors,adults;0;21.048892877335;52.137147268902
-854;110208;455;Zielone wnętrze Urzędu Dzielnicy Ursynów;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;21.045422905404;52.149096496464
-1412;51410;441;Plac zabaw na Kajakowej - doposażenie i modernizacja placu zabaw;sport,public space;children;0;21.019250557034667;52.13109882660134
-2185;30000;439;Randki dla seniorów;public space,welfare,culture;seniors;0;21.01952791214;52.130853716517
-1734;14400;438;Warsztaty, które pozytywnie wpływają na życie - redukcja stresu, praca z oddechem, poprawa komunikacji;welfare,education;seniors,adults,youth;0;21.0194593853975;52.130848808259
-1472;28000;434;Budowa bariery bezpieczeństwa pomiędzy chodnikiem a jezdnią ul. Rosoła po jej wschodniej stronie od przystanku Kiepury 02 do przejścia dla pieszych;;people with disabilities,seniors,youth,children;0;21.07215821743;52.137320704366
+773;40200;632;Darmowe zajęcia Zumba Fitness dla mieszkańców Warszawy;sport,health,welfare;seniors,adults,youth,children;0;52.145511752514;21.040459871292
+362;56000;592;Funkcjonalne stojaki na deskorolki z bezpiecznym zabezpieczeniem dla wszystkich ursynowskich szkół;sport,public space,education;youth,children;0;52.148948383522;21.045641899109
+2200;188120;577;Zajęcia mające na celu zagospodarowanie czasu wolnego dla dzieci, młodzieży, dorosłych i seniorów na Ursynowie;sport,welfare,culture;people with disabilities,seniors,adults,youth,children;0;52.145188623928;21.006019010567
+412;98075;574;Bezpłatne zajęcia dla dzieci i młodzieży w Dzielnicowym Ośrodku Kultury Ursynów;sport,culture,education;youth,children;0;52.130882093832;21.019368836994
+573;300000;558;RockUrsynOff;culture;people with disabilities,seniors,adults,youth,children;0;52.130847130512;21.019313335419
+1071;70300;534;Szkoła Życzliwości – zajęcia, materiały edukacyjne w szkołach podstawowych i konkurs filmowy dla uczniów;welfare,culture,education;adults,youth,children;0;52.148948383522;21.045641899109
+414;32400;515;Teatrzyki dla dzieci w Dzielnicowym Ośrodku Kultury Ursynów;culture,education;children;0;52.131102361755;21.020339764897
+1203;75000;505;Rodzina misiów „Ursynków” kolonizuje Ursynów;public space;people with disabilities,seniors,adults,youth,children;0;52.15244489508033;21.038290575601334
+2028;374000;488;Kompleksowe wsparcie rozwoju uczniów klas VII-VIII;welfare,education;adults,youth;0;52.15164417712572;21.03723011421143
+2196;60000;475;Ursynowski teatr międzypokoleniowy;welfare,culture,education;people with disabilities,seniors,adults,youth,children;0;52.142593887555996;21.020020604256665
+1464;36600;462;Warsztaty edukacyjne dla opiekunów osób w wieku podeszłym oraz dorosłych osób niepełnosprawnych;welfare,education;people with disabilities,seniors,adults;0;52.137147268902;21.048892877335
+854;110208;455;Zielone wnętrze Urzędu Dzielnicy Ursynów;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.149096496464;21.045422905404
+1412;51410;441;Plac zabaw na Kajakowej - doposażenie i modernizacja placu zabaw;sport,public space;children;0;52.13109882660134;21.019250557034667
+2185;30000;439;Randki dla seniorów;public space,welfare,culture;seniors;0;52.130853716517;21.01952791214
+1734;14400;438;Warsztaty, które pozytywnie wpływają na życie - redukcja stresu, praca z oddechem, poprawa komunikacji;welfare,education;seniors,adults,youth;0;52.130848808259;21.0194593853975
+1472;28000;434;Budowa bariery bezpieczeństwa pomiędzy chodnikiem a jezdnią ul. Rosoła po jej wschodniej stronie od przystanku Kiepury 02 do przejścia dla pieszych;;people with disabilities,seniors,youth,children;0;52.137320704366;21.07215821743
 821;350000;414;Grajmy w kosza na odnowionych boiskach przy ul. Puszczyka 8 i 12;sport,public space,education;people with disabilities,seniors,adults,youth,children;0;;
-2177;30000;406;Teatr na Kłobuckiej - cykl spektakli dla dzieci, młodzieży i dorosłych w miejscu aktywności lokalnej;welfare,culture,education;people with disabilities,seniors,adults,youth,children;0;20.992430148791;52.161278421813
+2177;30000;406;Teatr na Kłobuckiej - cykl spektakli dla dzieci, młodzieży i dorosłych w miejscu aktywności lokalnej;welfare,culture,education;people with disabilities,seniors,adults,youth,children;0;52.161278421813;20.992430148791
 2173;200000;394;Miejsce Aktywności Lokalnej w Ursynowskim Centrum Kultury przy Gandhi;public space,welfare,culture;people with disabilities,seniors,adults,youth,children;0;;
-2155;61360;386;Bezpieczny rowerzysta – przygotowanie do egzaminu na kartę rowerową;public space,education;youth;0;21.040102103499;52.14709181295
-359;716500;376;Biblioteka i czytelnia multimedialna na Hirszfelda. Kultura na widoku - działania w ramach animacji kultury;public space,welfare,culture;people with disabilities,seniors,adults,youth;0;21.040449142456;52.145511752514
-450;50000;355;Neon na budynku Dzielnicowego Ośrodka Kultury Ursynów;public space;;0;21.019993103468;52.131101860266
+2155;61360;386;Bezpieczny rowerzysta – przygotowanie do egzaminu na kartę rowerową;public space,education;youth;0;52.14709181295;21.040102103499
+359;716500;376;Biblioteka i czytelnia multimedialna na Hirszfelda. Kultura na widoku - działania w ramach animacji kultury;public space,welfare,culture;people with disabilities,seniors,adults,youth;0;52.145511752514;21.040449142456
+450;50000;355;Neon na budynku Dzielnicowego Ośrodka Kultury Ursynów;public space;;0;52.131101860266;21.019993103468
 231;140000;339;Kameleon - altana multifunkcyjna;education,urban greenery,sport;people with disabilities,seniors,adults,youth,children;0;;
-822;78500;333;O rany! – otwarte szkolenia z tamowania krwotoków dla mieszkańców Ursynowa;health,welfare,education;people with disabilities,seniors,adults,youth,children;0;21.045641899109;52.148948383522
+822;78500;333;O rany! – otwarte szkolenia z tamowania krwotoków dla mieszkańców Ursynowa;health,welfare,education;people with disabilities,seniors,adults,youth,children;0;52.148948383522;21.045641899109
 381;38500;327;Klub Małego Pisarza - całoroczny cykl warsztatów pisarskich dla dzieci;welfare,culture,education;children,families with children;0;;
-2195;51500;327;Międzypokoleniowa nauka tańca;public transit and roads,public space,welfare;people with disabilities,seniors,adults,youth,children;0;21.048740225926;52.136713638105
-1623;7600;326;Fun Run przygoda z mapą - Ursynów;urban greenery,sport,education;people with disabilities,seniors,adults,youth,children;1;21.089842945221;52.115048215154
-413;62000;310;Dokorocko - koncerty młodzieżowe w Dzielnicowym Ośrodku Kultury Ursynów;culture;youth;0;21.020652922537;52.131136500932
-2187;58000;307;Piknik Rodzinny Halloween w Arena Ursynów;culture,education,sport;people with disabilities,adults,youth,children;0;21.039247512817;52.143181012739
-856;40000;306;Utwardzenie nawierzchni przedeptów (Dembego, Sępa-Szarzyńskiego, Iwanowa-Szajnowicza, Zaruby);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;21.07319620632169;52.12920714770292
+2195;51500;327;Międzypokoleniowa nauka tańca;public transit and roads,public space,welfare;people with disabilities,seniors,adults,youth,children;0;52.136713638105;21.048740225926
+1623;7600;326;Fun Run przygoda z mapą - Ursynów;urban greenery,sport,education;people with disabilities,seniors,adults,youth,children;1;52.115048215154;21.089842945221
+413;62000;310;Dokorocko - koncerty młodzieżowe w Dzielnicowym Ośrodku Kultury Ursynów;culture;youth;0;52.131136500932;21.020652922537
+2187;58000;307;Piknik Rodzinny Halloween w Arena Ursynów;culture,education,sport;people with disabilities,adults,youth,children;0;52.143181012739;21.039247512817
+856;40000;306;Utwardzenie nawierzchni przedeptów (Dembego, Sępa-Szarzyńskiego, Iwanowa-Szajnowicza, Zaruby);urban greenery,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.12920714770292;21.07319620632169
 2141;40000;295;Dostosowanie chodnika w celu budowy przejścia dla pieszych na ul. Sarabandy;public transit and roads;people with disabilities,seniors,adults,youth,children;0;;
 1220;25000;280;Zielone miejsce na miły portret z misiem Ursynkiem;public space;people with disabilities,seniors,adults,youth,children;0;;
-1609;23500;274;Bezpieczny senior - wykłady o bezpieczeństwie dla osób starszych i nie tylko;education;people with disabilities,seniors,adults;0;21.045457070864;52.14908269793
-1705;61000;271;Angielski śpiewająco - nauka języka ang. dla dzieci w wieku szkolnym;welfare,education;people with disabilities,youth,children;0;20.993016132615;52.166886361119
+1609;23500;274;Bezpieczny senior - wykłady o bezpieczeństwie dla osób starszych i nie tylko;education;people with disabilities,seniors,adults;0;52.14908269793;21.045457070864
+1705;61000;271;Angielski śpiewająco - nauka języka ang. dla dzieci w wieku szkolnym;welfare,education;people with disabilities,youth,children;0;52.166886361119;20.993016132615
 686;26110;198;Praca z ciałem w oparciu o Aikido;sport;people with disabilities,children;0;;
-2181;64000;180;Pokazy edukacyjne przy użyciu technologii wirtualnej rzeczywistości;public space,welfare,education;adults,youth,children;0;21.040685176849;52.149461880321
-2136;2500;156;Stojaki rowerowe przy siłowni plenerowej na Manhattanie;sport;seniors,adults,youth,children;0;21.050162508962;52.152639721639
+2181;64000;180;Pokazy edukacyjne przy użyciu technologii wirtualnej rzeczywistości;public space,welfare,education;adults,youth,children;0;52.149461880321;21.040685176849
+2136;2500;156;Stojaki rowerowe przy siłowni plenerowej na Manhattanie;sport;seniors,adults,youth,children;0;52.152639721639;21.050162508962
 1253;170000;144;Remont chodnika przy ulicy Chóralnej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;;
 1797;22140;102;Współpraca się opłaca;sport,public space,culture;people with disabilities,seniors,adults,youth,children;0;;
 VOTES
