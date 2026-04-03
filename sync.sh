@@ -30,8 +30,8 @@ cd "$REPO_DIR"
 log "Running rsync from $SOURCE_DIR to $REPO_DIR/pb_files"
 rsync -av --delete "$SOURCE_DIR/" pb_files/ >> "$LOG_FILE" 2>&1
 
-# Check for changes
-if git diff --quiet; then
+# Check for changes, including new untracked files created by rsync
+if [ -z "$(git status --porcelain)" ]; then
   log "No changes detected, skipping commit"
   exit 0
 fi
