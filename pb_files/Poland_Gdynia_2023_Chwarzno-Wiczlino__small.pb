@@ -20,7 +20,7 @@ subdistricts;True
 edition;10
 language;pl
 currency;PLN
-comment;"#1: Projects marked as ""PROJEKT +1"" were saved with selected=2 because they are funded outside the regular BO pool."
+comment;"#1: Projects marked with selected=2 were funded as additional turnout-award projects under Gdynia's ""Projekt +1"" rule: one extra large project and two extra small projects are implemented in the districts with the highest voting turnout, using city funds outside the regular BO allocation."
 PROJECTS
 project_id;cost;votes;name;selected
 2023/CHW/0020;20000;1331;Piknik rodzinny z grami i zabawami dla najmłodszych, wizytą Straży Pożarnej oraz sąsiedzką wymianą rzeczy;1

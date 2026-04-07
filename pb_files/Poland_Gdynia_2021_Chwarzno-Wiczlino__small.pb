@@ -20,7 +20,7 @@ subdistricts;True
 edition;8
 language;pl
 currency;PLN
-comment;"#1: Projects marked as ""PROJEKT +1"" were saved with selected=2 because they are funded outside the regular BO pool."
+comment;"#1: Projects marked with selected=2 were funded as additional turnout-award projects under Gdynia's ""Projekt +1"" rule: one extra large project and two extra small projects are implemented in the districts with the highest voting turnout, using city funds outside the regular BO allocation."
 PROJECTS
 project_id;cost;votes;name;selected
 CHW/0024;10000;1171;Kino plenerowe dla dzieci i dorosłych - projekcja czterech filmów w jeden weekend;1

@@ -13,7 +13,7 @@ vote_type;approval
 rule;greedy-threshold
 date_begin;01.06.2025
 date_end;15.06.2025
-max_length;5
+max_length;3
 min_project_score_threshold;30
 edition;12
 language;pl

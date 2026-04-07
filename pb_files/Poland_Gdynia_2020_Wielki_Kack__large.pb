@@ -14,7 +14,7 @@ rule;greedy-no-skip
 date_begin;08.06.2020
 date_end;22.06.2020
 min_length;1
-max_length;3
+max_length;1
 min_project_score_threshold;50
 subdistricts;True
 edition;7

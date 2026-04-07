@@ -20,7 +20,7 @@ subdistricts;True
 edition;9
 language;pl
 currency;PLN
-comment;"#1: Projects marked as ""PROJEKT +1"" were saved with selected=2 because they are funded outside the regular BO pool."
+comment;"#1: Projects marked with selected=2 were funded as additional turnout-award projects under Gdynia's ""Projekt +1"" rule: one extra large project and two extra small projects are implemented in the districts with the highest voting turnout, using city funds outside the regular BO allocation."
 PROJECTS
 project_id;cost;votes;name;selected
 2022/CHW/0018;300000;1389;Zainstalowanie lamp przy ciągu pieszym na długości Potoku Wiczlińskiego od zejścia przy Przedszkolu nr 59 do ul. Krauzego;1

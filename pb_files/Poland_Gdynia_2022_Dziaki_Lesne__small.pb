@@ -20,7 +20,7 @@ subdistricts;True
 edition;9
 language;pl
 currency;PLN
-comment;"#1: Projects marked as ""PROJEKT +1"" were saved with selected=2 because they are funded outside the regular BO pool."
+comment;"#1: Projects marked with selected=2 were funded as additional turnout-award projects under Gdynia's ""Projekt +1"" rule: one extra large project and two extra small projects are implemented in the districts with the highest voting turnout, using city funds outside the regular BO allocation."
 PROJECTS
 project_id;cost;votes;name;selected
 2022/DZL/0004;14650;454;Ogólnodostępne zajęcia pilates dla mieszkańców dzielnicy Działki Leśne;1
