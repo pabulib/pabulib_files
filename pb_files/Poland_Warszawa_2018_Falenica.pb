@@ -29,7 +29,7 @@ project_id;cost;votes;name;category;target;selected
 1463;13500;211;Osuszenie rozlewiska Bystrzycka;public transit and roads;adults,families with children;1
 2144;31000;162;Wielki Świat Muzyki Klasycznej;culture;youth,adults,students;0
 733;70000;136;Oświetlenie ulic Frenkla i Firletki wzdłuż granic skweru;public transit and roads;None;0
-2438;71190;72;Robotyka z angielskim;education,culture,environmental protection;children,families with children,children;0
+2438;71190;72;Robotyka z angielskim;education,culture,environmental protection;children,families with children;0
 VOTES
 voter_id;vote;age;sex;voting_method
 70;591,733,1251,1463,2144;53;F;internet

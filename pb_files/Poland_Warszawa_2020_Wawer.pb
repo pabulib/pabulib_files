@@ -72,7 +72,7 @@ project_id;cost;votes;name;category;target;selected;latitude;longitude
 940;28000;339;Kosze na śmieci w osiedlu Sadul;environmental protection;seniors,adults,youth,children;0;52.2109327743735;21.1534466056371
 480;67800;337;Punkt porad wychowawczych;welfare,education;adults,youth,children;0;;
 1400;9000;333;Warsztaty Udzielanie Pierwszej Pomocy Dziecku zapraszamy rodziców jak również opiekunów;education;people with disabilities,seniors,adults;0;;
-1056;20000;330;Chodnik wzdłuż ul. Zagórzańskiej od Porośla do Odmiennej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children,children;0;52.1803962809526;21.2356485508153
+1056;20000;330;Chodnik wzdłuż ul. Zagórzańskiej od Porośla do Odmiennej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.1803962809526;21.2356485508153
 999;6500;328;Leśna masa krytyczna;sport,public space,public transit and roads;seniors,adults,youth,children;0;;
 2023;6950;326;Wojtyła. Portret śpiewem malowany - koncert w 100. rocznicę urodzin Papieża Polaka - maj 2020 r.;culture,education;people with disabilities,seniors,adults,youth,children;0;52.2059958534947;21.1703538894653
 1127;18400;319;Robotyka i programowanie w bibliotece;culture,education;youth,children;0;52.2202084965797;21.151202917099

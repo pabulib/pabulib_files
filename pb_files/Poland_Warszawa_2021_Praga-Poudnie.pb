@@ -81,7 +81,7 @@ project_id;cost;votes;name;category;target;selected;latitude;longitude
 737;8880;777;Aktywne soboty w Parku Skaryszewskim;sport;seniors,adults,youth;0;52.242097059886;21.054267883301
 1590;370000;771;Skwerek przy Majdańskiej- budowa automatycznej toalety miejskiej;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;0;52.240429807377;21.0869577350785
 1103;103428;754;Remont chodnika przy ul. Nowaka Jeziorańskiego i ul. Kwarcianej;public transit and roads;people with disabilities,seniors,adults,youth,children;0;52.2307206167648;21.0804846641218
-1897;91600;749;Mini Puszcza Białowieska;public transit and roads,urban greenery,public space;people with disabilities,seniors,adults,youth,children,youth;0;52.237656547543;21.090602315543
+1897;91600;749;Mini Puszcza Białowieska;public transit and roads,urban greenery,public space;people with disabilities,seniors,adults,youth,children;0;52.237656547543;21.090602315543
 2017;51600;719;Akrobatyka dla dzieci i młodzieży - zajęcia rekreacyjno-sportowe;sport;youth,children;0;;
 1764;134000;693;Ławki patronów ulic z multimedialną prezentacją;public space,culture,education;people with disabilities,seniors,adults,youth;0;;
 1454;86200;692;Ładniejsza zieleń wzdłuż ulicy Lotaryńskiej (nieopodal PROMu Kultury);urban greenery,public space,environmental protection;seniors,youth,children;0;52.224765177227;21.062500923872
