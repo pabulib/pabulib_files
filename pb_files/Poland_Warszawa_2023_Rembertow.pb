@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1639;202100;650;Zagospodarowanie Górki przy ul. Strażackiej;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.261600874009;21.155212264138
 839;175000;483;Nasadzenia krzewów w dzielnicy Rembertów;urban greenery,public space,environmental protection;adults,children;1;52.252475608006;21.12351398468
 1147;202000;470;Bouldering w Rembertowie (skała wspinaczkowa);sport,public space;seniors,adults,youth,children;1;52.26546485109;21.164681767324335

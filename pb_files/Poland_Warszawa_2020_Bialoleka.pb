@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 117;498980;2858;140 drzew i 2300 krzewów dla Białołęki;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 752;695000;2270;Nowoczesny Park Picassa - rewitalizacja parku;sport,public transit and roads,education;animals,people with disabilities,seniors,youth,children;1;52.3118375341993;20.952723655278
 1644;60000;2235;Ratujemy duże dęby - odbetonujmy i dajmy oddech;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.3207534864599;20.9549600279876

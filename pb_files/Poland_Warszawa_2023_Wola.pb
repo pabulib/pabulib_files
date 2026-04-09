@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 307;495800;2941;Nowe drogi i łączniki rowerowe na Woli;public transit and roads;seniors,adults,youth;1;52.23948247221186;20.957793164338714
 1460;700000;2832;Zielona Wola - 200 drzew dla Woli;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.238147090062;20.960811446071
 1706;825000;2109;BO warto dbać o Wole - remont chodników, nasadzenia drzew i zieleni, nowe ławki, śmietniki, nowe aktywności kulturalne oraz sportowe;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.23084171022783;20.964845746004276

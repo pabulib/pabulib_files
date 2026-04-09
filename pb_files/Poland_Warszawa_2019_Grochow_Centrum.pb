@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 260;18000;265;Zakup nowości książkowych do Wypożyczalni nr 40 i Biblioteki dla Dzieci nr 47;education,culture;children,adults;1
 262;13000;154;Spotkania varsavianistyczne i autorskie dla dzieci i młodzieży. Zakup projektora i ekranu elektrycznego.;education,culture;children,adults,seniors;0
 836;45000;333;ZielonoMi - drzewa dla Grochowa!;environmental protection,health,urban greenery;adults,seniors,families with children;1

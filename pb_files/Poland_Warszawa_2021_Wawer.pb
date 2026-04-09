@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1276;140000;1413;Lodowisko dla wszystkich - darmowy wstęp;sport;adults,youth,children;1;52.219664142063;21.163083958074
 201;200000;1402;Zakup nowych zbiorów do bibliotek wawerskich – książki, audiobooki, prasa, gry planszowe;culture,education;people with disabilities,seniors,adults,youth,children;1;52.216491124646;21.158728542442
 277;58950;1311;Sprowadźmy pszczoły do Wawra - pasieka edukacyjna i sąsiedzkie miodobranie;urban greenery,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.185560442709;21.193263819464

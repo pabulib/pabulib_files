@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 162;77000;356;Wygodnie po Moczydle - usprawnienia dla pieszych i rowerzystów;public transit and roads,public space;youth,adults,families with children;1
 561;17170;347;Sadzimy drzewa na osiedlu Koło;environmental protection,public space,urban greenery;adults,families with children,animals;1
 2664;78500;335;Pod Niebem pełnym cudów;education,culture;youth,adults,people with disabilities;1

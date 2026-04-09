@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 571;1000;1226;domki dla ptaków i nietoperzy;environmental protection,health;animals;1
 338;12000;829;Zakup nowości wydawniczych - Biblioteka dla Dzieci i Młodzieży nr 67/ Wypożyczalnia dla Dorosłych i Młodzieży nr 110.;education,culture;children,youth,adults;1
 332;4500;672;Prenumerata prasy w Klubie Kultury Seniora;education,culture;adults,seniors;1

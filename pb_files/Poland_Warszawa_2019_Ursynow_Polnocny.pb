@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 23;460000;1346;Doświetlenie przejść dla pieszych na Ursynowie Północnym;public transit and roads;children,youth,families with children;1
 1860;7000;1235;Remont Ptasiego Mieszkania na Imielinie;education,environmental protection,public space;seniors,families with children,animals;1
 1583;205500;1214;Trampoliny przy placach zabaw;public space,sport,health;children,youth,families with children;1

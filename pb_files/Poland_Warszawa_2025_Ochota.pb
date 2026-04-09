@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1661;650000;1923;Parki kieszonkowe dla Ochoty – zielone oazy zamiast asfaltowych wysp;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.19974245;20.969059837015504
 456;271400;1731;Zielone ulice Ochoty – nasadzenie 1 020 m2 rabat z krzewów, bylin i traw;environmental protection,public space,urban greenery;children,seniors;1;;
 478;32400;1582;Zazieleniamy ochockie parkany, zwiększamy powierzchnię biologicznie czynną;education,environmental protection,public space,urban greenery;children,seniors;1;52.2115477;20.972523231009006

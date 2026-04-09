@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 338;400000;1374;Bezpieczne parkowanie na ul. Chodeckiej;public transit and roads,public space,urban greenery;adults,people with disabilities,families with children;1
 445;76000;465;PARK LEŚNY - nowe drzewa przy Kondratowicza i Św. Wincentego;environmental protection,health,urban greenery;children,seniors,families with children;1
 1346;100000;395;Bezpieczne przejście do Lasku Bródnowskiego;public transit and roads;children,seniors,families with children;0

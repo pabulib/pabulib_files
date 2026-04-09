@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 85;14400;328;Książek nigdy dość! - dofinansowanie zakupu książek dla biblioteki przy ul. Perzyńskiego 3;education,culture;youth,seniors,families with children;1
 1141;280000;303;HYDROFUN: Rewitalizacja hydroforni przy ul. Gąbińskiej;public space,sport;adults,families with children;1
 1219;29950;285;Doświetlenie ścianki wspinaczkowej w parku Olszyna;public space;children,youth,adults;1

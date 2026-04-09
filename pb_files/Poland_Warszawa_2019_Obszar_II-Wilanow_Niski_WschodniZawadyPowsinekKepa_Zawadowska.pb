@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 141;165000;211;50 nowych drzew na ulicach Zawad.;environmental protection,public space,urban greenery;youth,seniors,families with children;1
 91;85500;197;Wieże lęgowe dla jerzyków na Zawadach i Kępie Zawadowskiej;public space,health,urban greenery;people with disabilities,families with children,animals;1
 1617;241000;158;Remont 360 metrów dawnej drogi rowerowej na ul. Przyczółkowej;public transit and roads,public space;children,youth,adults;1

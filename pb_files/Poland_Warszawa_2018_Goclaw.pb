@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 54;71400;860;Świąteczne dekoracje świetle na Gocławiu;public space;children,families with children;1
 53;31357;779;kolorowy trawnik na Gocławiu;public space,urban greenery;seniors,families with children;1
 294;4500;749;Prenumerata prasy w Klubie Kultury Seniora;education,culture;adults,seniors;1

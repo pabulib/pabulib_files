@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 177;273000;671;Skwer Krzyżówki/Kowalczyka - Żerań;environmental protection,public space,urban greenery;children,adults,animals;1
 288;110250;556;Nowa zieleń dla Żerania;environmental protection,public space,urban greenery;children,adults,seniors;1
 289;24728;519;Drzewa zamiast klepiska;environmental protection,public space,urban greenery;children,adults,seniors;1

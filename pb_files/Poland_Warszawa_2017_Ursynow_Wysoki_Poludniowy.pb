@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 528;198870;1798;Sportowy plac zabaw w Sadku;public space,sport;children,youth,families with children;1
 177;150000;1789;Park wokół Górki Kazurki;urban greenery,environmental protection,public space;children,adults;1
 349;300000;1549;Rowerowe miasteczko ruchu i park rekreacyjny na Kazury zamiast nowej zabudowy;education,urban greenery,environmental protection;children,youth,families with children;1

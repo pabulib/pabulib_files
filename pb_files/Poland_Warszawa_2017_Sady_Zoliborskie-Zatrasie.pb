@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1274;14600;487;Zakup książek i organizacja spotkań autorskich w bibliotekach przy ulicy Broniewskiego 9a;education,culture;children,youth,adults;1
 1851;13000;446;Nowe oświetlenie bezpiecznej drogi do SP267;public transit and roads;children,adults,families with children;1
 1129;35000;390;Bezpieczne przejście dla pieszych przy Broniewskiego 26;public space,public transit and roads;children,youth,adults;1

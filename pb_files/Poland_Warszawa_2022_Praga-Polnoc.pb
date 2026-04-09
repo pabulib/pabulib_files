@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1435;380000;1116;Zielony Plac Wileński dla Pragi;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1278;49900;1073;33 nowe drzewa na Pradze;education,urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;;
 7;26000;829;Zielone ściany dla Pragi 3;public space,environmental protection,urban greenery;people with disabilities,seniors,adults,youth,children;1;52.25867472334925;21.04469589462175

@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 970;30000;128;Bezpieczna Przewodowa - Nadwiśle;public transit and roads;None;1
 2182;42100;89;Bitumiczna nawierzchnia na poboczu ul. Borowieckiej;public transit and roads;children,youth,adults;1
 915;10000;82;Czyste Psie Nadwiśle;environmental protection,public space;animals;1

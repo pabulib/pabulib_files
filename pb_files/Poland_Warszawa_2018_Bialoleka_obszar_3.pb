@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2676;194950;1412;Alejka i zielony skwerek przy Parku Magiczna;education,public space,urban greenery;adults,families with children;1
 1287;37000;1336;Z górki na pazurki - budowa górki saneczkowej w Parku Magiczna;public space;families with children;1
 1941;138170;1201;KINOŁĘKA - kino plenerowe;education,culture,public space;children,youth,adults;1

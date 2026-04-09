@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2371;67650;1390;Zielona ściana - zmniejszenie uciążliwości Trasy Łazienkowskiej;environmental protection,health,urban greenery;None;1
 2730;60000;1264;Chronimy jerzyki i wróble w Śródmieściu-skrzynki lęgowe;environmental protection;animals;1
 31;372000;1068;Zbiory dla bibliotek;education,culture,public space;children,adults,seniors;1

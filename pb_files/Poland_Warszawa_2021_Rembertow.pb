@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 292;67000;733;Zakup książek do rembertowskiej biblioteki;culture,education;people with disabilities,seniors,adults,youth,children;1;52.25253109695833;21.155019036767
 1353;165000;719;Sport i kultura dla każdego. Modernizacja sali gimnastycznej na Ziemskiego;sport,culture,education;seniors,adults,youth,children;1;52.259039975683;21.177172064781
 835;41000;636;Rembertowskie kino pod gwiazdami;culture;people with disabilities,seniors,adults,youth,children;1;;

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1736;1098625;3369;Spójna sieć dróg rowerowych na Ursynowie;sport,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.15094940468519;21.040157413956997
 1261;400000;3107;Nasadzenia drzew na terenie dzielnicy Ursynów;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.149993500810254;21.0436450347735
 1617;385750;3002;Zielone skwery na Ursynowie (kontynuacja);urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

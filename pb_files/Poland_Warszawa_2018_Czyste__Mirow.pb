@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1112;147510;376;Pij Warszawo - na Czystem i Mirowie;public space,sport,health;adults,seniors,families with children;1
 669;499870;364;Zielona Towarowa - nowe drzewa, krzewy i ławki na wybranych fragmentach ulicy;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 845;300000;331;Przyjazne Czyste i Mirów - poprawa bezpieczeństwa pieszych na przejściach i przejazdach rowerowych ciąg Prosta-Kasprzaka;public transit and roads;children,youth,adults;1

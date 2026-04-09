@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2542;150000;517;Kolorowy Plac Zabaw przy SP 255;education,sport;children;1
 959;10000;368;Z Mińskiej na Wschodni - ciąg pieszo-rowerowy przy Bliskiej i inne poprawki;public transit and roads,public space,health;adults,people with disabilities,families with children;1
 2577;28000;349;Plac zabaw dla dorosłych;public space;adults,seniors,people with disabilities;1

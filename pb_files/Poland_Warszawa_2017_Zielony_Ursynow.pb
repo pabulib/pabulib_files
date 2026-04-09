@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1019;14970;360;Czystość na Zielonym Ursynowie - kosze na śmieci na ulicy Trombity;environmental protection,public space,urban greenery;youth,adults,families with children;1
 1861;600000;351;Boisko przy jeziorze Zgorzała;public space,sport,health;children,youth,families with children;1
 1900;415710;325;Aleja drzew wzdłuż brzegu Jeziora Zgorzała;urban greenery;youth,seniors,families with children;1

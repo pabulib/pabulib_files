@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1002;66600;270;Liliowy Zakątek treningowy - siłownia plenerowa dla Małych i Dużych;public space,sport,health;adults,seniors,families with children;1
 378;7000;194;Zakup nowych książek do Biblioteki w Miedzeszynie;education,culture;youth,seniors,families with children;1
 866;46000;194;Leśna polana - sport i biesiada;public space,sport,health;youth,adults,families with children;1

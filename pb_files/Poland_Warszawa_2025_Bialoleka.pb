@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1143;267000;2925;Drzewa dla Białołęki (kontynuacja);environmental protection,urban greenery;children,seniors;1;;
 1107;200000;2631;Bezpłatna pomoc psychologiczna dla dzieci na Białołęce;education;children;1;52.3325619712304;20.9914663590883
 1097;988000;2353;Doświetlenie przejść dla pieszych;public transit and roads,environmental protection;;1;52.32393293928572;20.98523476871636

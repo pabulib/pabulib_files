@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 981;5900;485;Pchli targ na Sadybie. Sprzedajmy zbędne rzeczy, kupmy coś atrakcyjnego, poznajmy sąsiadów.;welfare;None;1
 815;8530;473;Niezapominajki do Parku przy Bernardyńskiej;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 1001;418500;376;Międzypokoleniowe Miejsce Spotkań - sąsiedzki pawilon parkowy na Skwerze Ormiańskim;culture,public space;children,seniors;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1057;186000;1024;„Park Henrykowski dzieciom!” – doposażenie parku w duży zestaw zabawowy;public space,sport,health;children,youth,families with children;1
 961;4820;841;Bezpieczne przejścia dla pieszych - Kocie oczka - na ul. Klasyków;public transit and roads,public space;youth,adults,families with children;1
 831;4500;737;Montaż lustra drogowego przy skrzyżowaniu ulic Krokwi i Podróżniczej;public transit and roads,public space;None;1

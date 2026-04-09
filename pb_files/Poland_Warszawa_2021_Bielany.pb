@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 104;230000;3074;Więcej drzew i krzewów dla Bielan;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.282710315895;20.946447316936
 812;65000;2261;Czyste Stawy Brustmana - czysta woda w stawach na Wawrzyszewie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.282649649304;20.933125431662
 620;505000;2023;Doświetlenie przejść dla pieszych na ulicach: Wolumen, Wergiliusza, Przybyszewskiego, Bogusławskiego, Kwitnącej, Wrzeciono, Kochanowskiego, Staffa i Balcerzaka;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.281915138848206;20.936505518789996

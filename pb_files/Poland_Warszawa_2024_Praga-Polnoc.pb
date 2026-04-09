@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 476;498080;1440;Nowe drzewa i krzewy dla Pragi;environmental protection,public space,urban greenery;children,seniors;1;52.25904952216355;21.044899065097653
 491;350000;1191;Wyrzucamy beton - sadzimy zieleń na Pradze;environmental protection,public space,urban greenery;children,seniors;1;52.260319949999996;21.033318967107775
 225;527421;1170;Zielone ulice Pragi;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.25992055623785;21.04016017441918

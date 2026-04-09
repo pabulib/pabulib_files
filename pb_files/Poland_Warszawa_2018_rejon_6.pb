@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1901;1650;1007;W Parku Arkadia jeże potrzebują leże;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 1715;2050;963;Budki dla ptaków;education,environmental protection,urban greenery;seniors,families with children,animals;1
 1851;1800;874;Karmimy-nie szkodzimy w Parku Arkadia;environmental protection,public space,urban greenery;seniors,families with children,animals;1

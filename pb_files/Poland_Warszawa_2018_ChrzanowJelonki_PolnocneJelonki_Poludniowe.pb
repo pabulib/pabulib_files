@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 805;127200;1459;Nowe drzewa i atrakcje w Parku Górczewska;public space,urban greenery;seniors,people with disabilities,families with children;1
 1956;75000;1260;W ochronie powietrza na Bemowie;environmental protection,health,urban greenery;None;1
 224;173360;1058;Poprawa warunków ruchu pieszych i rowerzystów na Powstańców Śląskich;public transit and roads,urban greenery;youth,adults,students;1

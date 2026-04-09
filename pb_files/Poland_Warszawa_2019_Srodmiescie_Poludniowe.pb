@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 923;19800;630;Lepsze powietrze na Śródmieściu - posadźmy rośliny zmniejszające smog;environmental protection,public space,urban greenery;children,adults,families with children;1
 1734;75000;432;Pielęgnacja alternatywą dla piły! Chrońmy drzewa Śródmieścia Południowego;environmental protection,public space,urban greenery;children,adults,animals;1
 796;3500;392;Gazonik na ulicy Oleandrów;culture,public space,urban greenery;youth,adults,families with children;1

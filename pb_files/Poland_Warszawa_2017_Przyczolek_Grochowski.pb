@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1772;8000;118;Nowe ławki przy jeziorku Gocławskim;public space;adults,seniors,families with children;1
 1774;93500;79;Nowe miejsca parkingowe na Przyczółku Grochowskim;public transit and roads;adults;1
 504;90000;67;Rampa z przejścia przy kanale w al. USA oraz kontraruch rowerowy na Motorowej;public transit and roads,environmental protection,public space;adults,people with disabilities,families with children;0

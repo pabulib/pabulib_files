@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1588;3000;280;Budki lęgowe dla ptaków - Żoliborz Południowy;education,environmental protection,urban greenery;children,youth,animals;1
 955;98200;173;Żoliborz Południowy przyjazny dla każdego - Psi Park;environmental protection,public space;youth,adults,animals;1
 1443;138545;160;Dzienny Minipark;public space,health,urban greenery;seniors,people with disabilities,families with children;1

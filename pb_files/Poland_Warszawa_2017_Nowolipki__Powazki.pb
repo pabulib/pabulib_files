@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 73;75000;674;Rowerowe Powązki - budowa łącznika pomiędzy Rondem Radosława a ul. Młocińską wraz z nasadzeniami zieleni.;urban greenery,public transit and roads,public space;youth,people with disabilities,families with children;1
 2300;152950;663;Burza Piaskowa - publiczna przestrzeń rekreacyjno-sportowa.;public space,sport,health;youth,adults,seniors;1
 1548;481620;605;Biblioteka i czytelnia multimedialna na ul. Wolność;education,culture,welfare;youth,adults,seniors;1

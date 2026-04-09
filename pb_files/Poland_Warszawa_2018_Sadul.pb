@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 855;64000;86;Doposażenie Sadulskiego Zakątka;public space,sport,urban greenery;children,families with children;1
 783;48600;77;Chodnik na Snopowej;public transit and roads,public space;children,adults,seniors;1
 VOTES

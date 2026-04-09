@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2591;5100;1190;Stacja naprawy rowerów;sport,public space;families with children,people with disabilities,adults;1;52.162481653267;21.215404272079
 1304;83000;994;Zagospodarowanie otoczenia stawu Morskie Oko;urban greenery,sport,public space;animals,families with children,seniors,adults,youth,children;1;52.169812649957;21.230446100235
 403;150060;889;Tor rowerowy dla każdego - Pumptrack Wawer;sport,public space;families with children,adults,youth;1;52.185432642357;21.143231391907

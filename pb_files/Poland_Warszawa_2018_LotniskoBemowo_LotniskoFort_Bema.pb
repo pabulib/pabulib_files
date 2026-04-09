@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 206;45980;690;Mała architektura przy Wrocławskiej i w okolicy – stojaki rowerowe, ławki, donice z kwiatami;public transit and roads,sport;children,youth,adults;1
 1264;45300;666;Budowa brakującego odcinka chodnika przy rondzie Widawska/Księcia Bolesława;public transit and roads,public space;adults,people with disabilities,families with children;1
 1143;23500;658;W jednym kierunku na parkingu przy SP nr 357;public transit and roads,public space;children,adults,families with children;1

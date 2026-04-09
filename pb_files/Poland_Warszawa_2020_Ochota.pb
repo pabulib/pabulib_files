@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1120;288728;2229;Butelkomaty dla Ochoty - akcja edukacyjno-promocyjna;public space,environmental protection,culture;people with disabilities,seniors,adults,youth,children;1;;
 1225;7000;1744;Ratujmy ochockie aleje kasztanowe przed szrotówkiem kasztanowcowiaczkiem;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 182;101000;1743;Montaż latarni w nieoświetlonych alejkach Parku Szczęśliwickiego;urban greenery;adults,youth,children;1;52.2038713140539;20.9630151075819

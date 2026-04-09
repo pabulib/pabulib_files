@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 279;49600;241;Siłownia plenerowa przy Szkole Podstawowej nr 138;education,sport,health;children,youth,adults;1
 1491;93000;235;Sportowe Centrum Rehabilitacji Dzieci i Młodzieży - zajęcia sportowe;welfare,sport,health;children,youth,people with disabilities;1
 274;12000;200;Tablice edukacyjne przy SP 138;education,environmental protection,public space;children,seniors,families with children;1

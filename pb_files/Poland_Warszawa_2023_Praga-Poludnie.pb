@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 354;1436058;3277;Nowe drzewa, ławki i chodniki na Pradze Południe;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.24157437617527;21.062824701436433
 1025;390000;3062;Zielona Praga Południe - nasadzenia i uporządkowanie terenu;welfare,urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;;
 382;114000;2818;Nie chcesz mieć szczurów? Zadbaj o koty! – Dokarmianie, leczenie i sterylizacja kotów wolno żyjących z Pragi - Południe oraz zakup/wykonanie zimowych budek z Pragi. Kontynuacja projektów z poprzednich edycji Budżetu.;urban greenery,public space,environmental protection;animals;1;;

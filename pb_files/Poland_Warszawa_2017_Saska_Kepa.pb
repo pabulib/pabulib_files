@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 67;11193;598;Ptasi ogród przy ulicy Nobla;urban greenery;children,seniors,families with children;1
 765;165000;398;Ciemność widzę, ciemność! - oświetlenie 450 metrowego odcinka ciągu pieszo-rowerowego nad Kanałkiem Wystawowym;public space;children,youth,adults;1
 925;267080;425;Droga dla rowerów na Egipskiej i Saskiej;public transit and roads,public space;children,youth,adults;1

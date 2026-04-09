@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 832;45900;434;Zakup książek, audiobooków, filmów, planszówek, płyt do Biblioteki Publicznej w Dzielnicy Ochota m.st. Warszawy;education,culture;children,youth,adults;1
 1400;113947;421;Pij, Warszawo - na Starej Ochocie;environmental protection,public space,health;adults,seniors,families with children;1
 1765;36500;418;Pasieka w Domu Dziecka nr 15 im. Ks. Baudouina;education,environmental protection,urban greenery;children,youth,seniors;1

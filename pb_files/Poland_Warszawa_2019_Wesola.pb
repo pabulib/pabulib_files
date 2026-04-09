@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 932;500000;738;Wodny Park Zabaw;public space,sport,health;children,youth,families with children;1
 1823;12500;540;Pluskowisko przy placu zabaw;public space,health,urban greenery;children,youth,families with children;1
 592;4000;504;Doposażenie Biblioteki - zakup tablicy ogłoszeniowej i teatrzyku do pracy z dziećmi;education,culture;children,youth,adults;1

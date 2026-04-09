@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 498;20000;65;Aktywny mieszkaniec nordic walking;sport,health;youth,adults,seniors;1
 2423;7100;46;Budki dla ptaków śpiewających i nietoperzy - pogromców komarów;environmental protection,health;children,adults,animals;1
 VOTES

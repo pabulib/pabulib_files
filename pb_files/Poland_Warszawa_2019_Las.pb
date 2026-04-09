@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1137;7000;103;Kosze na śmieci;public space;children,youth,adults;1
 1017;30000;100;Naukowy plac zabaw;education,public space,health;youth,seniors,families with children;1
 1906;4500;94;Filmowy Las - projekcje kina plenerowego;education,culture,public space;youth,adults,families with children;1

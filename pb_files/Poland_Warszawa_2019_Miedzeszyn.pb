@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2359;20000;139;Zakup nowości wydawniczych dla biblioteki w osiedlu Miedzeszyn;education,culture,welfare;youth,seniors,families with children;1
 479;5940;131;Artystyczny Krąg - rozwijanie i wspieranie pasji twórczych;culture;adults;1
 578;110000;129;Skwer rekreacyjny z mini siłownią w Miedzeszynie, ul. Szafirowa;public space,health,urban greenery;seniors,families with children;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2276;108350;1383;CZYSTA WISŁA na Pradze Północ;education,welfare,public space;seniors,people with disabilities,families with children;1
 1528;337000;1254;Więcej zieleni na Pradze;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 2262;1000;1091;Dom Kultury dla każdego;education,culture,public space;youth,adults,people with disabilities;1

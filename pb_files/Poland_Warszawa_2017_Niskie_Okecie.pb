@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 53;79390;311;Budowa siłowni plenerowej wraz z drążkami do street workout;sport,health;youth,adults,seniors;1
 52;200000;267;Wielofunkcyjne boisko do koszykówki, siatkówki, tenisa ziemnego - ogólnodostępne, bezpłatne, bez ograniczeń czasowych;education,sport,health;youth,adults,students;1
 1885;150520;118;Ogólnodostępny plac zabaw;public space,sport,urban greenery;children,youth,families with children;0

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1571;300000;263;Rowerem w kierunku Konstancina.;public transit and roads,sport;adults,seniors,students;1
 1651;11070;249;Ławki przy ścieżce rowerowej do Powsina II;public space,sport,health;children,youth,adults;1
 1110;52500;236;Remont chodnika wzdłuż ul. Sytej od Osiedla Ogrody Wilanowskie do przystanku autobusowego Glebowa 02.;public transit and roads;children,youth,adults;1

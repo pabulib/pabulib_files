@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1794;750000;3425;Ratujemy staw przy ul. Spacerowej i młode drzewa w Parku Promenada-Morskie Oko;public space,urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.206076067186;21.024943613993
 217;261760;2959;Zrywamy beton, sadzimy zieleń.;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.20477125176525;21.0456220719865
 1711;511900;2932;Nie jesteś sam - pierwsza pomoc psychologiczna dla dzieci i młodzieży. Zróbmy to jeszcze raz!;health,welfare,education;adults,youth,children;1;52.188165879608334;21.019934063163003

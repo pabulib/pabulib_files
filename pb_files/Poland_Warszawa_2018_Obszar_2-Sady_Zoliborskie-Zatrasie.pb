@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1033;7500;507;Bezpieczna droga do szkoły nr 267 przy ul. Braci Załuskich;public transit and roads,public space;children,families with children;1
 106;12530;479;Nowe drzewa i krzewy przy ul. Elbląskiej;public space,urban greenery;youth,adults,families with children;1
 1847;150000;464;Rewitalizacja boiska szkolnego przy SP 267;public space,sport,health;children,adults,families with children;1

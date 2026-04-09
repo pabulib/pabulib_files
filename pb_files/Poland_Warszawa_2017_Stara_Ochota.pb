@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1762;22120;565;Sad owocowy z łąką - Pole Mokotowskie – EKO MIASTO;environmental protection,urban greenery,public space;children,adults,animals;1
 211;41000;475;Woda dla spragnionych - miejskie źródełko na Polu Mokotowskim;public space,sport;None;1
 2279;23400;461;Łąka kwietna - Pole Mokotowskie - EKO MIASTO;environmental protection,public space,urban greenery;children,adults,animals;1

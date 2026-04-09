@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 950;350000;798;Bezpieczne przejścia dla pieszych i przejazdy dla rowerzystów;public transit and roads,environmental protection,health;youth,adults,seniors;1
 1868;8630;740;Łąka Marszałkowska - Eko Miasto;environmental protection,public space,urban greenery;children,adults,animals;1
 744;120400;714;Żywopłoty zamiast niektórych słupków na Marszałkowskiej;environmental protection,public space,urban greenery;children,youth,adults;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1953;440000;665;Droga rowerowa wzdłuż ul. gen. Władysława Andersa (Muranów);public transit and roads;children,youth,adults;1
 1541;92250;504;Poidełka wody pitnej na Muranowie;public space,health,urban greenery;children,adults;1
 453;118300;493;Doposażenie siłowni plenerowej w urządzenia do street workoutu na terenie zieleńca zlokalizowanego przy MHŻP POLIN.;sport,health;children,youth,adults;1

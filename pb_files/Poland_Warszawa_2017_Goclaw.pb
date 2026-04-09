@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1590;187200;816;Ścieżka przyrodnicza wzdłuż Kanałku Gocławskiego na odcinku Ul. Fieldorfa - ul. Rechniewskiego.;environmental protection,education;children,adults,seniors;1
 1098;300000;857;Droga rowerowa na Bora-Komorowskiego na odcinku Fieldorfa – Abrahama;public transit and roads,public space,sport;youth,adults,families with children;1
 32;190200;712;Plac zabaw dla starszych dzieci na Gocławiu Iskra;public space,sport,health;youth;0

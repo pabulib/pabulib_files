@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 105;470760;2011;Więcej zieleni, mniej betonu przy ulicach Ursusa;public space,urban greenery;children,seniors;1;52.19409129674703;20.887067019939426
 481;491700;1797;Uratuj życie! - defibrylatory AED przy każdej publicznej placówce oświatowej w Ursusie;education,welfare,sport;children,seniors;1;52.19376065029544;20.883647383582247
 663;420000;1433;Świąteczny Ursus - Iluminacje świąteczne w Ursusie i jarmark w Parku Czechowickim;culture,public space;children,seniors;1;52.195493369847604;20.8812989294529

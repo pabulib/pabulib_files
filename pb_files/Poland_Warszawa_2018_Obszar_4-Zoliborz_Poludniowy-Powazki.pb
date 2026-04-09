@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 946;485000;1827;Skwer Krasińskiego;public space,sport,urban greenery;youth,adults,families with children;1
 2526;123000;1586;Ptasi zakątek- Rewitalizacja terenów zielonych pod rekreację i wypoczynek na Żoliborzu Południowym;public space,sport;youth,seniors,families with children;0
 2505;91370;560;Dzienny Minipark;public space,health,urban greenery;adults,people with disabilities,families with children;0

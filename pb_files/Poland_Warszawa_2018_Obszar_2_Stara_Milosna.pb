@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1446;255000;578;Tężnia solankowa dla zdrowia, urody, latem dla ochłody;public space,health,urban greenery;youth,seniors,families with children;1
 1784;27000;405;Ładniej w Starej Miłośnie - więcej drzew i barwnych krzewów wzdłuż głównej ulicy;public space,urban greenery;seniors,families with children;1
 1142;16400;405;Rozświetlona Wesoła;public transit and roads;None;1

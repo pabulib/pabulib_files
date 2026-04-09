@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 138;1036669;1764;Wodny plac zabaw w upalne dni na Targówku;public space,sport;children;1;52.27353258728639;21.049676346686663
 1459;285000;1579;Letnie kino plenerowe dla dorosłych i dzieci;education,culture,public space;children,seniors;1;52.27845492970437;21.054114585271094
 136;1036669;1542;Bezpłatne lodowisko w Parku Bródnowskim z animacjami;culture,sport;children,seniors;1;52.291610378371;21.037992238998

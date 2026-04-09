@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 548;174000;312;Plac zabaw przy Szkole Podstawowej nr 187;education,sport;children,families with children;1
 2007;74804;276;Spotkajmy się wśród zieleni na Magiera;environmental protection,public space,urban greenery;youth,seniors,families with children;1
 599;34292;267;Zdrowi i wysportowani. Zajęcia sportowe dla dzieci i młodzieży w Szkole Podstawowej nr 187;sport,health;children,youth;1

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2009;82000;829;Czysta droga do szkoły - kosze na śmieci w Rembertowie;public space;people with disabilities,seniors,adults,youth,children;1;52.2633681005657;21.1571735143661
 1917;60000;705;Bezpieczna droga do szkoły - przejście dla pieszych przez ul. Paderewskiego;public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.268899290545;21.1519002914429
 589;49000;689;Książki i multimedia do Biblioteki;culture,education;people with disabilities,seniors,adults,youth,children;1;52.2585704298161;21.1628007888794

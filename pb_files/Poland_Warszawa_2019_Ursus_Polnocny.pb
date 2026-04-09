@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1278;360000;672;Tężnia solankowa dla Osiedla Niedźwiadek i mieszkańców Ursusa Północnego;environmental protection,public space,health;youth,seniors,families with children;1
 1485;478924;558;Wymiana nawierzchni na boiskach przy SP2;education,public space,sport;children,youth,adults;1
 1246;2500;557;Komputer dla Biblioteki filia Gołąbki;education;children,youth,seniors;1

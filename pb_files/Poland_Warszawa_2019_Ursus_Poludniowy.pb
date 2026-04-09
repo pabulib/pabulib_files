@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1780;145975;972;Bezpieczne dojście na basen i Orlik przy OSiR Ursus ul. Sosnkowskiego;public transit and roads;children,youth,families with children;1
 2065;103450;855;Bezpieczna droga do szkoły na osiedlu Skorosze;public transit and roads;children,youth,families with children;1
 2064;32250;638;Zakup gier planszowych i nowości wydawniczych dla bibliotek w Ursusie;education,culture;children,youth,adults;1

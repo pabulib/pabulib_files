@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 287;90000;4198;Gocław walczy ze smogiem. Sadzimy rośliny zimozielone;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.2298970358064;21.0846133306304
 26;1150000;3736;Budowa dużego skateparkuu na Gocławiu dla całej Pragi-Południe jako wizytówka prawej strony Wisły;sport,culture,education;seniors,adults,youth,children;1;52.2216435549075;21.081992018869
 49;2000;3538;Domki dla jeży nad Balatonem;environmental protection;animals;1;;

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1045;27500;596;Plac Wilsona dla ludzi! Szersze chodniki i więcej drzew;public transit and roads,public space,urban greenery;children,adults,seniors;1
 286;1000;514;Ławka (róg Mierosławskiego i Czarnieckiego);public transit and roads,public space,health;seniors,people with disabilities,families with children;1
 1026;81611;452;Rowerowy Żoliborz - Oficerski, Urzędniczy i WSM;public transit and roads,public space,health;youth,adults,seniors;1

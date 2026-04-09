@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1153;220000;1466;Spokój w głowie - pomoc psychologiczna dla dzieci i młodzieży;education,welfare;children;1;52.20523100203953;21.170091032981876
 525;30000;1441;Kosze na śmieci dla Wawra;environmental protection,public space;children,seniors;1;52.224194264352754;21.13823108375073
 937;17900;1213;Wigilia dla potrzebujących;culture,welfare,public space;children,seniors;1;52.21318162946016;21.10997200012207

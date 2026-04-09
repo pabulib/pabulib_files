@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 875;22000;227;Trampoliny w Aninie;public space,sport,health;children,youth,families with children;1
 522;16000;222;Oznakowanie ścieżek w lesie w Aninie- kierunkowskazy;education,public transit and roads,urban greenery;seniors,people with disabilities,families with children;1
 2314;10000;213;Nowości wydawnicze dla Wypożyczalni nr 87 w Aninie;education,culture;youth,adults,seniors;1

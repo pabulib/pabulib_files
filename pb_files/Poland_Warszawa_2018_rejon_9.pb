@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2333;266500;421;Ścieżka dla Jeziorka Czerniakowskiego;education,environmental protection,urban greenery;seniors,families with children,animals;1
 703;135000;318;Lepsza Bernardyńska - przebudowa wjazdu na osiedle;public transit and roads,public space,urban greenery;None;1
 1765;10700;310;Wieś Czerniaków. Warsztaty edukacji historycznej i plastycznej;education,culture;children,adults,seniors;1

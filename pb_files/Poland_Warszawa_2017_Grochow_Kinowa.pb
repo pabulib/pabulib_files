@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 597;3571;273;Przyjazny Grochów – zieleń, czystość i bezpieczeństwo;public transit and roads,public space,urban greenery;adults,seniors,families with children;1
 423;75000;294;Modernizacja podłoża w ogródku Przedszkola Bajeczka nr 73 przy ul. Sygietyńskiego 4a.;public space,education,culture;children,families with children;1
 249;10000;204;Przyjazna biblioteka;education,public space;children,youth,adults;1

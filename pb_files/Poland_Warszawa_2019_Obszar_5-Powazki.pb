@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1614;80000;275;Zielona aleja - łączymy Żoliborz Artystyczny i Madison Apartments;public space,sport,urban greenery;youth,adults,families with children;1
 1649;16500;192;Sadzimy drzewa na Żoliborzu - rekonstrukcja;urban greenery;adults,families with children,animals;1
 718;46640;192;Ocalmy zieleń przy Placu Niemena i ulicy Dygata;environmental protection,public space,urban greenery;adults,families with children,animals;1

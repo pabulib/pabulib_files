@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 394;16536;1083;Nasze bezpieczeństwo – pierwsza pomoc;education;children;1
 396;82012;922;Dobry start - lepsza przyszłość. Zajęcia sportowo-wychowawcze uczące dzieci, jak aktywnie i bezpiecznie spędzać wolny czas;education,sport,health;children,youth,families with children;1
 362;56181;902;Młodzi informatycy na start! Zajęcia informatyczne z elementami programowania, grafiki i animacji komputerowej dla najmłodszych;education;children;1

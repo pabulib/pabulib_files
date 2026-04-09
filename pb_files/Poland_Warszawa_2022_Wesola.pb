@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1645;100000;485;Demonstracyjny ogród deszczowy w Wesołej;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.218530740397;21.230681693728
 505;55100;476;Biblioteka Publiczna w Wesołej – zakup książek dla czterech placówek;culture,education;people with disabilities,seniors,adults,youth,children;1;;
 1517;120000;470;Źródełko w plenerze - umyj ręce, zaczerpnij wody i odśwież się bryzą w upalny dzień.;welfare,culture,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.2487899133505;21.2415802096255

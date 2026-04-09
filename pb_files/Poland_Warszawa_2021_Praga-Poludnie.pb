@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1596;840000;5634;Praga-Południe walczy ze smogiem. Sadzimy 500 szt. drzew zimozielonych;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 792;550000;4580;Czyste jezioro i stawy w Parku Skaryszewskim;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.243227007906;21.057432889938
 1955;257997;3549;Ratujemy drzewa Parku Skaryszewskiego - kontynuacja;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

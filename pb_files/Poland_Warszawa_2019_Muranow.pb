@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1406;100000;151;Żonkile dla Muranowa;urban greenery;adults,families with children;1
 1582;16100;129;Żeby nie zardzewieć... zajęcia ruchowe dla seniorów.;education,sport,health;seniors,people with disabilities;1
 VOTES

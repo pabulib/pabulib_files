@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 451;385000;1698;Zielone wejście do parku Szczęśliwieckiego - ogrody bylinowe;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.208539345335;20.962710263824
 453;616000;1667;Byliny dla Ochoty- Zazielenienie ochockich ulic i skwerów (nasadzenie bylin, traw, cebul);urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.220079705966;20.987559860234
 1728;225000;1655;Rowerem dwukierunkowo na Ochocie;public transit and roads;seniors,adults,youth,children;1;52.2108400391135;20.97552434431442

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 427;15995;16;Akademia Szkraba;education;children,families with children;1
 915;5825;14;Plac Wojska Polskiego dla gniazdujących;education,environmental protection;None;1
 2567;20000;12;Aktywny senior - gimnastyka;education,sport,health;seniors;1

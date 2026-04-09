@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1695;85000;100;Nowości w Sadulskim Zakątku;public space,sport,urban greenery;children,youth,families with children;1
 1036;38500;90;Kontynuacja chodnika przy krótkiej Mydlarskiej;public transit and roads,public space;children,adults,families with children;1
 VOTES

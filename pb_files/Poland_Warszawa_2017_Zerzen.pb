@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1779;118800;265;Wymiana zużytej nawierzchni ogólnodostępnego boiska przy Szkole Podstawowej nr 109 w Wawrze;education,sport,health;children,youth,adults;1
 1990;45546;62;Wiosenne Koncerty Muzyki Kameralnej w Zerzniu;culture,education;youth,seniors,families with children;0
 VOTES

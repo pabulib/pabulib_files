@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 84;35000;364;Oświetlenie dojścia do przystanku Kołowa z Borzymowskiej i Gościeradowskiej;public transit and roads,public space;None;1
 1192;85000;248;Przechodniu, ćwicz z nami! - siłownia plenerowa;sport,health,urban greenery;youth,adults,families with children;1
 1515;35000;202;Podwieczorki z kulturą dla dzieci Targówek Mieszkaniowy;education,culture,public space;children,people with disabilities,families with children;1

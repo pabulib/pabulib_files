@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2073;20000;1444;Czysty Wawer - kosze nie tylko na psie odchody;urban greenery,public space,environmental protection;seniors,adults,youth,children;1;;
 2051;490000;1097;Nowoczesny Tor Rowerowy Pumptruck dla młodzieży i dzieci przy ulicy Mrówczej/ Piechurów Międzylesie/Anin/Sadul;sport;seniors,adults,youth,children;1;52.212491088099036;21.15732582688215
 953;200000;1040;Pumptrack Falenica - tor rowerowy dla każdego;sport,public space,education;adults,youth,children;1;52.1629970564857;21.2285957955999

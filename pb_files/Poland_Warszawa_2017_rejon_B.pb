@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 929;11360;1323;Sprzęt sportowy dla Szkoły Podstawowej nr 70 z Oddziałami Integracyjnymi do prowadzenia zajęć sportowych;education,sport;children,seniors,adults;1
 2579;2600;1283;Ochrona ptaków w parkach i zieleńcach Górnego Mokotowa;environmental protection;animals;1
 1640;7300;1165;Poprawa bezpieczeństwa przy ul. Puławskiej i Morskie Oko oraz wyznaczenie ścieżki rowerowej;public transit and roads,public space;adults,seniors,families with children;1

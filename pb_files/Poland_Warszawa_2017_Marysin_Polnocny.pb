@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1094;60000;209;REMONT ULICY KRÓLA MACIUSIA I WJAZD OD UL.KORKOWEJ;public transit and roads;adults,people with disabilities,families with children;1
 536;12000;180;Oświetlenie boiska do siatkówki na terenie OSiR Wawer ul. Starego Doktora 1;sport,health;children,youth,adults;1
 829;30000;163;Nowości książkowe dla Wypożyczalni nr 59 w Marysinie Wawerskim;education,culture,public space;children,youth,adults;1

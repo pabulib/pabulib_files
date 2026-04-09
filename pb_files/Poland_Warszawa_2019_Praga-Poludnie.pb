@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 478;2100;2401;Najazd na Mostek Elekcyjny;public transit and roads,public space;children,youth,adults;1
 569;15000;2947;leczenie i sterylizacja wolno żyjących kotów-kontynuacja projektu;environmental protection;animals;1
 3;40000;1916;Oświetlenie przejścia pieszo-rowerowego Łukowska;public transit and roads,public space;adults,people with disabilities,families with children;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 901;2790;238;Warcaby i szachy ogrodowe – do wspólnego grania;education,culture,sport;children,adults,seniors;1
 2317;12685;210;Budowa chodnika ul. 1-go Sierpnia 28;public transit and roads;None;1
 399;14340;209;Zakup książek do Wypożyczalni nr 28 i nr 71;education,culture;children,youth,adults;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1181;9000;214;Zakup książek, nowości, Biblioteka dla Dzieci i Młodzieży nr 16, ul. Walewska 7a;education,culture;children,youth;1
 1854;34940;149;Remont fragmentów chodnika przy ulicach Międzyborskiej i Suchodolskiej;public transit and roads,public space;adults,seniors,people with disabilities;1
 2218;7800;189;Zakup wielofunkcyjnego urządzenia typu skaner/drukarka/kopiarka do wypożyczalni nr 90, ul. Rozłucka 11a;education,culture;youth,adults,seniors;1

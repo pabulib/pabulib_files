@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 558;30500;80;Chodnik na ul.Wacława Wojtyszki;public transit and roads;adults,seniors,families with children;1
 1441;28800;79;Budki lęgowe dla jerzyków- fruwających pogromców komarów- ul. Borowiecka działka ew. 101 obręb 3-13-54;environmental protection,public space,health;None;1
 582;7500;75;Latarnia ul. Wojtyszki;public transit and roads;youth,seniors,families with children;1

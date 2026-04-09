@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1518;10000;223;Siłownia plenerowa w Zachodnim Międzylesiu;public space,sport,health;youth,adults,seniors;1
 402;40500;215;Rewitalizacja boiska przy szkole podstawowej nr 138 Warszawa;education,sport,health;children,youth,families with children;1
 1515;10000;196;Zieleń i ławeczki w Zachodnim Międzylesiu;public space,health,urban greenery;youth,seniors,families with children;1

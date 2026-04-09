@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 530;436000;2395;Wyznaczenie brakujących przejazdów rowerowych;public transit and roads;children,seniors;1;52.25717818068079;20.91977119445801
 454;200000;2381;Zakup książek do placówek Biblioteki Publicznej w Dzielnicy Bemowo m.st. Warszawy;culture;children,seniors;1;52.24004759984364;20.91061597340495
 1133;572000;2307;Kwitnące przystanki;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.232000331578945;20.910261761639287

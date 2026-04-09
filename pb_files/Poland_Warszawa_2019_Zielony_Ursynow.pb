@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1049;41500;737;Oświetlenie drogi łączącej PKP Warszawa Okęcie z ul. Kłobucką;public transit and roads,public space;youth,adults,families with children;1
 1051;52000;708;Mini Park - uporządkujmy teren naprzeciwko ul. Kłobuckiej 10;environmental protection,public space,urban greenery;youth,adults,families with children;1
 1052;8000;677;Mini stacja naprawy rowerów i wózków przy Veturilo - Kłobucka;public transit and roads,public space,sport;youth,adults,families with children;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1232;229000;898;Wygodny i bezpieczny chodnik wzdłuż ul. Kłobuckiej;public transit and roads,public space;youth,adults,families with children;1
 1291;117000;746;Miejsca parkingowe ul. Kłobucka 10;public transit and roads,public space;adults,people with disabilities,families with children;1
 1266;460000;709;Wyznaczenie pasa postojowego wzdłuż ulicy Kłobuckiej;public transit and roads,public space;adults,families with children;1

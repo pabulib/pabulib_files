@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1270;42700;455;Letnie kino plenerowe dla mieszkańców Bródno;education,culture,public space;children,youth,seniors;1
 1908;10230;435;Książki do biblioteki / czytelni naukowej;education,culture,public space;children,youth,adults;1
 59;28900;417;Chodniki zamiast błota przy Rembielińskiej, Bazyliańskiej i Krakusa;public transit and roads,public space,urban greenery;None;1

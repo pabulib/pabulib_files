@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2667;341700;815;Strefa rekreacji na Osiedlu Ruda;education,culture,sport;children,youth,adults;1
 2611;30000;634;Kocie oczka - światełka na pasach;public transit and roads,public space,health;children,youth;1
 1805;33866;499;Kulturalny Lelewel;education,culture,sport;youth,seniors,families with children;1

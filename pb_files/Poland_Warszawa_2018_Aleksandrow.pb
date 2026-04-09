@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 515;59000;368;Remont ulicy Zagórzańskiej (wykonanie nawierzchni bitumicznej z poboczem) od końca istniejącej nawierzchni na północ;public transit and roads,public space;adults,families with children;1
 372;58000;311;Remont ul. Zagórzańskiej do nr 60;public transit and roads,public space;adults,families with children;1
 458;36000;101;Doświetlenie ulicy Zagórzańskiej;public transit and roads,public space;children,youth,adults;0

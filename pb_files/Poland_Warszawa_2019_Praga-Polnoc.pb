@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1742;380000;1078;Więcej zieleni na Pradze vol.2;environmental protection,public space,urban greenery;children,seniors,families with children;1
 2061;13000;1012;Ratujmy praskie kasztanowce - kontynuacja;environmental protection,public space,urban greenery;children,adults,seniors;1
 2360;34500;855;Chrońmy ginące praskie jaskółki i inne ptaki, zajmujące skrzynki lęgowe;environmental protection;animals;1

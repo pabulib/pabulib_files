@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1769;104050;375;LILIOWY ZAKĄTEK - PLAC ZABAW PRZY UL. BRODNICKIEJ;public space,sport,health;children,youth,families with children;1
 1015;7000;142;ZAKUP NOWOŚCI WYDAWNICZYCH DLA BIBLIOTEKI W OSIEDLU MIEDZESZYN;education,culture,welfare;youth,seniors,families with children;1
 1002;9400;110;MULTIMEDIA DLA BIBLIOTEKI W MIEDZESZYNIE;education,culture;youth,seniors,families with children;0

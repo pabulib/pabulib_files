@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 176;98000;1916;Stojaki rowerowe na ulicach Ochoty;public space,public transit and roads;adults,youth,children;1;52.21561857506877;20.979477942459667
 212;50000;1697;Poszerzenie parku Szczęśliwickiego poprzez wyburzenie nieużywanych szaletów;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.20339791769;20.961453949142
 186;336750;1656;Nasadzenia drzew i krzewów na ulicy Szczęśliwickiej;urban greenery,environmental protection;adults,youth,children;1;52.215156870481;20.969601027731

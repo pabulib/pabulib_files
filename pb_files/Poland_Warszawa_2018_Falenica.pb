@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1234;48300;270;Małe boisko wielofunkcyjne przy placu zabaw i montaż wysokich siatek - piłkochwytów;sport;children,youth,families with children;1
 1251;1920;255;Pianki na plac zabaw i pojemniki do ich przechowywania;;children,youth,families with children;1
 591;42400;236;Chcemy czystej Falenicy;public space;None;1

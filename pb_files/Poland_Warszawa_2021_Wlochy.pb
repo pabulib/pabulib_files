@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1707;86000;1609;Drzewa dla Włoch - edycja druga;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.205923529623;20.916362456333
 190;24000;1581;Skrzynki lęgowe dla jerzyków i wróbli we Włochach;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.1799785196835;20.938850699715502
 1562;21000;1473;Stop komarom - wieża dla jerzyków.;public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.199322466403;20.921229056004

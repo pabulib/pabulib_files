@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1136;36000;417;Posadzenie drzew na ul. Grochowskiej w rej. ul. Czapelskiej i Omulewskiej;public transit and roads,environmental protection,health;seniors,people with disabilities,families with children;1
 545;10000;291;Tablica upamiętniająca Andrzeja Schiffersa Dyrektora Szkoły Podstawowej nr 215 w latach 1960-1980 inicjatora budowy basenu przyszkolnego.;education,culture,sport;children,youth,adults;1
 1162;253750;512;Otwarta Strefa Aktywności na Gocławku, przy Cukrowniczej.;sport,urban greenery;children,youth,adults;1

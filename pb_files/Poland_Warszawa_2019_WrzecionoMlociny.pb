@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 216;46000;454;Kino plenerowe Młociny;education,culture,public space;adults,students,families with children;1
 1182;28000;449;Wieża dla wróbla, jerzyka;environmental protection,public space,health;youth,seniors,families with children;1
 544;55600;430;Street Workout Młociny - ścieżka zdrowia;education,sport,health;youth,adults,students;1

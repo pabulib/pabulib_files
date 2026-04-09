@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 659;20000;3349;Ursynowski szlak rowerowy;education,culture,health;children,youth,adults;1
 1024;175000;3216;Trampoliny ziemne w ursynowskich parkach i przy placach zabaw;public space,sport,urban greenery;adults,families with children;1
 1061;149000;3094;Świąteczna iluminacja z prawdziwego zdarzenia - aleja KEN pięknie oświetlona na święta Bożego Narodzenia;public transit and roads,culture,public space;adults,families with children;1

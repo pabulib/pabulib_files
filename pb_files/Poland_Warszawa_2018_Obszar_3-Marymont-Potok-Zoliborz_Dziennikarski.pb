@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1369;5000;457;Nasz kanałek! Wyspy do gniazdowania dla ptaków.;education,public space,urban greenery;seniors,families with children,animals;1
 2598;9520;433;Skrzynki lęgowe dla ptaków na Kępie Potockiej;environmental protection;animals;1
 1122;49170;320;Pij, Warszawo - na Marymoncie-Potoku i Żoliborzu Dziennikarskim;public space,sport,health;adults,seniors,families with children;1

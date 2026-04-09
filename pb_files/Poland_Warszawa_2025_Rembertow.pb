@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1133;65000;488;Rembertowskie kino pod gwiazdami 2025;culture,public space;children,seniors;1;52.253720588416314;21.1449717389929
 625;81000;484;Nowości wydawnicze w Twojej bibliotece;education,culture;children,seniors;1;52.25244324450333;21.154993772506714
 1806;139300;478;Nasadzenia krzewów miodo i pyłkodajnych;public space,urban greenery;children,seniors;1;52.26047722850288;21.167352497577667

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 195;80580;399;Festiwal Dla Myślących;education,culture,sport;youth,adults,families with children;1
 1031;311000;390;Ścianka wspinaczkowa na Mokotowie;public space,sport,health;youth,adults,families with children;1
 1455;3000;358;Ptasie radio na Sielcach;environmental protection,public space,urban greenery;animals;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 897;25000;676;Street workout - Osiedle Ostrobramska;public space,sport,health;children,seniors,people with disabilities;1
 2087;35000;698;Siłownia plenerowa Łukowska 5-3 SM Ostrobramska;public space,sport,health;adults,seniors,people with disabilities;1
 1751;162000;626;Park Znicza miejscem aktywnego wypoczynku dla każdego;public space;youth,seniors,families with children;1

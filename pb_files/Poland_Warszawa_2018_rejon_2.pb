@@ -19,7 +19,7 @@ edition;4
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1958;1650;1454;W Parku Morskie Oko jeże potrzebują leże;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 1874;1200;1253;Karmimy-nie szkodzimy w Parku Morskie Oko;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 2630;15000;1088;Zakup nowości dla wypożyczalni nr 35 przy ul. Narbutta 47;culture;youth,adults,seniors;1
@@ -55,7 +55,7 @@ project_id;cost;votes;name;category;target;selected
 1597;82740;330;Zielone ekrany na Kazimierzowskiej na odc.Madalińskiego - Różana;environmental protection,health,urban greenery;None;0
 1236;250000;269;Plac zabaw przy Przedszkolu Nr 148;education,health;children,families with children;0
 336;320930;193;Modernizacja placu zabaw pomiędzy ulicami Wiktorską i Kraushara;education,public space,sport;children,youth,families with children;0
-1942;240000;152;--> Przywracamy ul. Belgijskiej przedwojenny charakter dzięki stylowym latarniom <--;public transit and roads,public space;children,adults,seniors;0
+1942;240000;152;Przywracamy ul. Belgijskiej przedwojenny charakter dzięki stylowym latarniom;public transit and roads,public space;children,adults,seniors;0
 745;660000;117;Odnowiony chodnik na ul Madalińskiego odcinek od ul Wołoskiej do Al Niepodległości.;public transit and roads,environmental protection,sport;adults,seniors,families with children;0
 1637;123000;92;100 bezpłatnych lekcji angielskiego dla mieszkańców Mokotowa + dostęp do aplikacji rozbudowującej słownictwo;education,welfare;youth,adults,students;0
 2753;303000;75;Ostoja Zdrowia;environmental protection,health,urban greenery;seniors,people with disabilities,families with children;0

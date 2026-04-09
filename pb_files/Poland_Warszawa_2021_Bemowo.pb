@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 205;709000;3242;200 drzew, 2000 krzewów i 20 tys. bylin dla Bemowa;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.238904227649;20.906661016112
 432;445000;3183;Duże drzewa antysmogowe i ozdobne, a także kosze i ławki z zadaszeniem oraz naturalne elementy parkowe dla Bemowa;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.23177117664857;20.910674197141
 419;200000;2771;Butelkomat dla Bemowa;public space,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.2328657554545;20.9060483271445

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 80;585000;2506;Butelkomaty na Targówku;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.2722487263094;21.0435497997261
 1914;69880;2195;Zielony Targówek nowe nasadzenia drzew, krzewów i kwiatów w całej dzielnicy;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 188;784200;1828;Bezpłatne pływanie rodzinne i nowe natryski na pływalni Polonez;public space,sport;people with disabilities,seniors,adults,youth,children;1;52.299522430597;21.0340064006638

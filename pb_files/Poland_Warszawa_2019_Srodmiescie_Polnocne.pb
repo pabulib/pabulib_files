@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 630;70000;267;Nowe nasadzenia zieleni w rejonie ulicy Zielnej i Marszałkowskiej.;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 644;155600;250;Utworzenie skweru osiedlowego Królewska 43,45,47, Zielna 45, Próżna 10,12;public space,urban greenery;children,seniors,families with children;1
 152;30000;235;Komputery dla bibliotek;education,culture,public space;children,youth,adults;1

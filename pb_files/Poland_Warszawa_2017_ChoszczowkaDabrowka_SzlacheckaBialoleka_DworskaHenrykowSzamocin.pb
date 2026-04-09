@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1472;41000;716;Pas do skrętu w lewo na ul. Klasyków;public transit and roads;adults;1
 1519;112500;626;BEZPIECZNA DROGA DO SZKOŁY DLA DZIECI Z SP 110 - budowa nowego chodnika;public transit and roads,urban greenery;children,adults,families with children;1
 516;256300;501;BIAŁOŁĘKA DWORSKA - NA DWÓR! Utworzenie zielonego miejsca wypoczynku i rekreacji przy ul. Polnych Kwiatów;public space,health,urban greenery;adults,youth,children;1

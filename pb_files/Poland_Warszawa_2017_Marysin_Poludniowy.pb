@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 252;115000;136;KROK_2 - DOGODNE DOJŚCIE - PKP_GOCŁAWEK - PARK_MATKI_MOJEJ ( modernizacja chodnika na Korkowej i Gąsienicowej);public transit and roads,environmental protection;adults,people with disabilities,families with children;1
 1198;34600;129;Utworzeniem miejsc postojowych wraz z rewitalizacją zieleni ulicy Naddnieprzańskiej 30;public transit and roads,public space,urban greenery;youth,adults,families with children;0
 VOTES

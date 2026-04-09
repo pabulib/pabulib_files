@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1033;341200;624;Plac zabaw pod sosnowym dachem - czyli przebudowa placu zabaw w Lesie Bemowskim;education,environmental protection,sport;children,adults,families with children;1
 1830;57340;468;Latający Dom Kultury - organizacja warsztatów i wydarzeń kulturalnych dla mieszkańców;education,culture;children,youth,families with children;1
 863;116280;433;Uzupełnienie chodnika i wygodne dojście na przystanek tramwajowy Dywizjonu 303;public transit and roads,urban greenery;children,youth,adults;1

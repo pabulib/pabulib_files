@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 56;49400;1183;Skwer przy Stacji Warszawa Ursus;urban greenery,public space,welfare;people with disabilities,seniors,adults,youth,children;1;;
 678;390000;1183;Remont budynku Ochotniczej Straży Pożarnej Ursus;public space;seniors,adults,youth,children;1;52.194353046241;20.886091092521
 1690;30000;1172;Porządkujemy zieleń w Ursusie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

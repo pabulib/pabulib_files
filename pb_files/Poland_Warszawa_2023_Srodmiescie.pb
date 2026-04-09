@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 631;472200;1670;Rozbetonowanie i zazielenienie skrzyżowań na Muranowie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.248864376787004;20.9945497224694
 811;140600;1571;Zielona Wisłostrada;urban greenery,environmental protection,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.229301010398004;21.040762754030503
 221;173500;1451;Zieleń dla Powiśla – zagospodarowanie zieleni na skarpie warszawskiej;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.23767402606775;21.02267090954325

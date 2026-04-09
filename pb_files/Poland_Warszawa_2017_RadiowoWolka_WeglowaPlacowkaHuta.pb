@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 319;199999;199;Plac zabaw;public space;children,youth;1
 1228;35900;29;Wiata na przystanku Księżycowa w stronę centrum;public transit and roads,public space;youth,adults,seniors;0
 VOTES

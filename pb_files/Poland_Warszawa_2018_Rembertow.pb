@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1448;320000;632;Lodowisko - Rembertów 2018;education,sport,health;youth,adults,families with children;1
 234;42000;525;Zakup nowości wydawniczych do Biblioteki Publicznej w dz. Rembertów;education,culture;children,adults,seniors;1
 1326;93300;522;Nasadzenia drzew i krzewów w Dzielnicy Rembertów;environmental protection,health,urban greenery;youth,adults,animals;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2233;33600;310;Iluminacja świąteczna osiedla Piaski;culture,public space;children,people with disabilities,families with children;1
 2301;121000;309;Boisko do gry w piłkę nożną z zabezpieczeniami przy ul. J. Kochanowskiego 22;sport,health;children,youth,families with children;1
 2294;38370;278;Ostoja rododendronów przed szkołą przy ul. Kochanowskiego 8;public space,health,urban greenery;children,adults,families with children;1

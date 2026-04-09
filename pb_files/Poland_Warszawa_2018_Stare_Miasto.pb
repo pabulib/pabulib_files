@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2739;94000;158;Widne podwórko;public transit and roads,public space;adults,families with children;1
 48;147550;136;Cyfrowy senior;education,culture,welfare;adults,seniors,people with disabilities;1
 1280;78700;134;Festiwal „Lato Seniora”;education,culture,health;seniors,people with disabilities,families with children;1

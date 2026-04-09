@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 196;65500;520;Rewitalizacja Lasu Bemowskiego - 2 x ścieżka zdrowia, kosze, ławki;environmental protection,urban greenery;children,adults,youth;1
 191;270750;512;Droga dla rowerów wzdłuż ul. Kaliskiego;public transit and roads,sport;children,adults,youth;1
 2366;38620;410;Plac zabaw na osiedlu Groty.;sport,health;children,families with children;1

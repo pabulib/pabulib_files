@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 135;49000;2545;Praga Południe bez psich odchodów - zakup koszy na śmieci;public space;None;1
 2274;117000;1944;Ochrona drzew Parku Skaryszewskiego;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 60;6600;2118;Domki dla wolno żyjących kotów na Pradze Południe;environmental protection;animals;1

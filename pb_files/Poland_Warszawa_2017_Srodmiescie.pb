@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1;489500;1747;Zbiory dla bibliotek;education,culture,public space;children,youth,adults;1
 171;519500;1735;Uzupełnienie sieci tras rowerowych w Śródmieściu;public space,public transit and roads,health;adults,seniors,students;1
 807;20850;1564;Miejskie Pszczoły;education,environmental protection;children,youth,families with children;1

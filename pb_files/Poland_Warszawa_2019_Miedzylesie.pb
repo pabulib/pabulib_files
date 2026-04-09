@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 310;52250;224;Oświetlenie boiska przy SP 138;sport,health;children,youth,families with children;1
 609;37000;201;Monitoring terenu SP 138;public space;youth,adults,families with children;1
 305;5546;193;Prenumerata prasy dla Biblioteki Publicznej w Osiedlu Międzylesie;education,culture;None;1

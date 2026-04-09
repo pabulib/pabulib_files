@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2303;92800;198;Modernizacja parkingu publicznego Poligonowa róg Motorowej;public transit and roads,public space;adults,seniors,families with children;1
 2375;100000;41;Wykonanie zatoki parkingowej na kilkanaście miejsc postojowych przy ul. Bracławskiej 10 w miejscu istniejącej skarpy ziemnej.;public transit and roads;adults,seniors;0
 1350;114300;33;Ulica Ostrzycka bardziej przyjazna pieszym i kierowcom;public transit and roads,public space;adults,seniors,families with children;0

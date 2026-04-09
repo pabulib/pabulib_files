@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1;234500;511;Otwarte boisko Łukowska;public space,sport,health;youth,adults,families with children;0
 125;300000;696;Modernizacja placu zabaw przy Szkole Podstawowej nr 246;sport;children,families with children;1
 18;9200;450;Turniej tenisa stołowego w Szkole Podstawowej nr 163;education,culture,sport;youth,adults,families with children;0

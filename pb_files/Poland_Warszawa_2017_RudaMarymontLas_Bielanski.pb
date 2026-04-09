@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 84;1840;420;Zawieszenie budek lęgowych dla jerzyków i wróbli na budynku przy ul. Podleśniej 50;education,environmental protection,health;seniors,families with children;1
 1059;350000;376;Plac zabaw dla przedszkolaków;education,sport,health;children,students,families with children;1
 1213;19339;375;Sprzęt sportowy i rekreacyjny dla świetlicy - Szkoła Podstawowa nr 53 im. Mariusza Zaruskiego;education,sport,health;children,families with children;1

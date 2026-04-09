@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1359;24000;624;Nowe nasadzenia na Rakowcu;public space,urban greenery;seniors,families with children;1
 827;36850;565;Zakup nowych książek, audiobooków, planszówek, filmów do Biblioteki Publicznej w Dzielnicy Ochota m.st. Warszawy;education,culture;children,youth,adults;1
 2291;150000;469;Remonty i naprawy w Parku Korotyńskiego;environmental protection,health,urban greenery;children,seniors,families with children;1

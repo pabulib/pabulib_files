@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 230;201400;3443;Bielańska plaża nad Wisłą;public space,sport,urban greenery;None;1
 2534;49700;2653;Chronimy jerzyki i wróble na Bielanach - skrzynki lęgowe;environmental protection;None;1
 2375;72550;2320;Serek - Miejsce spotkań i relaksu przy metrze Słodowiec;public space,sport,urban greenery;None;1

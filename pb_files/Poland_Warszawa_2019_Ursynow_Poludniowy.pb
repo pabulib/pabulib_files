@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1795;47200;1652;Kabaty bez barier - likwidacja wysokich krawężników i uskoków;public transit and roads,public space;seniors,people with disabilities,families with children;1
 1474;70000;1644;Place zabaw przy Bażantarni i Pala Telekiego – uzupełnienie infrastruktury (częściowe zadaszenia, źródełko wody pitnej);public space,health;children,seniors,families with children;1
 371;7900;1595;Defibrylator w Parku Przy Bażantarni;public space,sport,health;adults,seniors,people with disabilities;1

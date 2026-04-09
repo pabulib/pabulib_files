@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1943;250000;552;Przystań Warszawa;education,public space,sport;youth,adults;1
 686;156565;549;Nowe drzewa i krzewy w pasie drogowym ulic Wioślarska, Solec oraz Kruczkowskiego;public transit and roads,environmental protection,public space;seniors,people with disabilities,families with children;1
 1495;92250;524;Poidełka wody pitnej na bulwarach nadwiślańskich;public space,health,urban greenery;children,adults;1

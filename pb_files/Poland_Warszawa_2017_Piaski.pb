@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 588;257339;395;Rewitalizacja placu zabaw o powierzchni 650m kw.;education,sport,health;;1
 29;30000;376;Zatoczka autobusowa na przystanku przy ulicy Lucjana Rudnickiego (przystanek Kochanowskiego 01 dla linii 103, 122, 180, 197, 409);public transit and roads;youth,adults,families with children;1
 1188;40000;365;Siłownia zewnętrzna ul. Kochanowskiego 13A;sport;youth,seniors,families with children;1

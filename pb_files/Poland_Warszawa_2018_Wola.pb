@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 314;47000;3593;Wolskie lato filmowe;culture;youth,adults,seniors;1
 2678;49700;3510;Chronimy jerzyki i wróble na Woli - skrzynki lęgowe;environmental protection;animals;1
 379;30000;3464;Wola na 2 koła! Kontraruch rowerowy w całej dzielnicy;public transit and roads,public space,sport;youth,adults;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 461;5000;432;Zakup książek w Bibliotekach przy ul. Broniewskiego 9A;education,culture;children,adults,seniors;1
 686;37500;356;Skwerek Stołeczny - nowy zieleniec przy skrzyżowaniu ul. Krasińskiego i Popiełuszki;public transit and roads,public space,urban greenery;children,adults,seniors;1
 70;85500;320;Urządzenia do zabawy i ćwiczeń na powietrzu w parku Sady Żoliborskie;education,sport,health;children,youth,adults;1

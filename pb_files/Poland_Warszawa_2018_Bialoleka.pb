@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1259;1000000;2318;Wodny plac zabaw dla Białołęki;public space;children,youth,families with children;1
 1398;75500;2265;Przystań Zdziarska - ogólnodostępne miejsce rekreacji i wypoczynku nad Kanałem Żerańskim.;public space,sport;adults,seniors,families with children;0
 1984;73600;2201;Płuca Tarchomina - więcej drzew przy Światowida;environmental protection,health,urban greenery;None;0

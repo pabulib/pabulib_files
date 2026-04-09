@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 331;60000;1336;Dodatkowe drzewa na zieleńcach wilanowskich;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.149562747462504;21.073282933359252
 720;50000;1314;Choinki w walce ze smogiem - nasadzenia drzew iglastych w Miasteczku Wilanów;public space,urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 399;136200;1311;Zadrzewianie zielonego Wilanowa;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.16076866214435;21.124285554059608

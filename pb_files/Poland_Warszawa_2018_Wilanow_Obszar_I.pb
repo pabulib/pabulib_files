@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 456;260000;1449;Sto drzew dla Wilanowa;environmental protection,public space,urban greenery;None;1
 410;49650;1082;Zielona zatoka;environmental protection,public space,urban greenery;children,adults,seniors;1
 415;7100;1045;Dokończmy Sarmacką;public transit and roads,public space,urban greenery;youth,adults,seniors;1

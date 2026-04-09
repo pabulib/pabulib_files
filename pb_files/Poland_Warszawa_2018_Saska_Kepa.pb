@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 358;9000;547;Zakup nowości książkowych dla Wypożyczalni nr 66, ul. Angorska 14.;education,culture;children,adults,seniors;1
 950;38000;646;Ławka po drodze;public transit and roads,welfare,public space;seniors,people with disabilities;1
 902;36330;554;Lepiej na Obrońców: naprawa chodnika wzdłuż kościoła i łąka kwietna;public transit and roads,public space,urban greenery;seniors,people with disabilities,animals;1

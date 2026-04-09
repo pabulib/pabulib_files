@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 254;384500;1474;Plac zabaw;education,sport,health;children,adults,families with children;1
 336;19000;791;Stojaki rowerowe na Wierzbnie i Wyględowie;public transit and roads,public space,sport;youth,adults,students;1
 679;14000;791;Uzupełnienie alei drzew na Domaniewskiej;environmental protection,public space,urban greenery;None;1

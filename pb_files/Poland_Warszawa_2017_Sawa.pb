@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2377;3600;997;Wypożyczalnie gier planszowych w bibliotece – Śródmieście Obszar Sawa;education,culture;youth,adults,families with children;1
 401;38000;931;Ciemność widzę, ciemność! - oświetlenie 135 metrowego odcinka Nadwiślańskiego Szlaku Rowerowego, od Płyty Desantu do Wioślarskiej;public transit and roads,public space;children,youth,adults;1
 2215;143025;845;Rewitalizacja zieleni ulicznej Powiśla;environmental protection,urban greenery;adults,seniors,families with children;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2024;550000;349;Przejście dla pieszych przez ulicę Marynarską na rondzie UE przy Galerii Mokotów;public transit and roads,public space;seniors,people with disabilities,families with children;1
 1275;44600;300;1000 nowych książek do wypożyczalni nr 95 dla dorosłych i młodziezy;education,culture;youth,adults,students;0
 750;7650;272;Ławki na podwórku dla mieszkańców ulic Obrzeżna, Kolady, Jadźwingów;public space;youth,seniors,families with children;0

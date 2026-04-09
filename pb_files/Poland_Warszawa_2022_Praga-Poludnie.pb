@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1840;663500;4446;Pokonamy smog zielenią - nowe drzewa, krzewy i kwiaty dla Pragi-Południe;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.23551386742875;21.06942894650875
 735;895550;3502;Trasa rowerowa od Grochowskiej do Waszyngtona;public space,environmental protection,public transit and roads;seniors,adults,youth,children;1;52.243112410633096;21.061137607697727
 1104;47000;2986;Chronimy ptaki żyjące na Pradze Południe - utrzymanie i konserwacja skrzynek lęgowych;environmental protection;adults;1;;

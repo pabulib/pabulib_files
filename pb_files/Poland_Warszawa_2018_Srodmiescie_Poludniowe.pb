@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2743;10000;605;Ochrona ptaków śpiewających w sródmiejskiej części Pola Mokotowskiego;environmental protection;animals;1
 1321;451000;592;Bulwar nad Trasą Łazienkowską – chodnik i zieleń;public transit and roads,public space,urban greenery;youth,adults,families with children;1
 2105;56800;513;Śródmieście Południowe przyjazne ptakom i pszczołom;environmental protection,public space,urban greenery;adults,animals;1

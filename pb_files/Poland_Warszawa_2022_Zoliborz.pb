@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2036;16000;1560;Drzewa i zieleń na Żoliborzu;public transit and roads,sport,urban greenery;people with disabilities,seniors,adults,youth,children;1;52.258153041909445;20.965532764173453
 1090;40000;1347;Łąka kwietna na Pl. Grunwaldzkim;education,urban greenery,public space;animals,people with disabilities,seniors,adults,youth,children;1;52.261571465406;20.980903533463
 935;30000;1265;Drzewa i łąka kwietna;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.272133593917;20.994548326818

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 245;288000;418;Uzupełnienie sieci tras rowerowych na Chomiczówce;public space,health,public transit and roads;youth,seniors,families with children;1
 217;70000;353;Nie chcę znów wdepnąć w kupę;public space,urban greenery;youth,adults,seniors;1
 2280;68609;340;Świat pod lupą;education,environmental protection,health;children,youth;1

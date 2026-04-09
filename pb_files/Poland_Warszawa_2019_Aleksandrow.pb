@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1252;89360;211;Skwer rekreacyjny w Aleksandrowie;public space,sport,urban greenery;children,seniors,families with children;1
 1203;36000;206;Doświetlenie ulicy Zagórzańskiej;public transit and roads,public space;youth,adults,seniors;1
 2405;89000;175;Remont ul. Zagórzańskiej od zakończenia nawierzchni asfaltowej w stronę lasu;public transit and roads,public space;None;0

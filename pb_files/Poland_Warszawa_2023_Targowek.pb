@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 104;520000;1472;Zielone przystanki autobusowe na Targówku;urban greenery,public space,education;people with disabilities,seniors,adults,youth,children;1;52.28723973800639;21.053582001594695
 650;240000;1147;Letnie kino plenerowe dla dorosłych i dzieci;public space,culture,education;people with disabilities,seniors,adults,youth,children;1;52.278509525942326;21.054615222159
 467;990000;1119;Bezpłatne wejścia na Pływalnię Polonez i nowe SPA;sport;seniors,adults,youth,children;1;52.299057867705;21.033689975739

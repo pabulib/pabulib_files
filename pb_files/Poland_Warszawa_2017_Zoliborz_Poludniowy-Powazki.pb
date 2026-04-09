@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 571;320000;1178;Rewitalizacja ul. Przasnyskiej;environmental protection,public space;adults,people with disabilities,families with children;1
 2229;80000;1029;Zagospodarowanie Zieleńca Linearnego śladem dawnej bocznicy kolejowej na Żoliborzu Południowym;environmental protection,public space,urban greenery;youth,adults,families with children;1
 570;72000;993;Miejsca parkingowe w ul. Rydygiera;public transit and roads;adults,people with disabilities;1

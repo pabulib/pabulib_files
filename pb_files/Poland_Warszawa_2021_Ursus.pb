@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1646;289948;2125;Więcej zieleni w Ursusie;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.193564611342;20.865144058203
 1657;100000;1785;Bezpieczne przejścia dla dzieci;public transit and roads;seniors,children,people with disabilities,adults,youth;1;52.1961370306885;20.8679035717195
 714;42000;1747;Antysmogowe kwietniki miejskie w dzielnicy Ursus;urban greenery,environmental protection,public space;people with disabilities,seniors,adults,youth,children;1;;

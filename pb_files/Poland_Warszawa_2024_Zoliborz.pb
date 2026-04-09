@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 305;405709;1454;Rozpłytowanie i obsadzenie zielenią wejść do metra na Żoliborzu;environmental protection,public space,urban greenery;children,seniors;1;52.267635094555345;20.97911596298218
 1555;53450;1419;Kwitnący Żoliborz - 20 024 kwiaty cebulowe np. żonkile, tulipany, narcyzy, krzewy i drzewa owocowe;education,environmental protection,public space,urban greenery;children,seniors;1;52.264861274801305;20.97150564193726
 1088;182070;1289;Więcej krzewów w pasie drogowym ul. Krasińskiego;environmental protection,public space,urban greenery;children,seniors;1;52.260750656685275;20.965046802937863

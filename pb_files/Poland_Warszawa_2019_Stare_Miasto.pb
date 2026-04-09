@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1198;24420;201;Sąsiedzkie Country na dechach;education,culture;children,adults,people with disabilities;1
 2380;160000;157;Obiad dla potrzebujących na Starym Mieście;welfare;adults,seniors,people with disabilities;1
 439;406000;150;Remont oświetlenia na Skwerze Samuela Orgelbranda na terenie Mariensztatu.;public transit and roads,public space;adults,people with disabilities,families with children;1

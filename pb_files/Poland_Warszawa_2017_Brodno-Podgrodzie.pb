@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1832;80000;381;Zatoka parkingowa - ulica Przy Grodzisku;public transit and roads;adults;1
 314;44161;261;Zakup nowości wydawniczych dla filii Biblioteki Publicznej na Bródnie Podgrodziu;education,culture;children,youth,adults;1
 333;122200;260;Głębocka - rowerem na zakupy!;public transit and roads,public space,urban greenery;youth,adults,families with children;1

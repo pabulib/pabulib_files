@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2110;20000;369;Poidełko wody pitnej dla dorosłych,dzieci i zwierząt na Kępie Potockiej;public space;children,youth,adults;1
 619;43000;358;Posadzenie grabów kolumnowych wzdłuż ul. A. Mickiewicza;public space,urban greenery;None;1
 1134;150000;343;Ciszej na Kępie Potockiej;environmental protection,public space,urban greenery;children,seniors,families with children;1

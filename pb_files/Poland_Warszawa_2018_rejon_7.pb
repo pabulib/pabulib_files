@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2763;16500;543;Chrońmy jerzyki i wróble na służewiu i os. Służew nad Dolinką;environmental protection;animals;1
 1890;33000;458;Sad przy domu kultury - EKOMIASTO;education,public space,urban greenery;children,seniors,families with children;1
 2270;27000;447;Spektakle dla dzieci w Służewskim Domu Kultury;culture;children,families with children;1

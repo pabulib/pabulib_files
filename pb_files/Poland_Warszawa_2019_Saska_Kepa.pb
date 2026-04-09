@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 467;12000;663;Zakup książek nowości dla Wypożyczalni nr 100 ul Zwycięzców 46;education,culture,public space;youth,adults,seniors;1
 484;19000;742;Zagospodarowanie terenu wokół rzeźb;education,culture,public space;children,youth,adults;1
 370;28000;524;Doświetlenie przejścia przez podwórze pomiędzy ul. Walecznych Holenderską i Peszteńską;public transit and roads,public space;seniors,families with children;1

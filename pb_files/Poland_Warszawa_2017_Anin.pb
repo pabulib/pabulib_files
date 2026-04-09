@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1828;90770;206;W zdrowym ciele zdrowy duch. Darmowe zajęcia sportowe dla dzieci i młodzieży.;education,sport,health;children,youth,families with children;1
 2451;61000;177;JORDANEK INTEGRACYJNY - Modernizacja placu zabaw, budowa integracyjnej siłowni plenerowej z częścią rekreacyjną - ul. Marysińska;public space,sport,health;children,youth,adults;0
 2533;5000;139;NOWOŚCI I SERIE WYDAWNICZE DLA BIBLIOTEKI W ANINIE;education,culture;youth,adults,seniors;1

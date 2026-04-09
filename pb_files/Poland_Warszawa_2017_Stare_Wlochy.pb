@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1401;2232;498;Ochrona kasztanowców przy ul. Śląskiej;environmental protection,public space,urban greenery;adults,families with children;1
 1626;2800;477;Szachy i warcaby ogrodowe - do wspólnego grania;education,culture;children,adults,seniors;1
 1859;850;446;Budki dla ptaków;environmental protection,urban greenery,public space;seniors,families with children,animals;1

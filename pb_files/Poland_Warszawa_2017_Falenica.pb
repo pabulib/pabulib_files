@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1342;6000;228;REWITALIZACJA ZIELENI I TWORZENIE SYSTEMU INFORMACJI MIEJSKIEJ W FALENICY Obszar III;education,public space,urban greenery;youth,adults,families with children;1
 1395;49000;214;Bezpieczne przejście dla pieszych przy PKP Falenica;public transit and roads,public space;children;1
 2115;12000;212;R-STACJA wielofunkcyjna stacja rowerowa;public transit and roads,sport,health;youth,adults,families with children;1

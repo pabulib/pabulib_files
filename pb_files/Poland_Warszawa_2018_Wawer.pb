@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2146;145926;1070;CZYSTA WISŁA w Wawrze;welfare,education,public space;people with disabilities,seniors,families with children;1;52.1736306626357;21.136922831065
 2316;1000;962;Dom Kultury dla każdego;public space,culture,education;people with disabilities,adults,youth;1;52.2061339260147;21.1715126037598
 89;7000;895;Postawienie ławeczek nad jeziorem Żabim, oraz wyrównanie drogi nad kanałkiem.;public space,urban greenery,health;adults,families with children,seniors;1;52.2039259470585;21.1236727237701

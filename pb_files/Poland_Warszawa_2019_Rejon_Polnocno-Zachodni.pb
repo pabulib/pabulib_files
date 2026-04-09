@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1021;155340;904;Budujemy NOWY PARK na Woli! Rejon Człuchowska-Olbrachta;urban greenery;seniors,families with children;1
 942;113800;866;Zielony spacerownik przy Sowińskiego - zamiast pustego pola przyjazna przestrzeń;public space,urban greenery;None;1
 1627;29000;761;Defibrylatory na Woli - popieramy całym sercem.;education,public space,health;None;1

@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1692;264000;1743;Sady Żoliborskie = drzewa owocowe. Kontynuacja zachowania unikalnego, owocowego charakteru parku Sady Żoliborskie m. in.: pielęgnacja ok. 250 starych drzew sadowniczych;education,culture,environmental protection,public space,sport,urban greenery;children,seniors;1;52.267211904308;20.97178459167481
 1629;287000;1432;Kwitnące wiśnie i krzewy dla Żoliborza;environmental protection,public space,urban greenery;children,seniors;1;52.266381106860685;20.973560750435357
 1738;140900;1267;Zielony Stary Żoliborz;public transit and roads,public space,urban greenery;children,seniors;1;52.26180525828872;20.983841887224745

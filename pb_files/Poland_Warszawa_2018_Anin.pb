@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 671;40000;323;Leśny plac zabaw o tematyce leśnej i ochronie środowiska;education,environmental protection;children,adults,families with children;1
 1055;74500;280;A może poszli do lasu - leśna alternatywa dla seniorów i młodzieży szkolnej;environmental protection,sport,health;youth,seniors,families with children;1
 1564;2800;239;Audiobooki dla Biblioteki w Aninie;culture;youth,adults,people with disabilities;1

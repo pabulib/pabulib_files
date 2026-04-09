@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 163;860000;3351;200 dużych drzew przy wolskich ulicach;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.22944728601296;20.943961026154373
 1713;1011486;2765;Drzewa i zieleń urządzona na Woli;sport,urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.24505312312479;20.957181255259535
 2028;202000;2555;Butelkomaty dla Woli - kontynuacja;public space,environmental protection,education;people with disabilities,seniors,adults,children,youth;1;;

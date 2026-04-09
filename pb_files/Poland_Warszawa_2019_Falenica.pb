@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1591;2800;316;Czysta Falenica - kosze na śmieci;environmental protection,public space,urban greenery;youth,adults,seniors;1
 434;80000;289;Budowa chodnika łączącego ul. Popradzką z pętlą autobusową w Falenicy;public transit and roads,public space;adults,people with disabilities;1
 2106;5600;232;Koncert kolędowy dla mieszkańców Osiedla Falenica;education,culture;youth,seniors,families with children;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2103;34700;1667;Estetyzacja szczytu Kopy Cwila;public space;children,adults,seniors;1
 924;256510;1624;Łączymy parki na Ursynowie Północnym;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 951;86150;1324;Pracownia doświadczeń – Młodzi Odkrywcy;education;children,youth,families with children,students;1

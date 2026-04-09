@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 229;251000;2254;Uzupełnienie sieci tras rowerowych na Bielanach;public transit and roads;adults,children,youth;1
 749;10000;2177;Miejsce rekreacyjne - Przystań Młociny;public space;seniors,students,families with children;1
 876;13000;2083;Wygodniej rowerem między Marymoncką i Twardowską;public transit and roads,public space;youth,adults;1

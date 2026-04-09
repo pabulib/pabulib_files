@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 420;178420;3209;Drzewa i kwiaty zamiast betonu;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.1997755702112;21.0183423757553
 2156;70000;3141;Chronimy ptaki i wiewiórki w parkach i zieleńcach Mokotowa - konserwacja i zawieszenie nowych skrzynek lęgowych;environmental protection;adults,youth;1;;
 556;864800;2990;Rowerowa ul. Idzikowskiego - połączenie Dolnego i Górnego Mokotowa;public transit and roads;adults,youth,children;1;52.1904805386047;21.0393440202555

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 442;15000;336;Zakup nowości książkowych dla czytelników, uzupełnienie nowego kanonu lektur szkolnych oraz spotkania autorskie.;education,culture;youth,adults,families with children;1
 602;250000;443;Nowoczesne boisko przy SP 255;education,sport;children,families with children;1
 664;2000;317;Chrońmy zieleń przy Stanisława Augusta - barierka chroniąca trawnik;public space,urban greenery;None;1

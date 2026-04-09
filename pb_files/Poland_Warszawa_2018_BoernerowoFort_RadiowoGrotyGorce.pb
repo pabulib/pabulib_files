@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 609;167200;536;Ścieżka rowerowa wzdłuż Kaliskiego (1) – 280 m, od Archimedesa do Biblioteki Głównej WAT;public transit and roads;children,youth,adults;1
 217;7000;532;Chodnik w miejscu przedeptu przy Górczewskiej 200;public transit and roads;children,youth,adults;1
 2176;142276;491;Utworzenie pasa do prawoskrętu z ulicy Dywizjonu 303 w ulicę Lazurową;public transit and roads,public space;adults,students,families with children;1

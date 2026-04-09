@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1555;199000;913;Rewitalizacja Placu Baśniowego;environmental protection,public space,urban greenery;seniors,people with disabilities,families with children;1
 814;109950;827;Nasadzenia drzew i krzewów na Szczęśliwicach;urban greenery;children,adults,seniors;1
 73;234000;813;Boisko wielofunkcyjne na Placu Baśniowym;education,sport,health;youth,people with disabilities,families with children;1

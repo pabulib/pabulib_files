@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1537;814861;710;Park Górczewska - remont i przebudowa alejek;public transit and roads;seniors,people with disabilities,families with children;1
 1541;30000;670;Wakacyjne Kino w Amfiteatrze w Parku Górczewska;culture;adults,people with disabilities,families with children;0
 606;776;617;Nasadzenia drzew owocowych na terenie Glinianek Sznajdra.;environmental protection,public space,urban greenery;seniors,people with disabilities,families with children;0

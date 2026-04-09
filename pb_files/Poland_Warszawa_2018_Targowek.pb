@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 885;100000;2571;Czyste powietrze dla Targówka - nasadzenia drzew;environmental protection,public space,urban greenery;children,adults,families with children;1
 1569;116510;1598;Defibrylatory do Szkół Podstawowych na Targówku;education,culture,health;children,youth,adults;1
 1950;15000;1479;Rozbudowa Parku Biegacza;public space,sport,health;youth,adults;1

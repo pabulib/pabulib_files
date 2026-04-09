@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2590;50000;1809;Plaża na Białołęce II (strefa sportu nad Wisłą na Białołęce);public space,sport;youth,students,families with children;1
 670;9976;1761;Zielona Białołęka - Zielony Tarchomin;environmental protection,health,urban greenery;youth,seniors,families with children;1
 187;36509;1683;Posadźmy 450 krzewów na Tarchominie;environmental protection,health,urban greenery;adults,seniors,families with children;1

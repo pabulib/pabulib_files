@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2589;122000;853;Powiększenie bazy sportowej, ogólnodostępnej poprzez adaptację terenu nieużytku na terenie OSIR Ursus.;education,public space,sport;children,youth,adults;1
 2039;18692;823;Szafki na podręczniki szkolne w Ursusie/sp4/Ursus Południowy;education,health;children,youth,families with children;1
 2593;24000;734;Boisko plażowe na stadionie OSIR;sport,health;children,youth,adults;1

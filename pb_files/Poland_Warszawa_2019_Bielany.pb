@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 197;5000;2487;Poprawa bezpieczeństwa na przejściu dla pieszych przy Conrada naprzeciwko poczty;public transit and roads,public space;children,adults,seniors;1
 2225;46500;2313;Chronimy bielańskie jerzyki i inne ptaki gniazdujące w skrzynkach lęgowych;environmental protection;None;1
 692;750000;2078;Leśny plac zabaw w Parku Młocińskim dla młodzieży i dorosłych oraz rewitalizacja polany;public space,sport,urban greenery;youth,adults,people with disabilities;1

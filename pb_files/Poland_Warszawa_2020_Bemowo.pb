@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 476;650000;2855;Tężnia na Jelonkach (projekt inspirowany tężnią na Placu Hallera);urban greenery,health;families with children,people with disabilities,students,seniors,adults,youth,children;1;52.233523772257;20.907111379396
 430;6000;2711;Drzewa wzdłuż ul. Lazurowej;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.2318461463218;20.8971224342704
 724;120250;2165;Łąka kwietna na Bemowie;urban greenery,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.2518849743193;20.910626059029

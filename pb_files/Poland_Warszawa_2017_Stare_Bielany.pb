@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 745;489488;411;Modernizacja terenu sportowo-rekreacyjnego, budowa boisk przy Szkole Podstawowej nr 133;sport,health;children,youth,adults;1
 940;40000;387;Wygodna trasa przez Las Lindego dla rowerzysty i pieszego;public transit and roads,public space;youth,adults,families with children;1
 1511;15000;381;Placyk zabaw Bieluś Wesoły - doposażenie, wzmocnienie trawiastego podłoża górki, naprawy;public space,urban greenery;children,youth,families with children;1

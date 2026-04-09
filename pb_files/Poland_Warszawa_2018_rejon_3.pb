@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2109;11000;726;100 wonnych bzów i jaśminów na Sielcach;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 1801;1650;665;W Parku Promenada jeże potrzebują leże;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 2118;80000;584;Ławki i kosze na śmieci na Sielcach;environmental protection,public space;adults,seniors,families with children;1

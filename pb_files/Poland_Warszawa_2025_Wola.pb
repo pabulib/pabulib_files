@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 539;1000000;2616;Wola Natury - powiększamy Park Szymańskiego;public space,urban greenery;children,seniors;1;52.236888087330925;20.95130860805512
 1723;1180000;2170;BO warto dbać o wolskie parki - nowe altany w wolskich parkach, remonty placów zabaw, więcej drzew i zieleni;environmental protection,public space,urban greenery;children,seniors;1;52.23529729649147;20.96448575234922
 434;850000;1836;Remont alejek w Parku Moczydło;public transit and roads,public space,urban greenery;children;1;52.24160050365351;20.95412021461796

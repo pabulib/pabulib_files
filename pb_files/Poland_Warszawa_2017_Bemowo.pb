@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 179;440182;1519;Ścieżka rowerowa wzdłuż Powstańców Śl. - ostatni brakujący odcinek;public transit and roads,sport;children,adults,youth;1
 2356;20000;1382;Bezpieczne przejście przez pętlę Oś. Górczewska;public transit and roads,public space,health;children,adults,families with children;1
 2080;20800;1266;Łąka kwietna - Park Górczewska - EKO MIASTO;environmental protection,public space,urban greenery;children,adults,animals;1

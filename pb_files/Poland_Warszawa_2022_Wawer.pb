@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1107;560000;1303;Edukacyjny wodny park zabaw;public space,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.240292226775;21.153437002569
 217;30000;1266;Ratujmy pszczoły, twórzmy bioróżnorodność;education,urban greenery,public space;;1;;
 2188;80000;1142;Poznajemy i chronimy ptaki w lasach Dzielnicy Wawer – zawieszenie skrzynek lęgowych;environmental protection;adults;1;;

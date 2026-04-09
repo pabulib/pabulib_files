@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 288;6000;500;Zakup nowości książkowych do Wypożyczalni nr 18;education,culture;adults,seniors,students;1
 795;15000;502;Kontraruch na ulicy Koprzywiańskiej.;public transit and roads,public space,sport;children,youth,adults;1
 1120;81950;529;Pij, Warszawo - na Grochowie Północnym;public space,sport,health;adults,seniors,families with children;1

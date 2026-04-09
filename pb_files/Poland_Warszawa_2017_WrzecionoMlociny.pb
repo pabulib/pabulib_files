@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1247;250000;633;Każde mistrzostwo zaczyna się w szkole - modernizacja boiska przy szkole na Wrzecionie;education,sport,health;children,youth,students;1
 334;490000;599;Uzupełnienie sieci tras rowerowych na Wrzecionie i Młocinach;public transit and roads,environmental protection,health;adults,seniors,families with children;1
 49;49080;476;Kino Plenerowe Młociny;education,culture,public space;youth,adults,people with disabilities;1

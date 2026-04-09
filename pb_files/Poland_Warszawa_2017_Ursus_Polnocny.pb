@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1838;162500;783;Wyznaczenie naziemnych przejść dla pieszych na skrzyżowaniu ulic Orłów Piastowskich, Bony, Rakuszanki, Listopadowej;education,public transit and roads,public space;children,youth,adults;1
 111;429800;395;Usprawnienie ruchu rowerowego (Ursus Północny);public transit and roads,environmental protection,health;youth,adults,seniors;1
 1157;150060;342;Tor rowerowy dla każdego - Pumptrack i skatepark Warszawa URSUS Północny;sport,health,urban greenery;children,youth,adults;1

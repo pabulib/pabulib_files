@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 91;700000;2977;Wygodna i bezpieczna infrastruktura pieszo-rowerowa nad Kanałem Żerańskim;sport,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.360463559767446;21.032780404701555
 280;399000;2735;Monitoring i oświetlenie parków i placów zabaw na Białołęce;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.327109460282;21.029595658091253
 1388;844000;2677;Doświetlenie przejść dla pieszych;public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.342743752088644;20.96693748364575

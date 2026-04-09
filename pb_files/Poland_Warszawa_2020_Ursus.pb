@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2138;41400;1343;Chronimy jerzyki i wróble w Ursusie - montaż skrzynek lęgowych;environmental protection;adults;1;52.1920351649497;20.8815765380859
 1295;150000;1237;Bezpieczne przejście dla pieszych przy ul. Traktorzystów;education,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.196479230415;20.8844672629677
 2135;398000;1206;Remont boiska w Szkole Podstawowej nr 14;sport,public space,welfare;people with disabilities,seniors,adults,youth,children;1;52.1891161958021;20.8903746639331

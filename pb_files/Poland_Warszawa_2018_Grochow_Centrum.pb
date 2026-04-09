@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 347;16000;423;Zakup nowości książkowych do Wypożyczalni nr 40 i Biblioteki dla Dzieci nr 47;education,culture;children,adults,seniors;1
 33;52000;251;Klub dla rodzin Zwalcz Nudę, miejsce przyjazne rodzinie na Pradze - Południe;education,culture,welfare;children,youth,families with children;1
 348;8000;286;Spotkania varsavianistyczne i autorskie dla dzieci i młodzieży.;education,culture;children,youth;1

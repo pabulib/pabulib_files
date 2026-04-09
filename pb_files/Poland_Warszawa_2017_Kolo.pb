@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1765;21120;315;Sad owocowy z łąką - Park Moczydło – EKO MIASTO;environmental protection,public space,urban greenery;children,adults,animals;1
 1771;9600;312;Ławeczki do odpoczynku wzdłuż Ciołka;public transit and roads,public space;seniors,people with disabilities,families with children;1
 412;10321;305;Tenis stołowy na Kole - zakup stołu pinpongowego i umiejscowienie go w Parku Moczydło;sport,health,culture;adults,youth,families with children;1

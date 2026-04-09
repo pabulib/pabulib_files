@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: According to the official BO 2022 report, projects 773 and 153 both targeted the area near ul. Konarskiego and could not be implemented simultaneously. Project 773 received more votes and was recommended under § 46 ust. 5, so project 153 was not selected. Therefore rule greedy-exclusive is applied.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 554;483500;2048;Drzewa i toaleta samoczyszcząca z przewijakiem w parku Górczewska;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.232939757069005;20.905803775258
 825;126000;1928;Zakup książek do Biblioteki Publicznej w Dzielnicy Bemowo;culture,education;people with disabilities,seniors,adults;1;;
 702;406000;1858;Strefa sportu w Parku Górczewska;urban greenery,culture,sport;seniors,adults,youth,children;1;52.232062660553;20.900105375038

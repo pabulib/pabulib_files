@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2104;81800;741;Lepsza zieleń przyuliczna w okolicy skrzyżowania Ordona i Jana Kazimierza.;environmental protection,public space,urban greenery;children,adults,seniors;1
 1117;63000;714;Nasadzenia niskiej roślinności w rejonie ulic Jana Kazimierza i Sowińskiego;public space,urban greenery;youth,adults,families with children;1
 2053;355000;596;Remont zabytkowej ul. Armatniej - drogi do Dworca Zachodniego;public transit and roads,public space;youth,adults,families with children;1

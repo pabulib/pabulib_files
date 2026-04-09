@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 58;49800;1266;Street Workout – Miejska Ścieżka Zdrowia;public space,sport,health;youth,adults,students;1
 628;15400;1116;Nasze bezpieczeństwo - pierwsza pomoc;education;children;1
 704;260000;1018;Przebudowa placu zabaw przy ul. Andersena 4;sport,health,public space;children,families with children;1

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 879;612180;396;Remont zalewanej płyty wzdłuż Powstańców Śląskich i bloków Pirenejska;public transit and roads,public space;children,adults,people with disabilities;1
 938;50000;394;Kino plenerowe przy Hali Sportowej OSiR;culture;youth,adults;1
 906;249750;385;Remont chodnika wzdłuż ul.Wrocławskiej - od Lencewicza do przejścia przy Blatona / przychodni.;public transit and roads;children,youth,adults;1

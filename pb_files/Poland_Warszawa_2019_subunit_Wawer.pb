@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2310;15000;158;Zakup książek i multimediów do biblioteki w Wawrze;culture,education;families with children,seniors,youth;1;;
 132;31500;151;Modernizacja Sali Gimnastyczno-Widowiskowej w Szkole Podstawowej nr 86;sport,culture,education;families with children,youth,children;1;;
 133;27159;150;Wykonanie piłkochwytu wokół boiska wielofunkcyjnego w SP86;public space,sport,education;adults,youth,children;1;;

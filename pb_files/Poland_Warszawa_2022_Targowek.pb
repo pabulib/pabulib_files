@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1504;42090;1439;Nowe drzewa na Targówku - ul. Odrowąża i ul. Wysockiego;urban greenery,public space,environmental protection;youth,seniors,adults,children;1;52.28530573097;21.042455661873
 51;360000;1362;Tężnia na Targówku Mieszkaniowym na Skwerze Wiecha;public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.27251112994;21.052148945765
 1325;250000;1170;Letnie kino plenerowe;public space,education,culture;people with disabilities,seniors,adults,youth,children;1;52.27765206846443;21.059648847363714

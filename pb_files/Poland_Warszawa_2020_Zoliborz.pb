@@ -21,7 +21,7 @@ currency;PLN
 fully_funded;1
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2000;90000;1933;Zielona i bezpieczna okolica stacji PKP Powązki;urban greenery,public transit and roads;people with disabilities,seniors,adults,youth,children;1;;
 185;195000;1731;Zielona Ulica Kaliny Jędrusik;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.2564207509391;20.965459767701
 497;120600;1542;Renowacja ławek w parku Sady Żoliborskie;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;;

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2525;1200;900;Ochrona ptaków gniazdujących w skrzynkach lęgowych w Parku Dolina Służewska;environmental protection;animals;1
 1272;350000;643;Otwarty Plac Zabaw dla Dzieci i Młodzieży przy Szkole Podstawowej nr 107;education,public space,sport;children,youth,families with children;1
 1148;81358;621;Czystsze powietrze, dzięki drzewom. Okolice szkoły podstawowej nr 107, Nowoursynowska i szkoły podstawowej nr 271, al. Lotników;environmental protection,public space,urban greenery;adults,seniors,families with children;1

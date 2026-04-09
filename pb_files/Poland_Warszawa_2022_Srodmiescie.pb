@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1903;365750;1642;Drzewa w Śródmieściu (ul. Wilcza);public space,environmental protection,urban greenery;people with disabilities,seniors,adults,youth,children;1;52.225700048912664;21.01931065320967
 1516;67500;1420;Jadłodzielnia w Śródmieściu;welfare,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;;
 2060;250000;1320;Skwer przy skrzyżowaniu ulic Koszykowej i Pięknej;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.222790753492;21.009852358112

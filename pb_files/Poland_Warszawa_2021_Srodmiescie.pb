@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 999;37900;1842;Ratujemy Zwierzęta - zbudujmy im domy w parkach i zieleńcach Śródmieścia;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.239351387297624;21.006842254068598
 2163;423600;1827;Obiad dla potrzebujących w Śródmieściu;welfare;people with disabilities,seniors,adults;1;52.246795766806;21.008675048246
 30;50414;1550;Nowe drzewa na Marszałkowskiej pomiędzy Świętokrzyską a Widok;urban greenery,public space,environmental protection;seniors,adults,youth;1;52.232470588899;21.010307799285

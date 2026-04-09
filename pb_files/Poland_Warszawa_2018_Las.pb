@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1431;5200;261;Koncert kolędowy dla mieszkańców Osiedla Las;culture;youth,seniors,families with children;1
 1719;14500;157;Święto Osiedla Las/Sportowa Niedziela;culture,public space,sport;children,adults,families with children;1
 1786;10000;152;Miasteczko rowerowe dla dzieci - zajęcia;education,sport,health;children,adults,families with children;1

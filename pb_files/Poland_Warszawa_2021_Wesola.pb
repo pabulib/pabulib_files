@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 637;166222;684;Poprawa bezpieczeństwa rowerzystów na ul. 1 Praskiego Pułku w Wesołej;sport,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.234377700112;21.2230611172915
 723;30100;582;Wybieram Bibliotekę. Zakup książek dla wesołowskich bibliotek.;culture,education;people with disabilities,seniors,adults,youth,children;1;52.246822871508755;21.22459888458275
 972;166000;533;Kamery na rondach w Wesołej;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.22350055550586;21.227204726989573

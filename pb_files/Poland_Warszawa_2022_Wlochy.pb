@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 705;99000;1169;Drzewa dla Włoch - edycja trzecia;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.192231340353;20.959250623881
 1832;113000;956;50 drzew dla Włoch i Okęcia! Więcej nasadzeń;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1402;163790;794;Zamiana betonowej kostki na zieleń w ciągu ulicy Kleszczowej;urban greenery,public space,public transit and roads;;1;52.195645666242626;20.922412803769127

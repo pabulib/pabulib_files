@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2250;20000;1589;Kino plenerowe;public space;None;1
 2346;50000;1506;Chronimy jerzyki i inne ptaki gniazdujące w skrzynkach lęgowych na Bemowie;environmental protection;None;1
 1772;22350;1434;Rodzinne rowery na Bemowie;public transit and roads,health;children,adults;1

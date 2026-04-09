@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 129;142300;640;Budujemy nowy park w Rembertowie! Rejon Strażacka/Kordiana;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.261088881101;21.154397460439
 2107;175000;610;Doświetlenie przejść dla pieszych w Rembertowie;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.258941158142;21.161647673477
 1350;25000;502;Modernizacja parku przy ul. Frontowej;culture,urban greenery,sport;people with disabilities,seniors,adults,youth,children;1;52.26128309443;21.175865070196

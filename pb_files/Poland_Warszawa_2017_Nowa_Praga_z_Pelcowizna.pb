@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2288;27650;522;Poidełko na placu zabaw w Parku Praskim;public space;children,families with children;1
 1789;17000;520;Praska łąka - Eko Miasto;environmental protection,public space,urban greenery;children,adults,animals;1
 2263;1500;502;Zabytkowy słup zabezpieczony przed bazgrołami.;public space;adults,seniors,students;1

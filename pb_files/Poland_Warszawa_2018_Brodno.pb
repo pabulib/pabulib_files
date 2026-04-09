@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1406;390300;928;Szatnie rodzinne i tanie pływanie na Pływalni Polonez;sport;youth,adults,families with children;1
 1885;28200;797;Nowe drzewa na Bródnie;environmental protection,public space,urban greenery;children,youth,adults;1
 504;60000;777;Wodna mgiełka przy placach zabaw;public space;children,families with children;1

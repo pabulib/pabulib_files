@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 500;650000;2095;Zielone ulice i skwery Ochoty - sadzimy w całej dzielnicy 3250 m2 bylin, krzewów i traw ozdobnych;environmental protection,public space,urban greenery;children,seniors;1;52.219939193898924;20.984039692542915
 1122;270000;1696;Zazieleńmy ochockie ulice - ogrody bylinowe;environmental protection,public space,urban greenery;children,seniors;1;52.21520618735818;20.975797176361088
 218;89600;1641;Remont chodnika oraz drobne naprawy w Parku Szczęśliwickim;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.2083537;20.9631279

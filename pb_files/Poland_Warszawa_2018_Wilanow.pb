@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 776;12345;642;Pokazy popularno-naukowe w Centrum Kultury Wilanów;education;children;1
 1653;300000;628;Oświetlenie ścieżki rowerowej wzdłuż ul. Przyczółkowej: od ul. Klimczaka do ul. Branickiego;public transit and roads,sport,health;adults,families with children;0
 24;11880;520;Wycieczki po Parku Natolińskim;culture;adults,seniors,families with children;1

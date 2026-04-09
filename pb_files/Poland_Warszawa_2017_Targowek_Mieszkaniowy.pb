@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 723;190000;422;Droga rowerowa wzdłuż św. Wincentego;public transit and roads,public space,urban greenery;youth,adults,families with children;1
 981;97500;411;Zielony Targówek - nasadzenie drzew i krzewów, urządzenie kwietników i łąk;environmental protection,urban greenery;adults,seniors,families with children;1
 1346;30914;404;Zielone okolice - Rondo Żaba przyjazne mieszkańcom;environmental protection,public space,urban greenery;children,adults,families with children;1

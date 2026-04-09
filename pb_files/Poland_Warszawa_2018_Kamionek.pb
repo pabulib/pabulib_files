@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 184;50000;521;Oświetlenie ciągu pieszego od Grochowskiej do bulwaru Stanisława Augusta i terenów zielonych nad kanałkiem Kamionkowskim;public transit and roads,public space;None;1
 233;10000;439;Zakup nowości wydawniczych do wypożyczalni nr 44;education,culture;youth,adults,students;1
 698;45500;546;Skwer na Starówce Kamionka - zbieg ulic Mińskiej, Bliskiej, Kamionkowskiej;public space,urban greenery;children,youth,adults;1

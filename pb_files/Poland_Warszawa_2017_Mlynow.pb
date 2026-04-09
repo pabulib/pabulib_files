@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 726;125000;454;Usprawnienia rowerowe oraz nowe drzewa na Młynowie;public transit and roads,environmental protection,public space;youth,adults,families with children;1
 1273;3600;424;Wypożyczalnie gier planszowych w bibliotece - Wola obszar 4: Młynów;education,culture;youth,adults,families with children;1
 5;10550;414;Motyle na Agawy 4;environmental protection,public space,urban greenery;children,adults;1

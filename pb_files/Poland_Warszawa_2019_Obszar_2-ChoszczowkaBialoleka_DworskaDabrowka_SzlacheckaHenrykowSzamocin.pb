@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 767;5000;652;Montaż dużego lustra drogowego na skrzyżowaniu ulic Wałuszewskiej i Ołówkowej;public transit and roads;None;1
 406;4000;633;Montaż lustra drogowego przy skrzyżowaniu ulic Fletniowej i Mehoffera;public transit and roads,public space;youth,adults;1
 1758;5000;613;Montaż luster drogowych na wybranych skrzyżowaniach na terenie Wiśniewa/Henrykowa;public transit and roads;adults,people with disabilities,families with children;1

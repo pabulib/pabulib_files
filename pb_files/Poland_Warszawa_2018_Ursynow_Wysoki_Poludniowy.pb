@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 8;535000;1723;Doświetlenie przejść dla pieszych na Ursynowie Południowym;public transit and roads;children,adults,families with children;1
 2256;114730;1597;Pij, Warszawo (Ursynów Południowy);public space,sport,health;adults,seniors,families with children;1
 1043;187850;1595;Zacienione place zabaw - przy ulicy Przy Bażantarni i ulicy Pala Telekiego;public space,sport,urban greenery;children,seniors,families with children;1

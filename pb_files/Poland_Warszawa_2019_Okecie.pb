@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2234;107540;306;Zielone Włochy - Zielone Okęcie - dobry klimat, czyste powietrze - to zdrowie mieszkańców;environmental protection,health,urban greenery;seniors,families with children;1
 1108;84625;290;50 drzew dla Okęcia! Tak dla czystego powietrza!;environmental protection,public space,urban greenery;children,adults,seniors;1
 1520;115000;289;Zazieleńmy Okęcie !!! Nasadzenia krzewów w pasach drogowych ul. Bakalarskiej, Radarowej, Podborskiej i Borsuczej.;environmental protection,public space,urban greenery;children,adults,animals;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 365;52619;462;Mini park linowy w Parku Kombatantów;public space,sport,urban greenery;children,youth,families with children;1
 429;7000;451;Zakup książek mówionych, oraz filmów na DVD dla Biblioteki Publicznej przy ul. ks.J.Chrościckiego 2;education,culture;children,youth,adults;1
 265;23000;409;Nowości dla Biblioteki Publicznej w Dzielnicy Włochy Miasta.St. Warszawy;education,culture;youth,adults,students;1

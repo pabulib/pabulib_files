@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1489;350000;823;***Do Lasku na Kole - ścieżka pieszo-rowerowa zamiast błota***;public transit and roads,sport,urban greenery;adults,seniors,families with children;1
 935;79706;743;Jeszcze więcej drzew na Młynowie;environmental protection,health,urban greenery;children,adults,seniors;1
 892;12000;730;Ławki na Płockiej;public transit and roads,public space;adults,seniors,families with children;1

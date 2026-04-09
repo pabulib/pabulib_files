@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 57;600;5079;Domki dla jeży;environmental protection;animals;1
 120;15000;3028;leczenie i sterylizacja wolno żyjących kotów;environmental protection,public space;animals;1
 141;10800;2105;Zakup książek nowości dla Wypożyczalni nr 100 ul Zwycięzców 46;education,culture,public space;adults,seniors,students;1

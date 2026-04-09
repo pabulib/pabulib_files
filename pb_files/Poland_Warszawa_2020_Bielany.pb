@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 576;100000;2691;Automatyczny skup plastikowych butelek;education,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.2771372858923;20.9592460389676
 2063;150000;2234;Ławki w Bielańskich lasach;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1902;756000;1840;Remont ścieżki rowerowej - Kasprowicza;sport,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.2822528289844;20.9489660232366

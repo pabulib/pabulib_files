@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 396;25000;1535;Ławki w cieniu, remont wejść i kwiaty w Parku Sowińskiego;public space,urban greenery;seniors,people with disabilities,families with children;1
 2331;100000;1384;Jeszcze więcej tlenu! Nasadzenia drzew i krzewów na Odolanach;environmental protection,public space,urban greenery;children,adults;1
 2087;250000;1293;Tężnia solna;public space,health;seniors,people with disabilities,families with children;1

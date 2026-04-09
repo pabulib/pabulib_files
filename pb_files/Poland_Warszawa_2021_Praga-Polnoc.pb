@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 38;313000;1464;Więcej drzew i krzewów dla Pragi;public space,environmental protection,urban greenery;people with disabilities,seniors,adults,youth,children;1;52.26030027877789;21.038191520351052
 34;432000;1435;Zielone ściany i mniej betonu dla Pragi;public space,environmental protection,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.2595343031405;21.034316652304
 1342;49900;1179;Chronimy ptaki, wiewiórki, nietoperze i owady zapylające na Pradze Północ-konserwacja i zawieszanie skrzynek lęgowych, zimowe dokarmianie ptaków, utrzymanie schronień dla owadów;environmental protection;seniors,adults,youth,children;1;52.25536985510333;21.022340560896332

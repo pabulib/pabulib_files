@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 951;18000;378;Trawniki to nie śmietniki!;education,environmental protection,urban greenery;children,seniors,families with children;1
 1991;199200;377;Polana– wejście do Lasku Lindego od ulicy Przybyszewskiego;public space,sport,urban greenery;children,youth,adults;1
 597;60000;372;Przejście przez ul. Żeromskiego w pobliżu ul. Kleczewskiej;public transit and roads;None;1

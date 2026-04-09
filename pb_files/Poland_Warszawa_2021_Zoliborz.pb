@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1809;332000;2164;Owocowe Sady Żoliborskie - kompleksowe działania na rzecz zachowania unikalnego charakteru Parku Sady Żoliborskie z drzewami sadowniczymi, w tym m.in. pielęgnacja i zabiegi sanitarne drzew oraz koncepcja przyszłych nasadzeń roślinności.;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.267249985708254;20.974552631378
 760;49500;1931;Chronimy jerzyki i wróble na Żoliborzu - montaż skrzynek lęgowych;environmental protection;adults;1;;
 1361;25000;1851;Wieże lęgowe dla jerzyków;urban greenery,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;;

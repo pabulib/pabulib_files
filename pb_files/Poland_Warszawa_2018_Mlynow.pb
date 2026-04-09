@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 83;30900;983;Więcej drzew na Młynowie;environmental protection,public space,urban greenery;children,seniors,families with children;1
 84;145490;842;Plac zabaw Wola Malucha;public space,sport,health;children,families with children;1
 183;760568;800;Skwer Wolnej elekcji;public space,sport,urban greenery;seniors,people with disabilities,families with children;1

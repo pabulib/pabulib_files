@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1676;87594;354;Siłownia plenerowa w SP 109;sport,health;children,youth,adults;1
 1423;5200;302;Koncert kolędowy w Zerzeniu;culture;youth,seniors,families with children;1
 1604;64149;187;Zakątek szachowy w SP 109;education,culture,sport;adults,seniors,families with children;0

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 304;280000;1042;Aleja 100 drzew;urban greenery;seniors,adults,youth;1;52.1621087886365;20.9388921346365
 796;257000;1002;Zielona Dzielnica Włochy. Tak dla czystego powietrza. Nasadzenia krzewów w pasach drogowych ul. Bakalarskiej, ul. Radarowej ul Sulmierzyckiej, ul. Lechickiej, ul. Strubiczów, ul. Trapez i ul. Hynka oraz zakup i montaż 1000 sztuk treegatorów czyli worków do kropelkowego podlewania drzew;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.1932197904027;20.956262245552
 533;48000;964;Chronimy jerzyki i wróble we Włochach-montaż skrzynek lęgowych;public space,education,environmental protection;people with disabilities,seniors,youth,children,adults;1;52.1920268227946;20.959295133621

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 262;50000;517;Boiska dla Warszawy - Warszawska 63;education,sport,health;children,youth,adults;1
 362;20000;437;Projekt zaopatrzenia Domów Kultury w Dzielnicy Ursus w urządzenia AED (Automatyczny defibrylator zewnętrzny);public space,health;children,adults,seniors;1
 1199;2880;496;Audiobooki dla młodzieży w 2 bibliotekach - Ursus Północny;education,culture;children,youth,families with children;1

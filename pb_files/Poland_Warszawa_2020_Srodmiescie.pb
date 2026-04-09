@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 955;290000;1362;Nowe duże drzewa przy Wilczej/Poznańskiej oraz podlewanie drzew przez ZTP i ZGN w ścisłym centrum;urban greenery,public space,environmental protection;seniors,adults,children;1;;
 32;439200;1123;Zbiory dla bibliotek;public space,culture,education;adults,youth,children;1;;
 932;18975;1033;Rowerem dwukierunkowo po ulicach jednokierunkowych Pankiewicza, Poznańska, Nowolipie;sport,public space,environmental protection;seniors,adults,youth;1;52.228409999193;21.0079102480051

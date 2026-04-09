@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 878;15000;394;Zielone igloo w Parku Wiecha;public space,urban greenery;children,youth,families with children;1
 1049;4999;354;Wypożyczalnia gier planszowych.;education,public transit and roads,sport;None;1
 1082;72800;338;Kreatywna świetlica;education,public space;children,families with children;1

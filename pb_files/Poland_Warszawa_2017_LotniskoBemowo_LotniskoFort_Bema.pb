@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 809;2000;683;Samoobsługowa stacji serwisowania rowerów przy skrzyżowaniu ulic Powstańców Śląskich i Radiowej.;public transit and roads,public space,sport;children,seniors,families with children;1
 2373;110000;499;Budowa brakującego odcinka chodnika wzdłuż ulicy Wrocławskiej do skrzyżowania z ulicą Radiową;public transit and roads;None;1
 2196;12000;498;Drążek do podciągania,ławeczka do brzuszków,poręcze gimnastyczne w lasku przy Obrońców Tobruku;public space,sport;adults,seniors;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2448;3200;1129;Ratujmy praskie kasztanowce;environmental protection,public space,urban greenery;None;1
 195;149262;903;Kolejne zielone skwery Pragi;public space,environmental protection,urban greenery;adults,children,seniors;1
 2471;27000;890;Tablice informacyjne o obiektach zabytkowych Pragi;education,culture;None;1

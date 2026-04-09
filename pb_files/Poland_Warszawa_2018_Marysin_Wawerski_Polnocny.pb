@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1189;80500;187;Renowacja boiska i bloku sportowego w ZS 115 ul. Króla Maciusia 5;education,sport,health;children,youth,families with children;1
 397;33000;131;Nowości książkowe dla Wypożyczalni nr 59 w Marysinie Wawerskim;education,culture,public space;children,adults,people with disabilities;1
 506;17900;93;„Teatralia”;education,culture;youth,seniors,families with children;1

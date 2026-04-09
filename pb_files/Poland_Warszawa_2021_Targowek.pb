@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 2093;62000;1829;Chronimy jerzyki i wróble na Targówku - montaż skrzynek lęgowych;environmental protection;seniors,youth,adults;1;52.295047859037496;21.0423557043075
 274;376000;1715;Bezpłatne lodowisko pod chmurką;sport,public space;seniors,adults,youth,children;1;52.298375506702;21.036179065704
 475;283500;1692;Zakup nowości wydawniczych dla Biblioteki Publicznej w Dzielnicy Targówek m.st. Warszawy;environmental protection,culture,education;people with disabilities,seniors,adults,youth,children;1;52.28986207618276;21.03212931344

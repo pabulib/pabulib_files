@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 292;600000;1747;Otwarte Podwórko Integracyjne;education,public space,sport;children,people with disabilities,families with children;1
 1062;689000;1326;Zielona strefa sportu;public space,sport,urban greenery;children,youth,adults;0
 582;58920;1253;Przestrzeń dla rodziny - warsztaty, zajęcia, spacery i gra miejska;education,culture,health;children,adults,families with children;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1873;99800;78;Kraina zabawek;culture,public space;children,families with children;1
 38;3750;65;Varsavianistyczne wycieczki szkolne;education;children;1
 165;85300;56;Rosochaty park.;environmental protection,public space,urban greenery;youth,seniors,families with children;1

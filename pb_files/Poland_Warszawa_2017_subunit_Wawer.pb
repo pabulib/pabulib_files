@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 74;103076;269;MODERNIZACJA PLACU ZABAW W ZESPOLE SZKÓŁ NR 116;urban greenery,health,sport;families with children,youth,children;1;52.21647262848;21.144973753835
 2450;6000;169;NOWOŚCI KSIĄŻKOWE DO WYPOŻYCZALNI 26;culture,education;adults,youth,children;1;52.220070467799;21.151181459427
 2464;6000;111;REKREACJA RUCHOWA DLA OSÓB 50+;health,education;seniors,adults;1;52.22006389499;21.151114404202

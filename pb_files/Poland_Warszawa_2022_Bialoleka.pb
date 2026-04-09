@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 864;662744;2573;Stop smog! Posadźmy drzewa i krzewy wzdłuż najważniejszych dróg na Białołęce, stwórzmy zielone aorty dzielnicy;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.32602698899129;20.9844755128875
 74;371000;2329;Jaśniej i bezpieczniej na Żeraniu, Tarchominie, Nowodworach, Henrykowie i wschodniej Białołęce - wymiana oświetlenia na LED;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.31705162146357;20.99723691211986
 2;150000;2178;40 ławek i kosze na odpady dla Białołęki;urban greenery,sport,public space;seniors,adults,youth,children;1;52.33195990510054;20.996801169311723

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1716;809510;1032;Park Górczewska - remont i przebudowa alejek etap II;public transit and roads;seniors,people with disabilities,families with children;1
 1729;446847;903;Park Górczewska - oświetlenie alejek;public transit and roads,public space;seniors,people with disabilities,families with children;1
 904;37687;690;Rewitalizacja zieleni wzdłuż ul. Lazurowej na odcinku między ul. Siemiatycką i ul. Człuchowską;environmental protection,public space,urban greenery;adults,families with children,animals;1

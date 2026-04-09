@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1415;37500;329;Drzewa i krzewy na Grochowie Centrum;urban greenery;children,families with children;1
 1539;15000;249;Kontraruch rowerowy na ulicy Mycielskiego, Paca i Prochowej;public transit and roads,public space,urban greenery;youth,adults,families with children;1
 104;12000;310;Zakup nowości książkowych do Wypożyczalni nr 40 i Biblioteki dla Dzieci nr 47;education,culture;children,adults,seniors;1

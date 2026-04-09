@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2748;108000;478;Wielka piramida linowa - plac zabaw Kochanowskiego 22;sport,health,urban greenery;children;1
 2720;38750;434;Naprawa nierówności i uszkodzeń powierzchni, alejek i placyków w osiedlu Piaski;public transit and roads,public space;seniors,people with disabilities,families with children;1
 2670;41000;415;Siłownia zewnętrzna na Osiedlu Piaski;sport,health;youth,seniors,families with children;1

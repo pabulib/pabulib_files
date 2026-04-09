@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1440;180000;2059;Więcej parku, mniej lunaparku - zadbajmy o tereny Parku Górczewska do wolnej rekreacji;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.233529541241;20.905351638794
 1068;113400;1855;Zakup książek do placówek bemowskiej biblioteki;culture,education;people with disabilities,seniors,adults,youth,children;1;52.24120050366384;20.9138862710235
 638;379625;1720;Zieleń zamiast klepiska;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.250071886117;20.912033921527

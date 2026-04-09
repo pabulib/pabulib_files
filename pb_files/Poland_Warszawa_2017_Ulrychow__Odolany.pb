@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 856;81000;966;Więcej tlenu! Nasadzenia drzew i krzewów na Odolanach;environmental protection,public space,urban greenery;children,adults,animals;1
 363;30000;954;Chodnik dla pieszych wzdłuż ul Sowińskiego;public transit and roads,public space;seniors,people with disabilities,families with children;1
 366;12500;904;Rabata kwiatowa - nasadzenia wzdłuż ul. Sowińskiego;public transit and roads,environmental protection,urban greenery;children,adults,families with children;1

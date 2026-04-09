@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1924;30000;512;Naprawa trasy przez Las Lindego dla rowerzysty i pieszego;public transit and roads,public space;youth,adults,families with children;1
 1293;15650;512;Ławki na skwerze przy ul. Schroegera na wysokości Fontany i Lisowskiej;public space,urban greenery;youth,adults,families with children;1
 1080;40800;463;Przyjazne podwórko dla juniora i seniora na Przybyszewskiego 55;public space,sport;children,seniors,people with disabilities;1

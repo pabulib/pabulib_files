@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 802;265000;240;Nowoczesny plac zabaw przy ul. Tokarza (tzw. Jordanek);public space,sport,urban greenery;children,families with children;1
 577;200000;214;Utwardzenie szlaków spacerowych w Lasku Bródnowskim;public space,health,urban greenery;seniors,families with children,animals;0
 1786;14000;211;Spotkania z literaturą, kulturą i sztuką w bibliotekach: wydarzenia dla dorosłych i dzieci;education,culture;children,youth,adults;1

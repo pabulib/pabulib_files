@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1935;525880;920;Mniej betonu na Pradze;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.257350519243005;21.05042940408
 14;525000;899;Mniej betonu dla Pragi;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.2588628373895;21.055048188529
 61;299800;865;Kwitnące drzewa i krzewy dla Pragi;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

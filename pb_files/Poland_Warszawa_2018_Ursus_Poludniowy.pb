@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 494;9000;980;Usprawnienie ruchu rowerowego w Dzielnicy Ursus;public transit and roads,environmental protection,health;youth,adults,seniors;1
 359;10000;700;Projekt zaopatrzenia Domów Kultury w Dzielnicy Ursus w urządzenia AED (Automatyczny defibrylator zewnętrzny);public space,health;children,adults,seniors;1
 300;14000;613;Piec do wypału ceramiki dla Pracowni Ceramicznej Domu Kultury Kolorowa;education,culture;children,adults,families with children;1

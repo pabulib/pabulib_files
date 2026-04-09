@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 101;77050;377;Utworzeniem miejsc postojowych wraz z rewitalizacją zieleni ulicy Naddnieprzańskiej;public transit and roads,public space,urban greenery;youth,adults,families with children;1
 1470;60000;135;Siłownia Plenerowa ul. Harmonistów;public space,sport,health;children,youth,adults;1
 1813;53575;98;Zieleńce na Potockich;public space,urban greenery;children,youth,seniors;0

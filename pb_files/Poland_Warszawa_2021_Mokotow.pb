@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 498;140000;4303;Ratujemy staw przy Dolnej;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.198881455925;21.027993524298
 971;110000;4220;Zazieleniamy Mokotów – 1000 krzewów;urban greenery,public space,environmental protection;adults,youth;1;;
 902;850000;3962;Więcej zieleni, krzewy i trawy dla Starego Mokotowa;environmental protection,urban greenery,public space;seniors,adults,youth,children;1;52.20305678260831;21.010146037011936

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 643;120000;452;Przejścia aktywne = dzieci bezpieczne na ulicy;public transit and roads;children,people with disabilities,families with children;1
 2307;95000;373;Rozbudowa placu zabaw na Tużyckiej;public space,urban greenery;children,families with children;1
 513;65000;368;Siłownia plenerowa przy Szkole Podstawowej nr 52;sport;children,seniors,families with children;1

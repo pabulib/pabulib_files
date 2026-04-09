@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2254;38700;1520;Skrzynki lęgowe dla jerzyków i wróbli na Ochocie;environmental protection;animals;1
 1686;113920;1350;Chrońmy stare drzewa Ochoty – ostoję bioróżnorodności, skuteczny sposób redukcji zanieczyszczeń powietrza;environmental protection,public space,urban greenery;youth,adults,seniors;1
 1990;41250;1345;Czysty Park Szczęśliwicki - nakładki na kosze na śmieci;environmental protection,public space,urban greenery;children,seniors,families with children;1

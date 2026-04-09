@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2480;4900;1347;Chronimy jerzyki i wróble na Ochocie - działanie pilotażowe;environmental protection;children,adults,animals;1
 2500;4450;1336;Ochrona ptaków gniazdujących w skrzynkach lęgowych w parkach Ochoty;environmental protection;animals;1
 737;45000;1152;Żywopłoty zamiast niektórych słupków na Grójeckiej;environmental protection,public space,urban greenery;children,youth,adults;1

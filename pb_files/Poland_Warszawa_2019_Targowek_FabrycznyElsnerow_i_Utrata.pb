@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 828;41000;250;Letnie kino plenerowe dla mieszkańców Targówek Fabryczny, Elsnerów i Utrata;education,culture,public space;youth,adults,seniors;1
 1643;5000;246;Zadaszona ławka do karmienia + przewijak na terenie placu zabaw przy ulicy Przecławskiej.;welfare,public space;children,adults,families with children;1
 233;63000;227;Darmowe tematyczne noce filmowe;education,culture;youth,adults,students;1

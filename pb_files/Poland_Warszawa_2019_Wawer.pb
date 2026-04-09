@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 555;200000;1373;Budowa ciągu pieszo - rowerowego w ul. Trakt Lubelski;health,sport,public transit and roads;adults,youth,children;1;52.1973720457519;21.135351061821
 2400;22960;905;Zakup specjalistycznego sprzętu do diagnozy i terapii dzieci i młodzieży z trudnościami w koncentracji;health,education;youth,children;1;;
 2428;3000;763;Dzikie rośliny jadalne i lecznicze - warsztaty w terenie, nauka rozpoznawania i zbierania ziół, przypraw;health,environmental protection,education;families with children,seniors,adults;1;;

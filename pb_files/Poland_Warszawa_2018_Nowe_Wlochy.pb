@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 291;2000;459;Warsztaty dla dorosłych;education,culture;adults,seniors;1
 1916;5440;454;Wypożyczalnie gier planszowych w bibliotece;education,culture;children,youth,families with children;1
 2498;15000;449;Bezobsługowe stacje naprawcze dla rowerów;public space,sport,health;children,adults,families with children;1

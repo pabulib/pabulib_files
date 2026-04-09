@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1211;229500;420;Bezpieczna droga do szkoły - budowa chodnika ul. Paderewskiego (Katiuszy-Strycharska);public transit and roads;youth,seniors,families with children;1
 2141;80000;418;Doposażenie dla małych dzieci istniejących placów zabaw;public space,sport,urban greenery;children,families with children;1
 731;46000;402;Książki i multimedia dla Biblioteki Publicznej w Dzielnicy Rembertów;education,culture,public space;children,youth,adults;1

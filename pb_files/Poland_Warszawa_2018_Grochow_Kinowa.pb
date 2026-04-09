@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2042;5820;375;Czyste trawniki - kosze i tabliczki;public transit and roads,environmental protection,public space;children,adults,seniors;1
 1110;4305;229;Lustro drogowe sferyczne przy ulicy Walewskiej;public transit and roads;adults;1
 696;11470;202;Zieleń na Kirasjerów - projekt pilotażowy;public transit and roads,public space,urban greenery;adults,seniors,families with children;1

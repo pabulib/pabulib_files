@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 510;150000;640;Rewitalizacja terenu zielonego pomiędzy ul. Powstańców Śląskich a ul. Księżycową;environmental protection,public space,urban greenery;adults,families with children;1
 490;16000;593;Ławki przy urzędzie pocztowym na Chomiczówce wraz z zagospodarowaniem skwerów;public space,urban greenery;seniors,people with disabilities,families with children;1
 359;320000;569;Doświetlenie przejść dla pieszych na Kwitnącej;public transit and roads,public space;children,adults,seniors;1

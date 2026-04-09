@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 198;625000;618;Reaktywacja Ogrodu Botanicznego w Batorym;education,public space,urban greenery;youth,seniors,families with children;1
 1330;152000;425;Naprawa schodów w parku Rydza - Śmigłego oraz zakup nowych ławek.;public transit and roads,public space;None;1
 2041;19600;361;Oświetlenie bieżni lekkoatletycznej boiska WCSM Agrykola;sport,health;adults,seniors,students;1

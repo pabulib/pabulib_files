@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2222;8400;702;Ustawienie ławek przy ul. Czarnomorskiej;public space,health;children,seniors,families with children;1
 852;103699;700;Więcej powietrza na naszym podwórku – nasadzenie krzewów i drzew na Stegnach;education,urban greenery;None;1
 201;618820;680;Sportowa odnowa - renowacja boiska przy Szkole Podstawowej nr 212;public space,sport,health;children,youth,adults;1

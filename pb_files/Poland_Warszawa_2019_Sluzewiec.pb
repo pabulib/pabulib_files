@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 594;44600;455;1000 Nowych książek do Wypożyczalni nr 95 dla Dorosłych i Młodzieży;education,culture;youth,adults,students;1
 1150;10000;439;:-) Śmietniki wzdłuż Jadźwingów;public transit and roads,culture,health;adults,seniors,families with children;1
 505;29673;387;Łąki kwietne na al. Lotników;public transit and roads,public space,urban greenery;seniors,families with children,animals;1

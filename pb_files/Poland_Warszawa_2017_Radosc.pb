@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 206;65000;223;Modernizacja placu zabaw w Radości ul.Izbicka 3;public space,sport,health;children,youth,adults,families with children;1
 832;3600;148;Zakup książek do biblioteki wypożycz. 47;culture;children,youth,seniors;1
 2490;7520;140;BEZPIECZEŃSTWO ESTETYKA;health;adults,families with children;1

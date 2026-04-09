@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2199;37500;553;Parking dla rowerów przy PKP Rembertów;public transit and roads,public space;youth,adults;1
 575;45000;485;Książki i multimedia dla Biblioteki Publicznej w dz. Rembertów;education,culture;youth,adults,families with children;1
 375;42200;467;Modernizacja miejsca piknikowego u zbiegu ulic Strażackiej i Kordiana;public space,urban greenery;youth,adults,families with children;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2387;8500;182;Ławki;public space,health,urban greenery;adults,seniors,families with children;1
 2394;9800;154;Huśtawka rodzinna;public space,sport,health;children,seniors,families with children;1
 253;108000;151;Remont nawierzchni przedłużenie ulicy Begonii;public transit and roads;adults,people with disabilities,families with children;1

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1011;76500;1251;Łąki kwietne dla Pragi;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1845;300000;1021;Naprawa alejek parkowych w Parku Praskim;public space;seniors,people with disabilities,adults,youth,children;1;52.2539118071865;21.0322376548088
 929;27000;964;Ratujmy praskie kasztanowce - kontynuacja;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 818;201710;530;Doprowadzenie ul. Jana Pawła II do pięknej alei miejskiej - wizytówki Dzielnicy Wesoła m.st. Warszawy;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.21806007628;21.222514042478
 466;70500;522;Biblioteka Publiczna w Wesołej - zakup książek dla czterech placówek;culture,education;people with disabilities,seniors,adults,youth,children;1;;
 777;150000;475;Stojaki rowerowe pod zadaszeniem przy SP 385;sport,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 946;200000;142;Wielofunkcyjne boisko „Na Wólce” do koszykówki, siatkówki, badmintona, tenisa, piłki ręcznej / mininożnej - ogrodzone i bezpieczne;public space,sport,health;youth,adults,families with children;1
 VOTES
 voter_id;vote;age;sex;voting_method

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1003;40000;1853;Drzewa na Skoroszach;urban greenery;people with disabilities,seniors,adults,youth,children;1;52.196243499324;20.900605966077
 1032;350000;1349;Wspólnie zmieniamy Ursus – powrót fontanny w Parku Achera - rewitalizacja;public space;people with disabilities,seniors,adults,youth,children;1;52.195790961065;20.895422795876
 812;124300;1234;Multisensoryczny plac naukowy;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.194490692044;20.895426522341

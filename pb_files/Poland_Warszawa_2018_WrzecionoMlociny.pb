@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 934;61895;517;Street Workout'owa ścieżka zdrowia w Lesie Bielańskim;public space,sport,health;youth,adults,families with children;1
 1094;105604;477;Siłownia plenerowa na Wrzecionie;education,sport,health;children,youth,students;1
 2672;132300;443;Szkolny plac zabaw i rekreacji przy SP 247 ul. Wrzeciono 9;education,culture,sport;children,people with disabilities,families with children;1

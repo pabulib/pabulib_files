@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 650;171000;185;Monitoring wybranych ulic obszaru I Wilanowa;public transit and roads,public space;youth,adults,families with children;1
 427;50000;182;Zwiększenie zbiorów bibliotecznych do filii Biblioteki Publicznej mieszczącej się w MCE na Radosnej 11;education,culture;children,youth,seniors;1
 425;23000;167;Zakup wrzutni bibliotecznej (trezora) do Filii Radosna Biblioteki Publicznej w Dzielnicy Wilanów.;education,culture;children,youth,seniors;1

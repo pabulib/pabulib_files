@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2503;2000;964;Ochrona ptaków w parkach Ochoty - konserwacja skrzynek lęgowych;environmental protection;animals;1
 79;180000;952;Remonty alejek, nowe latarnie i inne usprawnienia w Parku Szczęśliwickim;public space,urban greenery;children,youth,adults;1
 75;60020;904;Zielone Szczęśliwice - nasadzenia drzew i krzewów na Grójeckiej, Dickensa i Szczęśliwickiej;environmental protection,public space,urban greenery;children,youth,adults;1

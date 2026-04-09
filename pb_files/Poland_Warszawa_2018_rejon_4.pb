@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 997;48000;551;!!! Spacerujemy Bluszczańską bezpiecznie i po chodnikach !!!;public transit and roads,public space,urban greenery;youth,seniors,families with children;1
 2202;6000;386;Koncerty i zabawy muzyczne dla dzieci;education,culture;children,families with children;1
 189;128000;313;Bezpieczna Bluszczańska I;public transit and roads;adults,seniors,families with children;1

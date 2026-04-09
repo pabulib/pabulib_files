@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1120;262000;600;Rewitalizacja Alei Wojska Polskiego na Żoliborzu;environmental protection,public space,urban greenery;seniors,families with children,animals;1
 1128;125000;496;Bezpieczna i przyjazna przestrzeń ulicy Słowackiego: przejście dla pieszych, pasy dla rowerów, nowe miejsca postojowe;public space,public transit and roads;seniors,people with disabilities,families with children;1
 1115;5000;471;Potańcówka międzypokoleniowa na Żoliborzu;culture,public space;children,youth,seniors;1

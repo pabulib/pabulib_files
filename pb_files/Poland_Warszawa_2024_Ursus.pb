@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 336;380000;2278;Bezpieczny Ursus - uzupełniamy dziury w sieci dróg rowerowych;public transit and roads,sport;children,seniors;1;52.191033400792456;20.89254140853882
 287;64500;2260;Zielony Ursus - duże drzewa przy dzielnicowych ulicach;public transit and roads,environmental protection,urban greenery;children,seniors;1;52.19459577869587;20.882303790420533
 34;322750;2142;Bezpieczny Ursus - zadbajmy o bezpieczeństwo pieszych na przejściach;public transit and roads;children,seniors;1;52.19508453832921;20.87789654731751

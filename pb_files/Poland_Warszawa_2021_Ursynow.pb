@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: According to published coverage of the official BO 2021 results for Ursynów, projects 459, 1687, and 2150 overlapped at the Kabaty area and could not all be implemented simultaneously. The official winner list retained project 2150, and this exclusion changes the subsequent greedy path. Therefore rule greedy-exclusive is applied.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1699;880000;2834;Ursynowska ekologia - butelkomaty;environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1469;453200;2743;Upiększamy park pod Kopą Cwila;urban greenery,public space;people with disabilities,seniors,adults,youth,children;1;52.164255172322;21.023711866506
 1947;576800;2702;Zielone skwery na Ursynowie (kontynuacja);urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.14697399715088;21.05092064771275

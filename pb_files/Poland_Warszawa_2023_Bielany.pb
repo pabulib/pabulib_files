@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 92;750000;1517;Mniej betonu - więcej zieleni;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.28407419575335;20.940167595522347
 813;62000;1386;Chronimy jerzyki i wróble na Bielanach- konserwacja, w tym oczyszczenie ze starych gniazd, skrzynek lęgowych dla tych ptaków;environmental protection;adults;1;52.28241293553223;20.949860219784153
 1822;150000;1307;100 nowych ławek dla Bielan;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.292529514887;20.92458915431

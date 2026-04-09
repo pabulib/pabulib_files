@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 525;254100;1200;Nie jesteś sam - pierwsza pomoc psychologiczna dla dzieci i młodzieży;health,welfare,education;adults,youth,children;1;;
 685;25000;1085;Leżanki na Żoliborzu - aby czytać, uczyć się i odpoczywać na świeżym powietrzu;urban greenery,public space,culture;people with disabilities,seniors,adults,youth,children;1;52.27090351260975;20.981864681921998
 735;80000;1038;Szpaler wysokich krzewów wzdłuż torów tramwajowych/ogrodzenia Parku Żeromskiego przy ul. Mickiewicza;culture,urban greenery,public space;seniors,adults,youth,children;1;52.267274159007;20.987911496968

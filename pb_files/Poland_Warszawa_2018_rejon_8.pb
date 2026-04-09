@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2756;6000;950;Nowe książki dla czytelników;education,culture;youth,adults,people with disabilities;1
 573;24000;885;Skwer przy ul. Św. Bonifacego – remont;public transit and roads,public space,urban greenery;seniors,people with disabilities,families with children;1
 567;5000;884;Bezpieczny rower – zakup i montaż stojaka typ 'U' inox przy SP307;sport,health;children,youth,adults;1

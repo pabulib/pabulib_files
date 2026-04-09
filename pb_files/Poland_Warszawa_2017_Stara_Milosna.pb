@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2616;100000;455;Młodzieżowy park rekreacji;culture,public space,sport;youth,students;1
 2614;74500;358;Park dla młodzieży;culture,public space,sport;youth,students;1
 2615;69500;347;Park kultury dla młodzieży;culture,public space,sport;youth,students;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1142;40000;456;Strefa relaksu na Kępie Potockiej;culture,public space;adults,seniors,families with children;1
 2296;20800;449;Wieża lęgowa dla jerzyków;education,environmental protection,public space;children,youth,adults;1
 2263;50000;417;Strefa wypoczynku na osiedlu Ruda;public space,health;seniors,families with children;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2508;1900;995;Ochrona ptaków gniazdujących w skrzynkach lęgowych w zieleni mokotowskiej skarpy.;environmental protection;people with disabilities,animals;1
 1421;9070;773;Kosze na odpadki wzdłuż Alei Wilanowskiej.;environmental protection,public space,urban greenery;adults,families with children,animals;1
 2362;4000;769;Wypożyczalnie gier planszowych w bibliotece – Mokotów Rejon;education,culture;youth,adults,families with children;1

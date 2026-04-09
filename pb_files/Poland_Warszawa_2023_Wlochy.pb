@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1518;138000;1324;Drzewa dla Włoch - edycja czwarta;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.177644876065;20.944943237305
 1837;50900;988;Bezpieczniejszy Park Stawy Cietrzewia - monitoring którego nie ma;urban greenery,public space,public transit and roads;seniors,adults,youth,children;1;52.200996656954004;20.923203962636077
 1690;75000;973;Ratujmy pszczoły- modernizacja społecznej pasieki edukacyjnej Dzielnicy Włochy- edycja 2;urban greenery,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.209381364815;20.922349325745

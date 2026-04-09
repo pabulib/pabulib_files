@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2349;3200;431;Parking dla rowerów przy sklepach Pelcowizna ul. Radzymińska 50, Ząbkowska 52;public transit and roads,public space;children,youth,adults;1
 2426;125051;384;Zielone Szmulki;environmental protection,public space,urban greenery;children,adults,seniors;1
 1721;375900;383;Praskie zielone skwery;environmental protection,public space,urban greenery;children,adults,seniors;1

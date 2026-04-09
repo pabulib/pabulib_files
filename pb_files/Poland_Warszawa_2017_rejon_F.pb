@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2517;2000;837;Ochrona ptaków w Parku Morskie Oko (Promenada) i Sieleckim;environmental protection;animals;1
 2597;8500;590;Stojaki rowerowe dla przedszkola nr 391 w Warszawie.;public transit and roads,environmental protection,health;children,adults,families with children;1
 2349;4000;565;Wypożyczalnie gier planszowych w bibliotece – Mokotów Rejon F;education,culture;youth,adults,families with children;1

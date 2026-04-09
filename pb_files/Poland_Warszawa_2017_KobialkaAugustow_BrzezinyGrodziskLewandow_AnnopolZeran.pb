@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 648;297000;1075;BI-CYKLO Białołęcka CYKLOstrada - na rower i spacer nad Kanałem Żerańskim się nada;public space,sport,public transit and roads;adults,children,families with children;1
 479;8647;792;Stacja naprawy rowerów i wózków w Parku Magiczna;public space,sport;youth,adults,families with children;1
 1986;71250;714;Budowa chodnika Zdziarska (Olesin - Kroczewska);public transit and roads;children,families with children;1

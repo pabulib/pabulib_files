@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 657;96000;692;Zielone torowiska wzdłuż Filtrowej i Nowowiejskiej - eksperyment;public transit and roads,environmental protection,urban greenery;seniors,students,families with children;1
 1508;160;648;Pojemniki na żywność „Podziel się” szkołach podstawowych w dzielnicy Ochota;education,welfare,health;children,youth,adults;1
 663;200000;612;Zielona Grójecka -– nowe drzewa i krzewy na Starej Ochocie;environmental protection,public space,urban greenery;seniors,families with children,animals;1

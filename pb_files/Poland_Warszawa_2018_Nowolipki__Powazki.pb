@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2553;203300;404;Zatoczka parkingowa przy ul. Żytniej;public transit and roads,public space;seniors,people with disabilities,families with children;1
 1109;65560;376;Pij Warszawo - na Nowolipkach i Powązkach;public space,sport,health;adults,seniors,families with children;1
 1927;185255;368;Rewitalizacja skweru przy ul. Nowolipki 28 wokół planowanego Upamiętnienia Archiwum Ringelbluma;education,culture,public space;youth,seniors,families with children;1

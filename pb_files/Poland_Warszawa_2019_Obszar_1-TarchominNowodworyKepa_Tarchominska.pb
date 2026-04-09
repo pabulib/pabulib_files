@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 619;320300;1330;Tężnia solankowa w Parku Picassa - mini uzdrowisko;public space,health,urban greenery;seniors,people with disabilities,families with children;1
 2290;16000;1102;Chronimy jerzyki i wróble na Białołęce;environmental protection;animals;1
 2312;46000;1094;Rozbudowa dojścia do promu nad Wisłą;public transit and roads,public space,sport;adults,families with children;1

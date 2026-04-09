@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1318;48000;138;Gimnastyka korekcyjna dla dzieci i młodzieży;welfare,sport,health;children,youth,families with children;1
 2407;48000;113;Estradowa Radość - muzyka w kulturotece dla dzieci i dorosłych;education,culture;adults,people with disabilities,families with children;1
 257;9000;112;Zakup książek i czasopism do Wypożyczalni nr 47;culture;children,youth,adults;1

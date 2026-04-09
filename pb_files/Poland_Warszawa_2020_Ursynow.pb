@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 244;199000;2954;Drzewa i krzewy wzdłuż al. KEN;urban greenery,sport,public space;adults,youth,children;1;;
 1752;12750;2845;Uratujmy wróble i inne ptaki - 150 nowych budek dla ptaków;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1881;238445;2783;Zielone skwery na Ursynowie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

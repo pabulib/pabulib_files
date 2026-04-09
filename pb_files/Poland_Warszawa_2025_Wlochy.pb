@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1595;150000;1101;Drzewa dla Włoch - edycja piąta;environmental protection,public space,urban greenery;children,seniors;1;52.19017182337424;20.937535839814434
 1608;199000;1055;Więcej zieleni dla Włoch - krzewy, trawy i byliny ozdobne oraz rośliny cebulowe (edycja druga);environmental protection,public space,urban greenery;children,seniors;1;52.20190432699743;20.919786521366667
 774;171000;989;Ratujmy pszczoły. Nasadzenia krzewów miododajnych - edycja 2;education,culture,environmental protection,public space,urban greenery;children,seniors;1;52.19864179424871;20.93995571136475

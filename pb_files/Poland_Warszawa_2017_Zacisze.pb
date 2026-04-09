@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 18;210228;541;Oświetlenie boiska i monitoring przy ul. Blokowej 3;public space,sport;children,youth,adults;1
 1422;400000;382;Szklana góra - wielofunkcyjne przeszklone pomieszczenie przy DK Zacisze.;education,culture,public space;adults,seniors,families with children;1
 1285;25000;373;Dzieciaki nie płac(z)ą - bezpłatne koncerty i warsztaty artystyczne dla dzieci na Zaciszu.;education,culture;children;0

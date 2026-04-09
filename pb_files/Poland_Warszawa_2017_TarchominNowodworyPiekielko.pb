@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 685;160000;1635;TAK DLA PLAŻY NA BIAŁOŁĘCE;sport,education,culture;adults,seniors,families with children;1
 2013;113150;1634;Utworzenie Parku Mehoffera Ogrody Mehoffera;environmental protection,public space,urban greenery;adults,families with children;1
 684;15000;1176;BUDOWA BEZPIECZNYCH PRZEJŚĆ DLA PIESZYCH - UL.ODKRYTA / NOWODWORSKA;public transit and roads;adults;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 76;161000;700;Remonty, nasadzenia i nowe chodniki w Parku Szczęśliwickim;culture,environmental protection,urban greenery;adults,people with disabilities,families with children;1
 2365;26000;663;Kino plenerowe w Parku Szczęśliwickim;education,culture;youth,families with children;1
 2424;20000;566;Defibrylator ratujący życie;sport,health;None;1

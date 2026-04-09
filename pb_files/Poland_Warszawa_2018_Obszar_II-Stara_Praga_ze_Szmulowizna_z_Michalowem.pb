@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2551;34000;671;Urządzenie zieleni i posadzenie drzew po północnej stronie ulicy Kijowskiej, na wysokości Dworca Wschodniego .;public transit and roads,public space,urban greenery;adults,families with children;1
 2014;8000;661;Zielona ściana na Brzeskiej;education,public space,urban greenery;seniors,families with children,animals;1
 1949;61500;575;Nowe ławki dla Pragi;public transit and roads,public space,health;children,seniors,families with children;1

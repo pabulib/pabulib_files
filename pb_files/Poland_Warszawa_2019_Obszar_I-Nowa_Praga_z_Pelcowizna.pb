@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1925;7000;554;Budki lęgowe dla pustułek i nietoperzy na Pradze;environmental protection,public space;animals;1
 1659;11900;530;Zielony ekran ochronny dla Ogrodu Jordanowskiego - stworzenie żywopłotu;public space,health,urban greenery;youth,adults,families with children;1
 1620;4000;523;Oczyszczacze powietrza w Ogrodzie Jordanowskim;health;children,youth,adults;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 392;16000;712;Ptasie stołówki na Osiedlu Ostrobramska;environmental protection,public space,urban greenery;animals;1
 331;40000;637;Siłownia zewnętrzna na Osiedlu Ostrobramska;public space,sport,health;youth,adults,seniors;1
 1;273000;658;I Miejsca Parkingowe Ostrobramska I;public transit and roads,public space;children,adults,people with disabilities;0

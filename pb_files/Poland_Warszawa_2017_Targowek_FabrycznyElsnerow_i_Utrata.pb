@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2417;400000;304;Atrakcje wodne przy zbiorniku retencyjno-rekreacyjnym ul. Bardowskiego;urban greenery;children,adults,families with children;1
 2398;90000;246;Parking ogólnodostępny ul. Ks. Ziemowita 42;public transit and roads,public space;adults,families with children;1
 1688;41000;245;Letnie kino plenerowe dla mieszkańców (Targówek Fabryczny);education,culture,public space;adults,seniors,students;1

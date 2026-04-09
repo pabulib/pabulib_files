@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 94;260500;2245;Tężnia Maciejka w Parku Jana Pawła II;environmental protection,public space,health;None;1
 2369;2800;2141;Domki dla owadów zapylających;education,environmental protection,urban greenery;adults,seniors,families with children;1
 2339;1525;2090;Budki lęgowe dla ptaków;education,environmental protection,urban greenery;seniors,families with children,animals;1

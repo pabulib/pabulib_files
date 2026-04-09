@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1711;323000;2437;Łączymy rowerowe szlaki - uzupełnienie sieci dróg rowerowych na Ursynowie o brakujące odcinki;sport,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.1474894346025;21.04152843881533
 2016;9000;2372;Ursynów przyjazny jeżom!;urban greenery,public space,environmental protection;seniors,youth,children;1;;
 1875;1095500;2188;Rowerowa Od-Nowa: modernizacja dróg dla rowerów na Ursynowie;education,environmental protection,sport;people with disabilities,seniors,adults,youth,children;1;52.1375473615865;21.0610762449595

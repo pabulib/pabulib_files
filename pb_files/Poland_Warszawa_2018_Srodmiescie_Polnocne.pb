@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1864;341090;283;Rewitalizacja zieleni przyulicznej ulic: Jasna, Sienkiewicza, Zgoda;environmental protection,urban greenery;adults,seniors,families with children;1
 1445;92250;259;Poidełka wody pitnej w Śródmieściu Północnym;public space,health,urban greenery;children,adults;1
 1630;14300;257;Ławki podpórki dla seniorów;public space;youth,adults,seniors;1

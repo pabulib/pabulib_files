@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 532;98000;175;S.A.M. Sala Aktywnego Myślenia - czyli biblioteka i czytelnia w Staszicu;education,culture;seniors,children,youth;1
 450;15000;165;Zakup książek dla Biblioteki Publicznej w Wesołej;education,culture;children,youth,adults;1
 436;9840;145;Rowerem przez Wesołą;public transit and roads;children,youth,adults;1

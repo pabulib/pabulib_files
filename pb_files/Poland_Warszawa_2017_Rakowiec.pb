@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2359;6000;486;Nowe nasadzenia na Rakowcu.;environmental protection,public space,urban greenery;children,families with children;1
 2314;33750;409;Modernizacja chodnika przy ul. Korotyńskiego;public transit and roads,public space;children,adults,people with disabilities;1
 2347;10000;397;Wieża dla jerzyka na Rakowcu;education,environmental protection,public space;children,families with children;1

@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 261;80000;172;REMONT NAWIERZCHNI PŁYTOWEJ ULICY ZAGÓRZAŃSKIEJ OD NR 50D DO KOŃCA W STRONĘ LASU;public transit and roads,public space;adults,families with children;1
 1112;99267;140;UTWARDZENIE NAWIERZCHNI NA ULICY JASNOTY;public transit and roads;adults,seniors,families with children;0
 720;30000;118;Artystyczna pracownia letnia;public space,education,culture;None;1

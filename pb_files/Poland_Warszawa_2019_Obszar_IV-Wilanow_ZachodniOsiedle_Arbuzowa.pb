@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1655;250000;1194;Parkowe Ulice MW 2.0;environmental protection,public space,urban greenery;None;1
 171;195600;852;Park pokoleń - spacerem ku skarpie.;public space,sport,urban greenery;children,seniors,families with children;1
 168;34000;805;Kosze i ławki na ul. Branickiego.;environmental protection,public space;adults,seniors,families with children;1

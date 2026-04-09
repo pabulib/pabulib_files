@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1024;6355;378;Budki lęgowe dla ptaków śpiewających.;education,environmental protection,urban greenery;children,adults,animals;1
 1537;400000;301;Projekt wprowadzenia rozwiązań uspokojenia ruchu drogowego i poprawy bezpieczeństwa na Osiedlu Wilno w Warszawie.;public transit and roads;children,adults,families with children;1
 626;30000;281;Rowerem prosto, nie naokoło. Wytyczenie przejazdu rowerowego na rondzie Rzeczna/Księcia Ziemowita.;public transit and roads,public space;youth,adults,families with children;1

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 46;180000;2524;120 drzew dla Ochoty;urban greenery,public space;people with disabilities,adults,youth,children;1;52.21284221089;20.972451972961
 400;390000;2354;Krzewy i trawy ozdobne dla Ochoty-nowe nasadzenia na terenie całej dzielnicy;urban greenery;people with disabilities,seniors,adults,youth,children;1;52.211882259917125;20.975511830479377
 565;187140;2311;Zazielenienie niepotrzebnie zabetonowanych powierzchni na ulicach Ochoty;urban greenery;people with disabilities,seniors,adults,youth,children;1;52.21415171986172;20.972652093987858

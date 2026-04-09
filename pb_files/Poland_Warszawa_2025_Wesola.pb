@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1189;210000;717;Czysta Wesoła - kosze na śmieci i kosze na psie odchody w Wesołej;environmental protection,public space,urban greenery;children,seniors;1;52.2206186;21.2431698
 1548;180000;696;Nowoczesne systemy monitoringu na placach zabaw w dzielnicy Wesoła;education,public space,sport;children,seniors;1;52.23853353577187;21.21270060539246
 1069;211565;649;Modernizacja 4 Placów Zabaw w dzielnicy Wesoła;education,public space,sport;children;1;52.251545217047855;21.22384249298017

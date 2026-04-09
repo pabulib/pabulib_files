@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1590;249320;1813;Parkowe ulice Wilanowa;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1879;135000;1137;Ekologiczny wodociąg letni w parku linearnym Klimczaka/Hlonda = zadbany i zielony park;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.1617925824971;21.0755833983421
 787;86500;1007;Więcej zieleni mniej betonu na Wilanowie Wysokim;urban greenery,public space,environmental protection;;1;52.1716140614352;21.0725526922095

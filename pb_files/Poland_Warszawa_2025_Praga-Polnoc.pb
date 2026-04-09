@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 726;400000;1060;Nowe drzewa i krzewy dla Pragi;environmental protection,public space,urban greenery;children,seniors;1;52.26143626496111;21.035876707597215
 728;116360;955;Zielone ulice Pragi;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.26156242439137;21.029566526412967
 1663;174000;834;Nie jesteś sam/a - pierwsza pomoc psychologiczna dla dzieci i młodzieży. Teraz też na Pradze Północ;education,welfare;children;1;;

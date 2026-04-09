@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 542;110000;1990;Wieże lęgowe dla jerzyków - przeciwko komarom i meszkom;environmental protection;adults,people with disabilities,seniors,youth,children;1;52.162684278502;21.0750124244196
 575;101600;1734;Łąka kwietna i mała architektura przy skrzyżowaniu Wilanowska/Sobieskiego;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.170149401168;21.06929083259
 695;249200;1533;Antysmogowy żywopłot na ulicy Wiertniczej;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;

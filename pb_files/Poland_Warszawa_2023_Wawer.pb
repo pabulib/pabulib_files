@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 1850;559650;1562;Butelkomaty dla Wawra;urban greenery,public space,environmental protection;people with disabilities,seniors,youth,children;1;52.205992410183;21.170172083003
 826;510000;1338;Ścieżka rowerowa na ul. Panny Wodnej;sport,public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.18418734467567;21.17927996330233
 702;12000;1317;Kosze na śmieci - chrońmy nasze środowisko;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.213113930458;21.111511993354

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1587;3000;471;Budki lęgowe dla ptaków w Parku Żeromskiego i w Parku Fosa i Stoki Cytadeli;education,environmental protection,urban greenery;children,youth,animals;1
 748;10000;426;Zakup książek dla Bibliotek;education,culture;children,adults,seniors;1
 1884;195000;407;Rewitalizacja placu pomiędzy CH Merkury a Urzędem Dzielnicy;public space,urban greenery;youth,adults,seniors;1

@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 854;4500;558;Samoobsługowa stacja naprawy rowerów przy SP 94 i Parku ze Stawami Cietrzewia;public space,sport;children,youth,families with children;1
 1286;33990;425;Posadzenie drzew wzdłuż Alej Jerozolimskich;public space,urban greenery;children,youth,adults;1
 2032;114200;402;Zielone Włochy - nasadzenie drzew, krzewów, utworzenie łąk kwietnych, kwietników, ochrona kasztanowców, hotele dla owadów, kaczkomat.;environmental protection,public space,urban greenery;children,seniors,families with children;1

@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 715;380000;2035;Zielone Bemowo- 100 drzew i krzewów oraz kwiaty;education,environmental protection,public space,urban greenery;children,seniors;1;52.24515687462226;20.922443533044248
 553;450000;1873;Zazieleniamy Bemowo – kwiaty i byliny dla dzielnicy;environmental protection,urban greenery;children,seniors;1;52.241830192366415;20.918855670190982
 1085;75600;1870;Bezpłatne wsparcie psychologiczne dla dzieci i młodzieży na Bemowie;education,welfare;children;1;52.24001737142857;20.91056107191049

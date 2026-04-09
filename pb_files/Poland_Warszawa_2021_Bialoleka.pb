@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 434;97750;3790;Białołęka walczy ze smogiem. Sadzimy rośliny zimozielone;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.32118976338641;20.954710745757797
 1638;585000;3148;Mniej plastiku na Białołęce - butelkomaty do plastiku'';welfare,urban greenery,sport;people with disabilities,seniors,adults,youth,children;1;52.32041924324675;20.9782386421675
 424;88000;2744;Zieleń zamiast betonu;urban greenery,public space,public transit and roads;adults,youth,children;1;52.321565779279005;20.960294794455333

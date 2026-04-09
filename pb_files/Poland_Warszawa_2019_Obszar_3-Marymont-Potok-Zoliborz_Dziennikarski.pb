@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1264;116720;368;Zakątek wypoczynkowy wśród drzew;public space,urban greenery;adults,seniors,families with children;1
 1593;1500;327;Budki lęgowe dla ptaków - Żoliborz Potok;education,environmental protection,urban greenery;children,youth,animals;1
 493;5000;296;Biblioteka nr 111. Zakup książek w 2019 r.;education,culture;children,youth,adults;1

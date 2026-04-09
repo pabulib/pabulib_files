@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 244;72500;3068;Kolejne 50 drzew dla Ursynowa;environmental protection,public space;adults;1
 174;490000;2874;Zielona Oś Ursynowa - stwórzmy nowy park!;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 2082;15500;2440;Dodatkowe polany ogniskowe;public space;youth,adults,families with children;1

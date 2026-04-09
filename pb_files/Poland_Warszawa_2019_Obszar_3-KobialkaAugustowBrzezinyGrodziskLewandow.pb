@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1851;5200;856;Aktywne przejście dla pieszych ul. Juranda ze Spychowa przy SP 231;public transit and roads;children,seniors,families with children;1
 759;3004;852;Bezpiecznie dla dzieci i zwierząt - barierki nad kanałkiem na ul. Magicznej;public transit and roads,public space;children,families with children,animals;1
 1683;3400;839;Bezpieczne skrzyżowanie przy placu zabaw Bociani Zakątek.;public transit and roads;youth,adults,families with children;1

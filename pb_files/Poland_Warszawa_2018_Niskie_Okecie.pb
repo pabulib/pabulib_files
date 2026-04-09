@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 303;4500;106;Po stopniach wiedzy - naklejki na schody w szkole;education,public space;children,youth;1
 1940;150000;105;Ogólnodostępny plac zabaw;public space,sport,urban greenery;children,youth,families with children;1
 310;80300;100;Alejki parkowe;public transit and roads,public space,urban greenery;adults,seniors,families with children;1

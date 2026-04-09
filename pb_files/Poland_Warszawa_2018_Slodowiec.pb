@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 796;67088;481;Nauka języków na miarę XXI wieku;education;youth,seniors;1
 715;50500;384;Kaczkomaty, tablica edukacyjna „Jak mądrze dokarmiać ptaki” oraz posadzenie drzew i krzewów w Parku Olszyna;education,environmental protection;seniors,families with children,animals;1
 2201;96000;352;Wygodniej i Bezpieczniej - remont, ścieżki rowerowej przy ul. Ogólnej;public transit and roads,public space,sport;None;1

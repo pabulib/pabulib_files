@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 197;73072;1237;Dobry start - lepsza przyszłość;education,sport;children,youth;1
 1097;15539;1228;Nasze bezpieczeństwo - pierwsza pomoc;education;children;1
 2547;32000;1105;Ruch to zdrowie - doposażenie w zabawki terenowe placu zabaw;education,sport,health;children,families with children;1

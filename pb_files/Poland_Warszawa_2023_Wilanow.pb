@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 296;300000;1207;Mniej betonu w Wilanowie;urban greenery,public space,environmental protection;seniors,adults,youth,children;1;52.16038628631538;21.083041018253848
 1297;300000;1179;Wilanowski ogród deszczowy;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1787;22600;1124;Czysto w Wilanowie — ustawienie koszy ulicznych;public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.16722698806588;21.061638669138624

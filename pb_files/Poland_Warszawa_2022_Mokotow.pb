@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 566;1108750;3740;Przywróćmy zielone aleje na Mokotowie. Sadzimy 1000 nowych roślin: drzew, krzewów i kwiatów;urban greenery,environmental protection;people with disabilities,seniors,adults,youth,children;1;;
 1007;319000;3432;Zieleń zamiast betonu;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.199949790631;21.017910365571
 193;71080;2881;Przebudowa chodników i nowe drzewa na Mokotowie;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.20226549065522;21.044285407999443

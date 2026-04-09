@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1595;68000;944;Drzewa dla Włoch;environmental protection,public space,urban greenery;children,adults,seniors;1
 1585;170000;813;Poprawa oświetlenia w Parku Kombatantów przy PKP Włochy;public space,urban greenery;children,adults,families with children;1
 523;25200;766;Zakup nowości wydawniczych do Biblioteki Publicznej w Dzielnicy Włochy ul. J.Chrościckiego 2;education,culture,public space;children,youth,adults;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2093;45000;121;Remont chodnika przy ul. Przewodowej od ul. Przewodowej 32 do Mrągowskiej;public transit and roads;children,youth,adults;1
 2337;13725;111;Nadwiśle potrafi udzielać pomocy - powszechny kurs pierwszej pomocy medycznej;education,health;youth,adults;1
 557;65000;98;Bezpieczna Skalnicowa – progi zwalniające na odcinku od Kanału Zagóździańskiego do ul. Trakt Lubelski;public transit and roads,environmental protection;children,youth;1

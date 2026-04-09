@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1685;15750;659;Zielona Ząbkowska;public transit and roads,public space,urban greenery;children,youth,adults;1
 1011;6000;555;Ogród deszczowy przy Urzędzie Dzielnicy Praga-Północ;environmental protection,health,urban greenery;youth,adults,families with children;1
 2197;41171;458;Nasadzenia 5 sztuk drzew w ul. Okrzei;environmental protection,urban greenery;adults,seniors,families with children;1

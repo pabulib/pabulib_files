@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 448;1500;1185;Jedna lampa pod mostem.;public transit and roads,public space;children,youth,adults;1
 1958;450000;1066;Połączenie Nadwiślańskiego Szlaku Rowerowego i mostu Poniatowskiego dla ruchu rowerowego;public transit and roads,public space;youth,adults;1
 1351;205500;899;Rowerem dwukierunkowo po ulicach jednokierunkowych w Śródmieściu (pozostałe wybrane ulice);public transit and roads,public space,sport;adults,students,families with children;1

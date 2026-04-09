@@ -22,7 +22,7 @@ currency;PLN
 fully_funded;1
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 330;65000;94;Oświetlenie przejścia pod al. Stanów Zjednoczonych na wysokości Kanału Wystawowego;public transit and roads,public space;adults,people with disabilities,families with children;1
 VOTES
 voter_id;vote;age;sex;voting_method

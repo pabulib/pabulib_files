@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 826;43000;290;Letnie kino plenerowe dla mieszkańców Zacisze;education,culture,public space;children,youth,adults;1
 2071;80000;269;Doświetlenie przejścia dla pieszych przy ulicy Codziennej - Blokowej przez ul. Codzienną;public transit and roads,public space;children,adults,seniors;1
 1288;32500;267;Dzieciaki nie płacą - bezpłatne koncerty i warsztaty dla dzieci;education,culture;children;1

@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1842;267130;340;Zielony Służew nad Dolinką;environmental protection,public space,urban greenery;adults,seniors,families with children;1
 388;399375;337;Budowa ścieżki rowerowej wzdłuż al. Lotników;public transit and roads,public space,health;children,adults,people with disabilities;1
 1253;25400;301;Nieodpłatne warsztaty i pokazy naukowe uniwersytetu dziecięcego w Służewskim Domu Kultury;education;children,families with children;0

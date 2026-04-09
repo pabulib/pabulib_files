@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 88;220000;716;Tężnia Wesoła;public space,health,urban greenery;adults,seniors,families with children;1
 296;15000;414;Książka oknem na świat - zakup książek dla Biblioteki w Wesołej;education,culture;children,youth,adults;1
 1139;17600;402;Rozświetlona Wesoła;public transit and roads;None;1

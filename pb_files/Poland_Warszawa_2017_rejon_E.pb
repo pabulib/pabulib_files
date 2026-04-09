@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1602;48400;512;!!! SPACERUJEMY BLUSZCZAŃSKĄ BEZPIECZNIE I PO CHODNIKACH !!!;public transit and roads,health;adults,seniors,families with children;1
 2155;3000;373;Stojaki rowerowe na Siekierkach;public space,sport,health;children,adults,seniors;1
 973;47000;322;JASNA SPRAWA – (do)oświetlenie ul. Bluszczańskiej na odcinku od ul. Figowej do ul. Kątnej;public transit and roads,public space;adults,youth,families with children;1

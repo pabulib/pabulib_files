@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1712;66000;586;Wymiana nawierzchni chodników w parku Korotyńskiego;public transit and roads,public space,urban greenery;children,seniors,families with children;1
 2140;122222;553;Sto drzew dla Rakowca;environmental protection,public space,urban greenery;None;1
 2450;16000;516;Remont chodnika przy Przedszkolu 315 Grzeszczyka 2;public transit and roads,public space;children,seniors;1

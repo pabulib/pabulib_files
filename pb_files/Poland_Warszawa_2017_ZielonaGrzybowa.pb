@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1361;24700;147;Badmintonowa Maszyna Sportowa dla Zespołu Szkół nr 94 ul. Krótka 1 Warszawa Wesoła.;education,sport,health;children,youth,adults;1
 1356;46560;145;Sport dla wszystkich - 160 godzin z rakietą w dłoni- poznaj tajemnice badmintona edycja 2017.;education,sport,health;children,youth,adults;1
 452;5000;129;Zakup książek dla Fili Nr 2 w Zielonej;education,culture;children,youth,adults;1

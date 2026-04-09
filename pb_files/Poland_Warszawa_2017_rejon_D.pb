@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2099;249100;1238;Ścieżka dla Jeziorka Czerniakowskiego;education,environmental protection,urban greenery;seniors,families with children,animals;1
 1529;104800;1109;Naukowa Zabawa - zajęcia dla dzieci i wyposażenie sali do terapii integracji sensorycznej;education,health;children;1
 1266;5400;1106;Cykl wyprzedaży garażowych. Sprzedajmy zbędne rzeczy, kupmy coś atrakcyjnego, poznajmy sąsiadów.;welfare;adults,seniors,families with children;1

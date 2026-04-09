@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2236;90000;1696;Ścieżka pieszo-rowerowa przy parku leśnym Bródno;sport,health,urban greenery;children,seniors,families with children;1
 541;263600;1272;Zakup nowości wydawniczych dla Biblioteki Publicznej w Dzielnicy Targówek m.st. Warszawy;education,culture;children,youth,adults;1
 2125;5132;1073;Wypożyczalnia Gier Planszowych;education,culture,sport;children,youth,students;1

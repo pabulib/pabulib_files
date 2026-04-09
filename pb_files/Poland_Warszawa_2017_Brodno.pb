@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2339;1200;1265;Stojaki rowerowe;public transit and roads,public space,sport;youth,adults,families with children;1
 1847;5000;936;Park Biegacza;public space,sport,health;children,youth,adults;1
 746;50000;803;Iluminacja Świąteczna w Parku Bródnowskim.;public space,urban greenery;youth,students,families with children;1

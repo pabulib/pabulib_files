@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 309;8000;243;Samoobsługowa stacja naprawy rowerów przy SP109;public transit and roads,public space,sport;youth,adults,families with children;1
 255;80361;235;Zakątek rekreacyjny w SP109;education,culture,sport;adults,seniors,families with children;1
 708;12000;208;Magiczny dywan w SP 109;education,culture,health;children,adults,people with disabilities;1

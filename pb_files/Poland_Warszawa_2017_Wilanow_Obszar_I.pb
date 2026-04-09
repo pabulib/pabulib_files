@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1659;7500;788;Usprawnienie ruchu rowerowego w Wilanowie;public transit and roads,public space,sport;children,adults,seniors;1
 1650;13800;786;Ławki przy ścieżce rowerowej do Powsina I;public space,sport,health;children,youth,adults;1
 16;299980;767;Parkowe ulice MW;environmental protection,public space,urban greenery;youth,families with children,adults;1

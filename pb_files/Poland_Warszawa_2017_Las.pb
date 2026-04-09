@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 fully_funded;1
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 2516;54450;109;Siłownia dla opiekunów dzieci na placu zabaw.;public space,sport,health;seniors,students,families with children;1
 2521;28650;107;Street workout (pol. uliczny trening).;public space,sport,health;seniors,students,families with children;1
 2519;9000;88;Biblioteka plenerowa.;education,culture,public space;seniors,students,families with children;1

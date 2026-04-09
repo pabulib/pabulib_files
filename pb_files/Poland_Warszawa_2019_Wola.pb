@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 329;152000;1949;Czyste parki na Woli - zamykane kosze na śmieci;environmental protection,public space,urban greenery;None;1
 83;20000;1563;Zapobieganie bezdomności zwierząt.;environmental protection,public space;animals;1
 1984;200000;1170;Duża pętla dla rolkarzy w Parku Szymańskiego;public space,sport;children,youth,adults;1

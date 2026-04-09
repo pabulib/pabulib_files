@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 866;140000;348;Grochów Północny i Gocławek - ułatwienia dla pasażerów tramwajów, ułatwienia rowerowe;public transit and roads,public space,urban greenery;youth,adults,families with children;1
 908;121350;563;Rozwój Poprzez Sport – Darmowe treningi bokserskie dla dzieci i młodzieży. Edycja 2017.;sport,health;children,youth;1
 1976;24000;343;Komfortowy parking rowerowy przy PKP Olszynka Grochowska;public transit and roads,sport,health;youth,adults;0

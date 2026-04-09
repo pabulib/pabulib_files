@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: According to the official BO 2022 report, projects 201 and 1932 both targeted the Serek Bielański area near metro Słodowiec and could not be implemented simultaneously. Project 201 received more votes and was recommended under § 46 ust. 5, so project 1932 was not selected. Therefore rule greedy-exclusive is applied.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 201;973179;2291;Nowy las na Bielanach - posadzenie 500 drzew ozdobnych na serku bielańskim przy metrze Słodowiec;urban greenery,public space,environmental protection;people with disabilities,seniors,adults,youth,children;1;52.276135127416;20.961581017134
 999;690000;2005;Doświetlenie przejść dla pieszych na ulicach: Aspekt, Brązownicza, Conrada, Schroegera, Fontany, Żeromskiego, Twardowska, Galla Anonima, Kochanowskiego, Staffa, Wrzeciono, Lindego, Esej, Kwitnąca, Księżycowa;public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.27724608070311;20.934967612012944
 521;650000;1719;Budowa drogi dla rowerów wzdłuż ul. Wólczyńskiej (od Sokratesa do Nocznickiego) wraz z remontem chodnika na ul. Nocznickiego (od Wólczyńskiej do Cienkiej);public space,public transit and roads;people with disabilities,seniors,adults,youth,children;1;52.28284016760167;20.922425389026333

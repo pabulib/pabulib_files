@@ -19,7 +19,7 @@ edition;5
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1468;114800;494;!!! Bezpieczne spacery na Siekierkach - po chodnikach !!!;public transit and roads,public space,sport;children,seniors,families with children;1
 1666;23700;456;Czysta Bluszczańska/ Wojskowej Służby Kobiet - czyszczenie chodnika oraz rekultywacja terenów zielonych wzdłuż chodnika - etap I;public transit and roads,public space,urban greenery;None;1
 823;11000;432;Kosze na odpady komunalne i ławki;environmental protection,public space;adults,families with children;1

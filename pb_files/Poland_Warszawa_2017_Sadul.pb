@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 1549;55100;100;Rozbudowa Sadulskiego Zakątka;public space,sport;youth,adults,seniors;1
 1547;55000;74;Chodnik przy Sadulskim Zakątku;public transit and roads,public space;children,seniors,families with children;1
 2290;12800;26;Tablice Informacyjne dla Osiedla Sadul;;children,adults;0

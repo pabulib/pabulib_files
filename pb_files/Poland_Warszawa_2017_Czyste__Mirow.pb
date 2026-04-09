@@ -19,7 +19,7 @@ edition;3
 language;pl
 currency;PLN
 PROJECTS
-project_id;cost;votes;name;category;target;selected
+project_id;cost;votes;name;category;beneficiaries;selected
 740;76000;431;Przyjazny Mirów i Czyste - poprawa bezpieczeństwa pieszych, nowa zieleń i drzewa, udogodnienia rowerowe;public transit and roads,environmental protection,public space;youth,adults,families with children;1
 1022;69300;412;Siłownia plenerowa pod chmurką;public space,sport,health;youth,seniors,families with children;1
 199;399650;359;Droga dla rowerów i chodnik - Rondo Daszyńskiego - Grzybowska;public transit and roads,sport,health;youth,adults,children;1

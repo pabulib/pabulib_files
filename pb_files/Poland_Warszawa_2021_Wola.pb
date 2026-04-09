@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 940;563250;3506;Drzewa i zieleń na Woli;urban greenery,sport,public space;people with disabilities,seniors,adults,youth,children;1;52.250252161459215;20.975816727619875
 2019;150000;2780;Butelkomat dla Woli;public space,environmental protection,education;people with disabilities,seniors,adults,youth,children;1;52.231592068413;20.94915693312
 834;15400;2737;Bioróżnorodność na Woli - rośliny miododajne i budki dla owadów;urban greenery,environmental protection;seniors,adults,youth,children;1;;

@@ -20,7 +20,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 384;186692;2468;Zieleń i cień na wolskich placach zabaw - nasadzenia drzew w pobliżu placów zabaw;urban greenery,public space,environmental protection;adults,youth,children;1;;
 385;20000;1994;Mała retencja wody deszczowej do podlewania zieleni miejskiej w okresach suszy;environmental protection;adults;1;52.2402509782552;20.9875559806824
 2158;40000;1922;„Chronimy wolskie jerzyki, wróble i kawki – instalacja skrzynek lęgowych dla tych ptaków”;environmental protection;adults;1;;

@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children. #2: Due to a voting system glitch, twelve voters mistakenly cast ballots for projects in two different districts, violating regulations. To align with city-wide results, we tagged these voters with the prefix 999999 and separated their ballots into two distinct votes. The final election outcome was not affected.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 286;248450;3615;Około 111 nowych drzew na Mokotowie i nowe ławki;environmental protection,public space,urban greenery;children,seniors;1;52.20290546417487;21.04051390587384
 1720;44000;3449;Chronimy mokotowskie jerzyki i wróble - montaż skrzynek lęgowych;environmental protection;;1;52.186764745454546;21.017159682835253
 1238;561000;3332;Nie jesteś sam - pierwsza pomoc psychologiczna dla dzieci i młodzieży. Zróbmy to po raz trzeci!;education,welfare;children;1;52.1953734;21.018839657263133

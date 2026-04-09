@@ -19,7 +19,7 @@ language;pl
 currency;PLN
 comment;#1: The metadata regarding the age of voters shows very low values (starting from zero), indicating that one doesn't need to be an adult to vote: If a voter is under 13, they can vote with the consent of a parent or guardian. Hence, for example, age 0 likely corresponds to cases where parents/guardians are voting on behalf of their children.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 276;451000;2835;Nie jesteś sam/-a - pierwsza pomoc psychologiczna dla dzieci i młodzieży. Zróbmy to po raz czwarty!;education,welfare;children;1;52.194753000000006;21.019669384325447
 1550;284000;2664;Zielone ulice Mokotowa;public transit and roads,environmental protection,public space,urban greenery;children,seniors;1;52.201736688804495;21.000108718872074
 776;916000;2561;Łąki kwietne dla Mokotowa;urban greenery;children,seniors;1;;

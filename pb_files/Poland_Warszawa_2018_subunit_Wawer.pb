@@ -21,7 +21,7 @@ language;pl
 currency;PLN
 comment;#1: If a given project has multiple coordinates, then the average over these coordinates is taken. #2: In Warszawa 2018, a project was eligible for implementation only if it received at least 10% of all valid votes cast in the given district or subarea. Therefore, the min_project_score_threshold is file-specific.
 PROJECTS
-project_id;cost;votes;name;category;target;selected;latitude;longitude
+project_id;cost;votes;name;category;beneficiaries;selected;latitude;longitude
 278;60984;208;Zewnętrzny monitoring Zespołu Szkół nr 116;sport,public space,education;;1;;
 280;63500;202;Przyszkolne parkingi rowerowe w ZS nr 116;sport,public space,education;youth,children;1;;
 1572;14100;78;Sprzątam po swoim psie;urban greenery,environmental protection;animals,families with children,adults;0;52.2177041934215;21.1397552490234
