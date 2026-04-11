@@ -8,7 +8,7 @@ num_projects;14
 num_votes;84
 budget;100000
 vote_type;approval
-rule;equalshares
+rule;equalshares/add1
 date_begin;31.03.2024
 date_end;15.04.2024
 min_length;2
@@ -16,21 +16,21 @@ language;nl
 currency;EUR
 comment;#1: Young people between the ages of 12 and 27 could vote
 PROJECTS
-project_id;cost;votes;name;description
-3;7200;43;PopUp Podium;12x per jaar zal er een PopUp Podium opduiken in de stad
-9;21000;42;Jongerenplatform;Begrip streeft ernaar een centraal platform te creëren voor
-8;40000;25;Crossbaan in Peelo;Een baan in Peelo waar je kunt steppen, skaten, fietsen en
-2;10000;24;Go-Zero kroegentocht;Jongeren kunnen hun eigen muzieksmaak ontdekken
-11;15000;24;Muziekproductie studio;Studio waar elektronische muziek geproduceerd kan
-1;40000;23;Scooter Night Ride;Tijdens de TT Assen voor jongeren tussen de 17 en 22 jaar
-13;1000;21;Samen koken en eten;Onder jongeren is er behoefte om nieuwe mensen te
-10;50000;19;Synthetische lichten;Hoe mooi en romantisch zou het zijn om sterren te hebben
-14;5000;14;In gesprek;Op school leer je wel wiskunde en nederlands maar wie
-5;5000;13;LGBTQ+ bijeenkomsten;Leuke en gezellige bijeenkomsten voor LGBTQ+ jeugdigen
-6;11000;10;Snelheidsregeling;Een fatbike-apparaat voor snelheidsregeling voor de
-7;12000;10;RuBox;Een opvallend vormgegeven QR-code voor een 'glazen
-12;1500;9;Uitdelen Korans;Ik wil graag de dialoog aangaan met mensen uit Assen
-4;30000;8;Gedichtenroute;Een route door de stad Assen aan de hand van gedichten
+project_id;cost;votes;name;selected;description
+3;7200;43;PopUp Podium;1;12x per jaar zal er een PopUp Podium opduiken in de stad
+9;21000;42;Jongerenplatform;1;Begrip streeft ernaar een centraal platform te creëren voor
+8;40000;25;Crossbaan in Peelo;0;Een baan in Peelo waar je kunt steppen, skaten, fietsen en
+2;10000;24;Go-Zero kroegentocht;1;Jongeren kunnen hun eigen muzieksmaak ontdekken
+11;15000;24;Muziekproductie studio;1;Studio waar elektronische muziek geproduceerd kan
+1;40000;23;Scooter Night Ride;0;Tijdens de TT Assen voor jongeren tussen de 17 en 22 jaar
+13;1000;21;Samen koken en eten;1;Onder jongeren is er behoefte om nieuwe mensen te
+10;50000;19;Synthetische lichten;0;Hoe mooi en romantisch zou het zijn om sterren te hebben
+14;5000;14;In gesprek;1;Op school leer je wel wiskunde en nederlands maar wie
+5;5000;13;LGBTQ+ bijeenkomsten;1;Leuke en gezellige bijeenkomsten voor LGBTQ+ jeugdigen
+6;11000;10;Snelheidsregeling;1;Een fatbike-apparaat voor snelheidsregeling voor de
+7;12000;10;RuBox;0;Een opvallend vormgegeven QR-code voor een 'glazen
+12;1500;9;Uitdelen Korans;1;Ik wil graag de dialoog aangaan met mensen uit Assen
+4;30000;8;Gedichtenroute;0;Een route door de stad Assen aan de hand van gedichten
 VOTES
 voter_id;vote
 vote01006bcf-62b6-435d-a0de-2966c3e75249;1,2,6,9,13
