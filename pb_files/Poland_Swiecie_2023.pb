@@ -13,29 +13,29 @@ date_begin;18.09.2023
 date_end;25.09.2023
 currency;PLN
 PROJECTS
-project_id;cost;votes;name
-c1;68000;380;Bezpieczny Strażak- zakup ubrań specjalnych dla OSP Gruczno
-c2;40000;435;Dron z kamerą termowizyjną dla Gminy Świecie
-c3;20000;434;Zakup sprzętu do ratownictwa wodnego dla OSP Ratownik
-c4;80000;314;Street Workout Park w Kozłowie
-c5;34000;177;Remont schodów wymiana drzwi wewnętrznych malowanie korytarza zainstalowanie oświetlenia zaślepienie gzymsów w budynku Sali Wiejskiej w Kosowie
-c6;106788;119;Kapitalny remont pomieszczeń sanitarnych i hallu oraz pomieszczeń magazynowych
-c7;30000;285;Szlak murali ARCHITEKCI NASZEJ CODZIENNOŚCI
-c8;413000;623;Naprawa i modernizacja pomostu nad Jeziorem Deczno
-c9;55000;391;Zielone i przyjazne Przechowo (zagospodarowanie skweru przy rondzie i szkole podstawowej)
-c10;39000;610;Sterylizacja suk z terenów wiejskich
-c11;37387;308;Miej serce- ratuj serce!
-c12;150000;1030;Modernizacja kojców w schronisku dla zwierząt w celu poprawy warunków psów tam przebywających
-c13;45000;364;Rozwój mediów/telewizji klubowej KS WDA Świecie
-c14;28550;92;Strategia wsparcia rodzin przeżywających trudności po doświadczeniach związanych z pandemią
-c15;80000;272;Aktywnie w szkole aktywnie po szkole Aranżacja przestrzeni przed budynkiem Szkoły Podstawowej w Terespolu Pomorskim
-c16;150000;279;Więcej parku w przyszpitalnych terenach zielonych
-c17;39000;139;Wykonanie drewnianej altany wolnostojącej z dachem dwuspadowym wraz z wyłożeniem terenu polbrukiem oraz zakup mebli ogrodowych
-c18;25000;119;Wydanie albumu książkowego ŚWIECKA SZTUKA
-c19;36500;190;Modernizacja wejścia do świetlicy wiejskiej w Topolinku
-c20;21900;531;Zakup sprzętu szkoleniowego dla OSP w Świeciu- Przechowo
-c21;291000;501;Zakup samochodu pożarniczego (operacyjnego) 9-cio osobowego
-c22;482037;375;Modernizacja ciągów komunikacyjnych na terenie Klubu Sportowego WDA Świecie
+project_id;cost;votes;name;selected
+c1;68000;380;Bezpieczny Strażak- zakup ubrań specjalnych dla OSP Gruczno;1
+c2;40000;435;Dron z kamerą termowizyjną dla Gminy Świecie;1
+c3;20000;434;Zakup sprzętu do ratownictwa wodnego dla OSP Ratownik;1
+c4;80000;314;Street Workout Park w Kozłowie;1
+c5;34000;177;Remont schodów wymiana drzwi wewnętrznych malowanie korytarza zainstalowanie oświetlenia zaślepienie gzymsów w budynku Sali Wiejskiej w Kosowie;1
+c6;106788;119;Kapitalny remont pomieszczeń sanitarnych i hallu oraz pomieszczeń magazynowych;0
+c7;30000;285;Szlak murali ARCHITEKCI NASZEJ CODZIENNOŚCI;1
+c8;413000;623;Naprawa i modernizacja pomostu nad Jeziorem Deczno;0
+c9;55000;391;Zielone i przyjazne Przechowo (zagospodarowanie skweru przy rondzie i szkole podstawowej);1
+c10;39000;610;Sterylizacja suk z terenów wiejskich;1
+c11;37387;308;Miej serce- ratuj serce!;1
+c12;150000;1030;Modernizacja kojców w schronisku dla zwierząt w celu poprawy warunków psów tam przebywających;1
+c13;45000;364;Rozwój mediów/telewizji klubowej KS WDA Świecie;1
+c14;28550;92;Strategia wsparcia rodzin przeżywających trudności po doświadczeniach związanych z pandemią;1
+c15;80000;272;Aktywnie w szkole aktywnie po szkole Aranżacja przestrzeni przed budynkiem Szkoły Podstawowej w Terespolu Pomorskim;0
+c16;150000;279;Więcej parku w przyszpitalnych terenach zielonych;0
+c17;39000;139;Wykonanie drewnianej altany wolnostojącej z dachem dwuspadowym wraz z wyłożeniem terenu polbrukiem oraz zakup mebli ogrodowych;1
+c18;25000;119;Wydanie albumu książkowego ŚWIECKA SZTUKA;1
+c19;36500;190;Modernizacja wejścia do świetlicy wiejskiej w Topolinku;1
+c20;21900;531;Zakup sprzętu szkoleniowego dla OSP w Świeciu- Przechowo;1
+c21;291000;501;Zakup samochodu pożarniczego (operacyjnego) 9-cio osobowego;1
+c22;482037;375;Modernizacja ciągów komunikacyjnych na terenie Klubu Sportowego WDA Świecie;0
 VOTES
 voter_id;vote
 v1;c1,c2,c11,c21,c20
