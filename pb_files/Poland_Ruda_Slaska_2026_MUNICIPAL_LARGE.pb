@@ -9,7 +9,7 @@ num_projects;10
 num_votes;12797
 budget;1681585
 vote_type;ordinal
-rule;greedy-threshold
+rule;greedy-exclusive
 date_begin;08.09.2025
 date_end;21.09.2025
 min_length;1
