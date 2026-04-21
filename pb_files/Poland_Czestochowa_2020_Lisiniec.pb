@@ -18,7 +18,7 @@ max_sum_points;10
 edition;6
 language;pl
 currency;PLN
-comment;#1: This is not the original data. Some voters (around 0.5%) were removed due to the ambiguity.
+comment;#1: This is not the original data. Some ballot indications (about 1.9% citywide) were removed because the raw voting file was not fully consistent with the official project-level results. The published winners and project-level results are preserved, but the ballot data is not exactly the same as in the original file.
 PROJECTS
 project_id;cost;votes;score;name
 228;368000;124;1078;Przebudowa chodnika przy ul. Poznańskiej na odcinku od ul. Szczecińskiej do ul. Lwowskiej
