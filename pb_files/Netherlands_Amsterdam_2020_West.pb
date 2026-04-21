@@ -17,7 +17,7 @@ min_length;2
 max_sum_cost;300000
 language;nl
 currency;EUR
-comment;#1: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #2: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 PROJECTS
 project_id;cost;votes;name;category;selected
 37827;25000;6688;Bloemperken aanleggen in de Willem de Zwijgerlaan voor meer bijen;Groen en Duurzaam;1

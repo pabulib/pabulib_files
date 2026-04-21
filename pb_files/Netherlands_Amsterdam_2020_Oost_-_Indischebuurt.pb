@@ -17,7 +17,7 @@ min_project_cost;5000
 categories;Klimaat en duurzaamheid,Meer groen,Minder zwerfvuil en grofvuil,Armoede en schulden,Kindvriendelijke buurt
 language;nl
 currency;EUR
-comment;#1: The max_sum_cost_per_category is an upper bound per vote on the sum cost of approved projects within each category. It is unclear whether the voting rule is also required to respect this budget per category. #2: The min_project_cost is a requirement on projects to have some minimum cost. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The max_sum_cost_per_category is an upper bound per vote on the sum cost of approved projects within each category. It is unclear whether the voting rule is also required to respect this budget per category. #2: The min_project_cost is a requirement on projects to have some minimum cost. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #4: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 min_length_per_category;0
 max_sum_cost_per_category;42181,47634,37654,40432,32099
 PROJECTS

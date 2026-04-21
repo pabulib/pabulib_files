@@ -17,7 +17,7 @@ min_length;3
 max_length;5
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;category;selected
@@ -26,12 +26,12 @@ project_id;cost;votes;name;category;selected
 44442;125000;816;Sierkwartier in het vizier!;Openbare ruimte;1
 44449;30000;805;Bootcamp toestellen;Openbare ruimte;1
 44422;17000;786;BuurtBakkerij Slotervaart;Openbare ruimte;1
-44453;40000;775;Welkom in Amsterdam - Graffiti Art doorgang;Cultuur;0
+44453;40000;775;Welkom in Amsterdam - Graffiti Art doorgang;Cultuur;2
 44440;35000;734;Vernieuwing skatepark Sloterplas;Openbare ruimte;0
-44437;5000;663;AED gebied Oostoever;Overig;1
+44437;5000;663;AED gebied Oostoever;Overig;0
 44433;20000;600;Een inspirerend kunstwerk aan het Sierplein;Cultuur;0
 44447;20000;591;Bloem- en plantenbakken op de Comeniusstraat;Groen;0
-44430;15000;574;Vergroenen van het Koningin Wilhelminaplein;Groen;1
+44430;15000;574;Vergroenen van het Koningin Wilhelminaplein;Groen;0
 44451;5865;573;Een AED centraal in de wijk;Openbare ruimte;0
 44452;12000;560;Kinderen leren over duurzaamheid en circulariteit;Overig;0
 44428;15000;551;Regenboog voetpad in Slotervaart Zuid;Openbare ruimte;0

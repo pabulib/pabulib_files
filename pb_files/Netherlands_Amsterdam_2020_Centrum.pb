@@ -17,7 +17,7 @@ max_sum_cost;500000
 neighborhoods;Oostelijke Eilanden,Haarlemmerhouttuinen,Other
 language;nl
 currency;EUR
-comment;#1: The budget_per_neighbourhood is an upper bound on the sum cost of projects within a neighbourhood selected by the voting rule. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The budget_per_neighbourhood is an upper bound on the sum cost of projects within a neighbourhood selected by the voting rule. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 budget_per_neighborhood;150000,100000,250000
 PROJECTS
 project_id;cost;votes;name;category;selected;neighborhood

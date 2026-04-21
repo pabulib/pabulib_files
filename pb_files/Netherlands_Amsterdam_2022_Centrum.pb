@@ -16,7 +16,7 @@ date_end;2022
 max_sum_cost;450000
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Two plans tied for the last project to be funded. Additional municipal funds were used to fund both projects. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Two plans tied for the last project to be funded. Additional municipal funds were used to fund both projects. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #4: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Partially fund one additional project with highest score
 PROJECTS
 project_id;cost;votes;name;category;selected

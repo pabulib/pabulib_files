@@ -16,7 +16,7 @@ date_end;2021
 max_sum_cost;100000
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;category;selected
@@ -27,7 +27,7 @@ project_id;cost;votes;name;category;selected
 41516;20000;130;Vervangen speelpleintjes Smaragdplein/ Straat;Straten groen en pleinen;0
 41511;28500;96;Groene en kleurrijke Robijn/Tolstraat;Straten groen en pleinen;0
 41522;7000;91;Een Iftar, een Buurtfeest en een Kerstmaaltijd;Samen dingen doen;1
-41519;8250;87;Muzikale edelstenen van de Diamantbuurt;Samen dingen doen;0
+41519;8250;87;Muzikale edelstenen van de Diamantbuurt;Samen dingen doen;2
 41512;38000;87;Bostuin en Natuurspeelplaats voor peuters.;Straten groen en pleinen;0
 41513;20000;86;Welkomende entree Diamantbuurt: mooie muurtekening & opknappen tunnel;Straten groen en pleinen;0
 41517;15000;57;Opvrolijken van het Smaragdplein tunneltje;Straten groen en pleinen;0

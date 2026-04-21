@@ -16,7 +16,7 @@ date_end;2022
 max_sum_cost;100000
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Projects 42195 and 42190 had no cost specified in the original data: they were free (cost 0). To keep data consistent and not to have 0-cost projects (may cause problems when processing data) we set their costs to an artificial value of 1. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Projects 42195 and 42190 had no cost specified in the original data: they were free (cost 0). To keep data consistent and not to have 0-cost projects (may cause problems when processing data) we set their costs to an artificial value of 1. #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #4: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;selected

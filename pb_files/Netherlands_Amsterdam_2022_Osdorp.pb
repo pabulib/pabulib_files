@@ -17,7 +17,7 @@ min_length;3
 max_length;5
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Voter 18546706357 voted only for two projects (44405,44417) instead of three, therefore this vote was deleted to be consistent with vote length (min 3). #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: Voter 18546706357 voted only for two projects (44405,44417) instead of three, therefore this vote was deleted to be consistent with vote length (min 3). #3: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #4: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;category;selected
@@ -28,12 +28,12 @@ project_id;cost;votes;name;category;selected
 44402;24000;695;De schoonste straat van Osdorp;Openbare ruimte;1
 44406;10000;694;Ontmoet elkaar in het groen!;Groen;1
 44410;17020;655;Kinderen spelenderwijs leren voor natuur te zorgen;Sociaal;1
-44407;48310;611;Recyclingbank;Overig;0
+44407;48310;611;Recyclingbank;Overig;2
 44400;61070;560;Nieuw-West buurtfestival XXL;Cultuur;0
-44397;7000;432;Opzetten vrijwilligers platform voor Osdorp;Sociaal;1
-44403;8000;409;Positieve Street Art op stroomkastjes in de Osdorp;Openbare ruimte;1
-44399;18500;351;Street-art op de Ossestal in de Wildemanbuurt;Openbare ruimte;1
-44401;13000;349;Back2School Block Party 2023;Sociaal;1
+44397;7000;432;Opzetten vrijwilligers platform voor Osdorp;Sociaal;0
+44403;8000;409;Positieve Street Art op stroomkastjes in de Osdorp;Openbare ruimte;0
+44399;18500;351;Street-art op de Ossestal in de Wildemanbuurt;Openbare ruimte;0
+44401;13000;349;Back2School Block Party 2023;Sociaal;0
 44414;6400;294;Workshops voor een gezonde, veilige & harmonieuze buurt;Sociaal;0
 44409;5000;280;Culturele muziekoptredens op straat;Cultuur;0
 44419;7000;277;Buurtwandeling door de Lutkemeerpolder;Sociaal;0

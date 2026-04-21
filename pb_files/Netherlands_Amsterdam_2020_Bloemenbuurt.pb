@@ -17,7 +17,7 @@ max_sum_cost;250000
 categories;Jeugd,Groen,Ontmoeting
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The budget_per_category is an upper bound on the sum cost of projects within a category selected by the voting rule. #3: All internet votes and all paper votes were weighted such that both groups accounted for 50% of the outcome. No data is available on which voting method was used per vote. #4: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The budget_per_category is an upper bound on the sum cost of projects within a category selected by the voting rule. #3: All internet votes and all paper votes were weighted such that both groups accounted for 50% of the outcome. No data is available on which voting method was used per vote. #4: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #5: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 budget_per_category;82000,53000,115000
 PROJECTS

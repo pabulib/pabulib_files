@@ -17,7 +17,7 @@ min_length;3
 max_length;5
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;category;selected
@@ -28,7 +28,7 @@ project_id;cost;votes;name;category;selected
 44458;14000;889;Vergroening Akersluis;Groen;1
 44264;13350;862;Eenzaamheidsbestrijding bijeenkomsten;Sociaal;1
 44270;15000;798;Omheind gebied voor loslopende honden;Openbare ruimte;1
-44257;100000;794;Calisthenicspark in Kasterleepark Nieuw-Sloten;Openbare ruimte;0
+44257;100000;794;Calisthenicspark in Kasterleepark Nieuw-Sloten;Openbare ruimte;2
 44258;5624;778;Stimuleren bewegen kinderen Nieuw-Sloten;Overig;1
 44253;5000;682;Vergroening parkeerplaatsen Zuiderakerweg;Groen;1
 44269;8000;654;Positieve Street Art op stroomkastjes DASNS;Openbare ruimte;1
@@ -39,7 +39,7 @@ project_id;cost;votes;name;category;selected
 44265;50000;498;Vernieuwing speeltuin Zichemplein;Openbare ruimte;0
 44256;7000;456;Groot schaakbord op Ecuplein;Openbare ruimte;0
 44268;6600;392;Geef straten een gezicht in de Aker;Cultuur;0
-44262;2500;289;Voetbal doelpalen voor het Corfuplantsoen;Openbare ruimte;1
+44262;2500;289;Voetbal doelpalen voor het Corfuplantsoen;Openbare ruimte;0
 VOTES
 voter_id;vote
 12078150179;44253,44259,44261,44266,44270

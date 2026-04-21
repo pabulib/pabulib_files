@@ -17,7 +17,7 @@ min_length;3
 max_length;5
 language;nl
 currency;EUR
-comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The leftover_budget entry indicates how leftover budget is spent. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 leftover_budget;Fund additional projects that fit within leftover budget ordered by score
 PROJECTS
 project_id;cost;votes;name;category;selected
@@ -27,10 +27,10 @@ project_id;cost;votes;name;category;selected
 44375;72000;597;Make-over speeltuin Confucius;Openbare ruimte;1
 44383;75000;550;Waterfonteintjes/bedriegertjes Lambertus Zijlplein;Openbare ruimte;1
 44376;30000;533;Containertuintjes Noordzijde;Openbare ruimte;1
-44361;30000;522;Stichting Kumbet tegen eenzaamheid ouderen;Sociaal;0
+44361;30000;522;Stichting Kumbet tegen eenzaamheid ouderen;Sociaal;2
 44369;100000;468;Een inclusieve speeltuin voor alle kinderen;Openbare ruimte;0
 44358;23000;410;Corona-achterstanden wegwerken in het onderwijs;Sociaal;0
-44384;11500;402;Allerhande markt;Openbare ruimte;1
+44384;11500;402;Allerhande markt;Openbare ruimte;0
 44371;6000;386;Kofferbakmarkt in Geuzenveld, Slotermeer;Cultuur;0
 44355;7000;375;Gerecyclede tanks voor regenopvang;Groen;0
 44382;40000;338;20 jaar West Beach (film) festival;Cultuur;0
@@ -42,7 +42,7 @@ project_id;cost;votes;name;category;selected
 44372;10000;294;Een kas om plantjes weg te geven in volkstuinpark de Bretten;Groen;0
 44391;50000;291;Sociale Spreekuren;Sociaal;0
 44354;35000;286;Sport is beter;Sociaal;0
-44377;5000;280;Repairshop voor rollators en invalidekarretjes;Overig;1
+44377;5000;280;Repairshop voor rollators en invalidekarretjes;Overig;0
 44392;8460;274;Activiteiten voor eenzame vrouwen Nieuw-West;Sociaal;0
 44359;6700;274;Meiden van Nieuw-West in hun kracht;Sociaal;0
 44387;65467;249;Een saunadagje voor een goede daad;Openbare ruimte;0

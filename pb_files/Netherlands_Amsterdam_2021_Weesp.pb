@@ -18,7 +18,7 @@ max_length;5
 max_project_cost;10000
 language;nl
 currency;EUR
-comment;#1: The max_project_cost is a requirement on projects to have some maximum cost. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget.
+comment;#1: The max_project_cost is a requirement on projects to have some maximum cost. #2: The selected column follows the official Amsterdam outcome, selected=2 marks plans funded partially or with additional municipal funds outside the regular budget. #3: The rule is marked greedy-custom because Amsterdam follows the official outcome, while the standard greedy check would keep filling leftover budget with lower-ranked affordable projects after a higher-ranked project does not fit.
 PROJECTS
 project_id;cost;votes;name;selected
 41293;6000;2753;Minder tegels meer groen!;1
