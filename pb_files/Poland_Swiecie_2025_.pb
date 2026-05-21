@@ -11,6 +11,7 @@ vote_type;approval
 rule;equalshares/add1
 date_begin;23.09.2024
 date_end;27.09.2024
+edition;10
 currency;PLN
 PROJECTS
 project_id;cost;votes;name;selected

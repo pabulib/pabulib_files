@@ -11,6 +11,7 @@ vote_type;approval
 rule;equalshares/add1
 date_begin;18.09.2023
 date_end;25.09.2023
+edition;9
 currency;PLN
 PROJECTS
 project_id;cost;votes;name;selected
@@ -22,7 +23,7 @@ c5;34000;177;Remont schodów, wymiana drzwi wewnętrznych, malowanie korytarza, 
 c6;106788;119;Kapitalny remont pomieszczeń sanitarnych i hallu oraz pomieszczeń magazynowych;0
 c7;30000;285;Szlak murali ARCHITEKCI NASZEJ CODZIENNOŚCI;1
 c8;413000;623;Naprawa i modernizacja pomostu nad Jeziorem Deczno;0
-c9;55000;391;Zielone i przyjazne Przechowo (zagospodarowanie skweru przy rondzie i szkole podstawowej);1
+c9;55000;391;Zielone i przyjazne Przechowo (zagospodarowanie skweru przy rondzie i szkole podstawowej;1
 c10;39000;610;Sterylizacja suk z terenów wiejskich;1
 c11;37387;308;Miej serce- ratuj serce;1
 c12;150000;1030;Modernizacja kojców w schronisku dla zwierząt w celu poprawy warunków psów tam przebywających;1
