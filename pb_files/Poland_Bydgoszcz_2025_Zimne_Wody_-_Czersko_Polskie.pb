@@ -1,0 +1,55 @@
+META
+key;value
+description;District PB in Bydgoszcz, Zimne Wody - Czersko Polskie
+country;Poland
+unit;Bydgoszcz
+district;Zimne Wody - Czersko Polskie
+subunit;Zimne Wody - Czersko Polskie
+instance;2025
+num_projects;1
+num_votes;28
+budget;260154
+vote_type;choose-1
+rule;greedy-no-skip
+date_begin;03.11.2025
+date_end;30.11.2025
+min_length;1
+max_length;1
+min_project_score_threshold;30
+edition;13
+language;pl
+currency;PLN
+fully_funded;1
+PROJECTS
+project_id;cost;votes;name;selected
+156;130077;28;Chodnik ul. Równa;0
+VOTES
+voter_id;vote;age;sex;voting_method
+0b7b35d;156;68;M;internet
+0e29267;156;71;M;internet
+1a38df7;156;64;F;internet
+3c1f1c9;156;53;M;internet
+3e004f2;156;43;M;internet
+4a1959d;156;75;F;internet
+5f6a5cc;156;35;M;internet
+8fd47fe;156;28;F;internet
+9a72f12;156;45;M;internet
+69e2718;156;76;F;internet
+70c1554;156;26;M;internet
+185a966;156;32;F;internet
+504a5d3;156;73;M;internet
+895d60c;156;60;F;internet
+4919eb1;156;46;F;internet
+9079a41;156;49;M;internet
+107380f;156;74;F;internet
+2298975;156;64;F;internet
+7865778;156;74;M;internet
+9429510;156;68;F;internet
+b9feef1;156;74;F;internet
+c0c15d7;156;45;F;internet
+c40a4a6;156;51;F;internet
+e88ad45;156;27;F;internet
+f0cf023;156;19;;internet
+f4cff01;156;51;M;internet
+f94f634;156;60;M;internet
+ffc2795;156;62;F;internet
